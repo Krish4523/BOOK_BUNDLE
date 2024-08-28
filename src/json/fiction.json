@@ -1,0 +1,3419 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 388,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "BtdB2CcXazEC",
+			"etag": "lJcApZlR4hE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/BtdB2CcXazEC",
+			"volumeInfo": {
+				"title": "Why We Read Fiction",
+				"subtitle": "Theory of Mind and the Novel",
+				"authors": [
+					"Lisa Zunshine"
+				],
+				"publisher": "Ohio State University Press",
+				"publishedDate": "2006",
+				"description": "Why We Read Fiction offers a lucid overview of the most exciting area of research in contemporary cognitive psychology known as \"Theory of Mind\" and discusses its implications for literary studies. It covers a broad range of fictional narratives, from Richardson s Clarissa, Dostoyevski's Crime and Punishment, and Austen s Pride and Prejudice to Woolf's Mrs. Dalloway, Nabokov's Lolita, and Hammett s The Maltese Falcon. Zunshine's surprising new interpretations of well-known literary texts and popular cultural representations constantly prod her readers to rethink their own interest in fictional narrative. Written for a general audience, this study provides a jargon-free introduction to the rapidly growing interdisciplinary field known as cognitive approaches to literature and culture.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780814210284"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0814210287"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 210,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"averageRating": 3,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.2.4.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=BtdB2CcXazEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=BtdB2CcXazEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=BtdB2CcXazEC&printsec=frontcover&dq=subject:science+fiction&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=BtdB2CcXazEC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Read_Fiction.html?hl=&id=BtdB2CcXazEC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Why_We_Read_Fiction-sample-epub.acsm?id=BtdB2CcXazEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Why_We_Read_Fiction-sample-pdf.acsm?id=BtdB2CcXazEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=BtdB2CcXazEC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "rzV_CgAAQBAJ",
+			"etag": "gw3WGxkg/CU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/rzV_CgAAQBAJ",
+			"volumeInfo": {
+				"title": "Dreams Must Explain Themselves",
+				"subtitle": "The Selected Non-Fiction of Ursula K. Le Guin",
+				"authors": [
+					"Ursula K. Le Guin"
+				],
+				"publisher": "Hachette UK",
+				"publishedDate": "2018-02-01",
+				"description": "'By turns sharp, funny and insightful, high-minded but never mean-spirited, the book embodies its author's lifelong quest for freedom: freedom as a woman, freedom to write what she pleased, freedom to like what she liked. Genre fiction - and literature in general - has lost not just one of its brightest exponents but one of its bolshiest champions.' FINANCIAL TIMES 'Excellent' CHOICE 'Le Guin is one of the singular speculative voices of our future, thanks to her knack for anticipating issues of seminal importance to society' TLS Ursula K. Le Guin has won or been nominated for over 200 awards for her fiction, including the Hugo, Nebula, World Fantasy and SFWA Grand Master Awards. She is the acclaimed author of the Earthsea sequence and The Left Hand of Darkness - which alone would qualify her for literary immortality - as well as a remarkable body of short fiction, including the powerful, Hugo-winning 'The Ones Who Walk Away from Omelas' and the masterpiece of anthropological and environmental SF 'The Word for World is Forest' - winner of the Hugo Award for best novella. But Ursula Le Guin's talents do not stop at fiction. Over the course of her extraordinary career, she has penned numerous essays around themes important to her: anthropology, environmentalism, feminism, social justice and literary criticism to name a few. She has responded in detail to criticism of her own work and even reassessed that work in the context of such critiques. This selection of the best of Le Guin's non-fiction shows an agile mind, an unparalleled imagination and a ferocious passion to argue against injustice. In 2014 Ursula Le Guin was awarded the National Book Foundation's Medal for Distinguished Contribution to American Letters, and her widely praised acceptance speech is one of the highlights of this volume, which shows that one of modern literature's most original voices is also one of its purest consciences.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781473205956"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1473205956"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 400,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.2.3.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=rzV_CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=rzV_CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=rzV_CgAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=2&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=rzV_CgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=rzV_CgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 890.9,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 445.45,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=rzV_CgAAQBAJ&rdid=book-rzV_CgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 890900000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 445450000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Dreams_Must_Explain_Themselves-sample-epub.acsm?id=rzV_CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=rzV_CgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "zQnzEAAAQBAJ",
+			"etag": "qUh803XNyLk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/zQnzEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Climatic - A Climate and Genetic Engineering Science Fiction Novel",
+				"authors": [
+					"Blade Cort"
+				],
+				"publisher": "Blade Cort",
+				"publishedDate": "2024-02-22",
+				"description": "In the restless heart of Austin, Texas, where suffocating heat darkly complements the stifling societal pressures of 2034, Rose Rulapaugh—besieged by life's harsh realities—struggles to find her place. Shattered dreams line her path: a high school pregnancy ending in tragedy and a promising education never pursued. Jobless, languishing, and living in the family's rented duplex the last five years, the burdens are multiplying. Her mom's medical condition is deteriorating, and her younger brother Jack is tripping down the father's path of irresponsibility. A hurricane sets off local tornados, destroying the duplex and swamping Austin with millions of coastal immigrants. Rose is forced to quickly find shelter for her and her dog. By a stroke of luck, she encounters Tyren, a genetic engineering postdoc student working a secret project. Tyren provides lodging in his converted garage while promising to help Rose achieve her dream of genetically resurrecting an ancient Shasta Ground Sloth. Rose's native skepticism is on high alert. Nothing could be that easy. She wonders if Tyren's generosity is from the heart, or if he's expecting 'recompense' that she's unable to provide given her difficult past and restrictive reproductive laws. As she expects, every silver lining has its clouds. Dr. Amy Lee, Tyren's boss, offers her a no-questions-asked job at a genetics company. She then chastises Rose for exposing critical projects and potentially releasing virulent pathogens. And, despite Rose's best efforts to avoid it, she and Tyren might be getting closer. Too close. Can Rose find meaning and purpose as she navigates her existential future in a city bursting at the seams from global warming? Will she be forced to choose between succumbing to life's relentless grind or embarking on a transformative quest for personal identity, agency, and even redemption?",
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 272,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.7.7.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=zQnzEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=zQnzEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=zQnzEAAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=3&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=zQnzEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=zQnzEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 0,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 0,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=zQnzEAAAQBAJ&rdid=book-zQnzEAAAQBAJ&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=zQnzEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "2WRZFwoGe6sC",
+			"etag": "Shh/um2khLA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/2WRZFwoGe6sC",
+			"volumeInfo": {
+				"title": "From Science Fiction to Science Facts",
+				"subtitle": "Companion Study Guide to the Science-Fiction Novel Accused by Facet-Eyes",
+				"authors": [
+					"C. B. Don"
+				],
+				"publishedDate": "2005-07",
+				"description": "\"FROM SCIENCE FICTION TO SCIENCE FACTS\" is the non-fiction companion study guide to the fantastic science-fiction novel, \"Accused By Facet-Eyes\". It is a unique teaching/learning approach, which pairs literary entertainment with fascinating life science facts. Academic enrichment for nature-loving readers, middle-, high-school and college students. Intended for mainstream, supplementary and home schooling education. Readers will learn why honeybees are endangered worldwide; their pivotal role in pollination and will better appreciate the essential, mutual interdependence with humankind. Eye-opening life science facts point out important interactions of biology, chemistry and physics with contemporary issues in ecology and human-induced environmental hazards from a global, social perspective. \"From Science Fiction To Science Facts\" is a great time-saver for busy educators. Over 400 easily accessed references support the science facts; an overview of the science topics shows their relevance to the National Science Education Standards categories; the analytical format and discussion questions encourage critical thought and debates; C.B. Don's original, captivating photographs bring foraging honeybees on garden flowers to life!",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0967008484"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780967008486"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 142,
+				"printType": "BOOK",
+				"categories": [
+					"Education"
+				],
+				"averageRating": 1,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.11.7.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=2WRZFwoGe6sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=2WRZFwoGe6sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=2WRZFwoGe6sC&pg=PA11&dq=subject:science+fiction&hl=&cd=4&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=2WRZFwoGe6sC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/From_Science_Fiction_to_Science_Facts.html?hl=&id=2WRZFwoGe6sC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/From_Science_Fiction_to_Science_Facts-sample-pdf.acsm?id=2WRZFwoGe6sC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=2WRZFwoGe6sC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "KEKNs_FDdCgC",
+			"etag": "g10ybMg5l2U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/KEKNs_FDdCgC",
+			"volumeInfo": {
+				"title": "Nation and Region in Modern American and European Fiction",
+				"authors": [
+					"Thomas O. Beebee"
+				],
+				"publisher": "Purdue University Press",
+				"publishedDate": "2008",
+				"description": "In his book Nation and Region in Modern American and European Fiction, Thomas O. Beebee analyzes fictional texts as a \"discursive territoriality\" that shape readers' notions of (and ambivalence about) national and regional belonging. Several canonical works of literary fiction have provided their readers with verbal maps that in their depictions of boundary spaces construct indirect images of national territory and geography. Beebee analyzes the historical and cultural diversity in Johann Wolfgang von Goethe's, Nikolai Gogol's, and Ivan Turgenev's competing geographies of Russia and its empire, Euclides da Cunha's ambivalent nomination of the sertanejo (backlander) as the \"bedrock of the Brazilian race,\" William Faulkner's and Jose Lins do Rego's cultural memories of the plantation, Jose Maria Arguedas's novelistic ethnogeographies of Andean culture, Juan Benet's construction of region as both metaphor and metonym for Francoist Spain, and the \"utopian\" North American (U.S. and Canada) desert landscapes of Mary Austin, Nicole Brossard, and Joy Harjo.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781557534989"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1557534985"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 213,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=KEKNs_FDdCgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=KEKNs_FDdCgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=KEKNs_FDdCgC&printsec=frontcover&dq=subject:science+fiction&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=KEKNs_FDdCgC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Nation_and_Region_in_Modern_American_and.html?hl=&id=KEKNs_FDdCgC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Nation_and_Region_in_Modern_American_and-sample-epub.acsm?id=KEKNs_FDdCgC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Nation_and_Region_in_Modern_American_and-sample-pdf.acsm?id=KEKNs_FDdCgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=KEKNs_FDdCgC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "AajtCwAAQBAJ",
+			"etag": "SEWaj80XOSo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/AajtCwAAQBAJ",
+			"volumeInfo": {
+				"title": "The History of Science Fiction",
+				"authors": [
+					"A. Roberts"
+				],
+				"publisher": "Springer",
+				"publishedDate": "2005-11-28",
+				"description": "The History of Science Fiction traces the origin and development of science fiction from Ancient Greece up to the present day. The author is both an academic literary critic and acclaimed creative writer of the genre. Written in lively, accessible prose it is specifically designed to bridge the worlds of academic criticism and SF fandom.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780230554658"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0230554652"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 368,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=AajtCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=AajtCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=AajtCwAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=6&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=AajtCwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=AajtCwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 8401.6,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 8401.6,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=AajtCwAAQBAJ&rdid=book-AajtCwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 8401600000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 8401600000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_History_of_Science_Fiction-sample-pdf.acsm?id=AajtCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=AajtCwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "BtdB2CcXazEC",
+			"etag": "zqpeOdI/o1U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/BtdB2CcXazEC",
+			"volumeInfo": {
+				"title": "Why We Read Fiction",
+				"subtitle": "Theory of Mind and the Novel",
+				"authors": [
+					"Lisa Zunshine"
+				],
+				"publisher": "Ohio State University Press",
+				"publishedDate": "2006",
+				"description": "Why We Read Fiction offers a lucid overview of the most exciting area of research in contemporary cognitive psychology known as \"Theory of Mind\" and discusses its implications for literary studies. It covers a broad range of fictional narratives, from Richardson s Clarissa, Dostoyevski's Crime and Punishment, and Austen s Pride and Prejudice to Woolf's Mrs. Dalloway, Nabokov's Lolita, and Hammett s The Maltese Falcon. Zunshine's surprising new interpretations of well-known literary texts and popular cultural representations constantly prod her readers to rethink their own interest in fictional narrative. Written for a general audience, this study provides a jargon-free introduction to the rapidly growing interdisciplinary field known as cognitive approaches to literature and culture.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780814210284"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0814210287"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 210,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"averageRating": 3,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.2.4.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=BtdB2CcXazEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=BtdB2CcXazEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=BtdB2CcXazEC&pg=PA67&dq=subject:science+fiction&hl=&cd=7&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=BtdB2CcXazEC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Why_We_Read_Fiction.html?hl=&id=BtdB2CcXazEC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Why_We_Read_Fiction-sample-epub.acsm?id=BtdB2CcXazEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Why_We_Read_Fiction-sample-pdf.acsm?id=BtdB2CcXazEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=BtdB2CcXazEC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "TX5KCAAAQBAJ",
+			"etag": "+6WVKkWiSW0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/TX5KCAAAQBAJ",
+			"volumeInfo": {
+				"title": "Justice in Young Adult Speculative Fiction",
+				"subtitle": "A Cognitive Reading",
+				"authors": [
+					"Marek C. Oziewicz"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2015-04-17",
+				"description": "This book is the first to offer a justice-focused cognitive reading of modern YA speculative fiction in its narrative and filmic forms. It links the expansion of YA speculative fiction in the 20th century with the emergence of human and civil rights movements, with the communitarian revolution in conceptualizations of justice, and with spectacular advances in cognitive sciences as applied to the examination of narrative fiction. Oziewicz argues that complex ideas such as justice are processed by the human mind as cognitive scripts; that scripts, when narrated, take the form of multiply indexable stories; and that YA speculative fiction is currently the largest conceptual testing ground in the forging of justice consciousness for the 21st century world. Drawing on recent research in the cognitive and evolutionary sciences, Oziewicz explains how poetic, retributive, restorative, environmental, social, and global types of justice have been represented in narrative fiction, from 19th century folk and fairy tales through 21st century fantasy, dystopia, and science fiction. Suggesting that the appeal of these and other nonmimetic genres is largely predicated on the dream of justice, Oziewicz theorizes new justice scripts as conceptual tools essential to help humanity survive the qualitative leap toward an environmentally conscious, culturally diversified global world. This book is an important contribution to studies of children’s and YA speculative fiction, adding a new perspective to discussions about the educational as well as social potential of nonmimetic genres. It demonstrates that the justice imperative is very much alive in YA speculative fiction, creating new visions of justice relevant to contemporary challenges.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781317610816"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1317610814"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 245,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.5.6.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=TX5KCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=TX5KCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=TX5KCAAAQBAJ&pg=PT13&dq=subject:science+fiction&hl=&cd=8&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=TX5KCAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=TX5KCAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=TX5KCAAAQBAJ&rdid=book-TX5KCAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Justice_in_Young_Adult_Speculative_Ficti-sample-epub.acsm?id=TX5KCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Justice_in_Young_Adult_Speculative_Ficti-sample-pdf.acsm?id=TX5KCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=TX5KCAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "3vRLAQAAQBAJ",
+			"etag": "iP5P7VLt2Qw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/3vRLAQAAQBAJ",
+			"volumeInfo": {
+				"title": "Cognitive Value of Philosophical Fiction",
+				"authors": [
+					"Jukka Mikkonen"
+				],
+				"publisher": "A&C Black",
+				"publishedDate": "2013-04-14",
+				"description": "An examination of philosophical truth and knowledge in literary fiction.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781441154002"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1441154000"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 234,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=3vRLAQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=3vRLAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=3vRLAQAAQBAJ&pg=PA24&dq=subject:science+fiction&hl=&cd=9&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=3vRLAQAAQBAJ&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Cognitive_Value_of_Philosophical_Fiction.html?hl=&id=3vRLAQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Cognitive_Value_of_Philosophical_Fiction-sample-pdf.acsm?id=3vRLAQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=3vRLAQAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "_2VEDgAAQBAJ",
+			"etag": "hr2KOxJoaL4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/_2VEDgAAQBAJ",
+			"volumeInfo": {
+				"title": "Science Fiction and Futurism",
+				"subtitle": "Their Terms and Ideas",
+				"authors": [
+					"Ace G. Pilkington"
+				],
+				"publisher": "McFarland",
+				"publishedDate": "2017-03-05",
+				"description": "Science and science fiction have become inseparable--with common stories, interconnected thought experiments, and shared language. This reference book lays out that relationship and its all-but-magical terms and ideas. Those who think seriously about the future are changing the world, reshaping how we speak and how we think. This book fully covers the terms that collected, clarified and crystallized the futurists' ideas, sometimes showing them off, sometimes slowing them down, and sometimes propelling them to fame and making them the common currency of our culture. The many entries in this encyclopedic work offer a guided tour of the vast territories occupied by science fiction and futurism. In his Foreword, David Brin says, \"Provocative and enticing? Filled with 'huh!' moments and leads to great stories? That describes this volume.\"",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781476629551"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1476629552"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 235,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=_2VEDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=_2VEDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=_2VEDgAAQBAJ&pg=PT197&dq=subject:science+fiction&hl=&cd=10&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=_2VEDgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=_2VEDgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2356.24,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2356.24,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=_2VEDgAAQBAJ&rdid=book-_2VEDgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2356240000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2356240000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fiction_and_Futurism-sample-epub.acsm?id=_2VEDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fiction_and_Futurism-sample-pdf.acsm?id=_2VEDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=_2VEDgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "5O6yDwAAQBAJ",
+			"etag": "XgWSUPHzzsQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/5O6yDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Climate Fiction and Cultural Analysis",
+				"subtitle": "A new perspective on life in the anthropocene",
+				"authors": [
+					"Gregers Andersen"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2019-09-25",
+				"description": "Climate Fiction and Cultural Analysis argues that the popularity of the term \"climate fiction\" has paradoxically exhausted the term’s descriptive power and that it has developed into a black box containing all kinds of fictions which depict climatic events and has consequently lost its true significance. Aware of the prospect of ecological collapse as well as our apparent inability to avert it, we face geophysical changes of drastic proportions that severely challenge our ability to imagine the consequences. This book argues that this crisis of imagination can be partly relieved by climate fiction, which may help us comprehend the potential impact of the crisis we are facing. Strictly assigning \"climate fiction\" to fictions that incorporate the climatological paradigm of anthropogenic global warming into their plots, this book sets out to salvage the term’s speculative quality. It argues that climate fiction should be regarded as no less than a vital supplement to climate science, because climate fiction makes visible and conceivable future modes of existence within worlds not only deemed likely by science, but which are scientifically anticipated. Focusing primarily on English and German language fictions, Climate Fiction and Cultural Analysis shows how Western climate fiction sketches various affective and cognitive relations to the world in its utilization of a small number of recurring imaginaries, or imagination forms. This book will be of great interest to students and scholars of ecocriticism, the environmental humanities, and literary and culture studies more generally.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781000710137"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1000710130"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 154,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=5O6yDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=5O6yDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=5O6yDwAAQBAJ&pg=PA5&dq=subject:science+fiction&hl=&cd=11&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=5O6yDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=5O6yDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=5O6yDwAAQBAJ&rdid=book-5O6yDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Climate_Fiction_and_Cultural_Analysis-sample-pdf.acsm?id=5O6yDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=5O6yDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "oCLWEAAAQBAJ",
+			"etag": "M6t5c+bHwoU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/oCLWEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Mutant Narratives in Ecological Science Fiction",
+				"subtitle": "Thinking with Embodied Estrangement",
+				"authors": [
+					"Kaisa Kortekallio"
+				],
+				"publisher": "Bloomsbury Publishing",
+				"publishedDate": "2023-11-16",
+				"description": "Using an innovative multidisciplinary approach which is deeply invested in posthumanist thought, this book demonstrates how reading science fiction shapes the way we engage with lived environments. In dialogue with works by widely studied science fiction authors Greg Bear, N.K. Jemisin, Paolo Bacigalupi, and Jeff VanderMeer, it draws out how they function as mutant narratives. The first to systematically integrate three fields – feminist posthumanism, cognitive narratology, and science fiction studies – it offers a complex and coherent understanding of readerly experience as material, embodied, dynamic, and imaginative. Covering a range of urgent topics, including climate fiction, New Weird fiction, and new phenomenologies of the body, this book is the first to demonstrate how readerly experience acts as a site for ethical and political reorientation in the time of climate change.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781350296770"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1350296775"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 229,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=oCLWEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=oCLWEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=oCLWEAAAQBAJ&pg=PA94&dq=subject:science+fiction&hl=&cd=12&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=oCLWEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=oCLWEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 7971,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 7971,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=oCLWEAAAQBAJ&rdid=book-oCLWEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 7971000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 7971000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Mutant_Narratives_in_Ecological_Science-sample-pdf.acsm?id=oCLWEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=oCLWEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "E8eADQAAQBAJ",
+			"etag": "lUAF5csxZtE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/E8eADQAAQBAJ",
+			"volumeInfo": {
+				"title": "Science Fiction by Scientists",
+				"subtitle": "An Anthology of Short Stories",
+				"authors": [
+					"Michael Brotherton"
+				],
+				"publisher": "Springer",
+				"publishedDate": "2016-11-15",
+				"description": "This anthology contains fourteen intriguing stories by active research scientists and other writers trained in science. Science is at the heart of real science fiction, which is more than just westerns with ray guns or fantasy with spaceships. The people who do science and love science best are scientists. Scientists like Isaac Asimov, Arthur C. Clarke, and Fred Hoyle wrote some of the legendary tales of golden age science fiction. Today there is a new generation of scientists writing science fiction informed with the expertise of their fields, from astrophysics to computer science, biochemistry to rocket science, quantum physics to genetics, speculating about what is possible in our universe. Here lies the sense of wonder only science can deliver. All the stories in this volume are supplemented by afterwords commenting on the science underlying each story.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783319411026"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3319411020"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 214,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=E8eADQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=E8eADQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=E8eADQAAQBAJ&pg=PR2&dq=subject:science+fiction&hl=&cd=13&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=E8eADQAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=E8eADQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2360,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2360,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=E8eADQAAQBAJ&rdid=book-E8eADQAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2360000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2360000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fiction_by_Scientists-sample-epub.acsm?id=E8eADQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fiction_by_Scientists-sample-pdf.acsm?id=E8eADQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=E8eADQAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "hKbMDwAAQBAJ",
+			"etag": "6blwiGCx134",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/hKbMDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Ethical Futures and Global Science Fiction",
+				"authors": [
+					"Zachary Kendal",
+					"Aisling Smith",
+					"Giulia Champion",
+					"Andrew Milner"
+				],
+				"publisher": "Springer Nature",
+				"publishedDate": "2020-01-27",
+				"description": "Ethical Futures and Global Science Fiction explores the ethical concerns and dimensions of representations of the future of global science fiction, focusing on the issues that dominate utopian, dystopian and science fiction literature. The essays examine recent visions of the future in science fiction and re-examine earlier texts through contemporary lenses. Across fourteen chapters, the collection considers authors from Algeria, Australia, Canada, China, Egypt, France, Germany, Haiti, India, Jamaica, Macedonia, Mexico, Russia, South Africa, the UK and USA. The volume delves into a range of ethical questions of immediate contemporary relevance, including environmental ethics, postcolonial ethics, social justice, animal ethics and the ethics of alterity.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783030278939"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "303027893X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 340,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.6.6.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=hKbMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=hKbMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=hKbMDwAAQBAJ&pg=PA25&dq=subject:science+fiction&hl=&cd=14&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=hKbMDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=hKbMDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 7139,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 7139,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=hKbMDwAAQBAJ&rdid=book-hKbMDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 7139000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 7139000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Ethical_Futures_and_Global_Science_Ficti-sample-epub.acsm?id=hKbMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Ethical_Futures_and_Global_Science_Ficti-sample-pdf.acsm?id=hKbMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=hKbMDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "GJO7DwAAQBAJ",
+			"etag": "CEVE5vuT0pk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/GJO7DwAAQBAJ",
+			"volumeInfo": {
+				"title": "Exploring Science Through Science Fiction",
+				"authors": [
+					"Barry B. Luokkala"
+				],
+				"publisher": "Springer Nature",
+				"publishedDate": "2019-11-01",
+				"description": "How does Einstein’s description of space and time compare with Doctor Who? Can James Bond really escape from an armor-plated railroad car by cutting through the floor with a laser concealed in a wristwatch? What would it take to create a fully intelligent android, such as Star Trek’s Commander Data? Exploring Science Through Science Fiction addresses these and other intriguing questions, using science fiction as a springboard for discussing fundamental science concepts and cutting-edge science research. It includes references to original research papers, landmark scientific publications and technical documents, as well as a broad range of science literature at a more popular level. The revised second edition includes expanded discussions on topics such as gravitational waves and black holes, machine learning and quantum computing, gene editing, and more. In all, the second edition now features over 220 references to specific scenes in more than 160 sci-fi movies and TV episodes, spanning over 100 years of cinematic history. Designed as the primary text for a college-level course, this book will appeal to students across the fine arts, humanities, and hard sciences, as well as any reader with an interest in science and science fiction. Praise for the first edition: \"This journey from science fiction to science fact provides an engaging and surprisingly approachable read...\" (Jen Jenkins, Journal of Science Fiction, Vol. 2 (1), September 2017)",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783030293932"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3030293939"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 335,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=GJO7DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=GJO7DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=GJO7DwAAQBAJ&pg=PR3&dq=subject:science+fiction&hl=&cd=15&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=GJO7DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=GJO7DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2525.2,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2525.2,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=GJO7DwAAQBAJ&rdid=book-GJO7DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2525200000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2525200000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Exploring_Science_Through_Science_Fictio-sample-epub.acsm?id=GJO7DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Exploring_Science_Through_Science_Fictio-sample-pdf.acsm?id=GJO7DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=GJO7DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "HnPpEAAAQBAJ",
+			"etag": "oyKNtOMpimI",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/HnPpEAAAQBAJ",
+			"volumeInfo": {
+				"title": "History and Speculative Fiction",
+				"authors": [
+					"John L. Hennessey"
+				],
+				"publisher": "Springer Nature",
+				"publishedDate": "2023-12-14",
+				"description": "This open access book demonstrates that despite different epistemological starting points, history and speculative fiction perform similar work in “making the strange familiar” and “making the familiar strange” by taking their readers on journeys through space and time. Excellent history, like excellent speculative fiction, should cause readers to reconsider crucial aspects of their society that they normally overlook or lead them to reflect on radically different forms of social organization. Drawing on Gunlög Fur’s postcolonial concept of concurrences, and with contributions that explore diverse examples of speculative fiction and historical encounters using a variety of disciplinary approaches, this volume provides new perspectives on colonialism, ecological destruction, the nature of humanity, and how to envision a better future.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783031422355"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "303142235X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 295,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=HnPpEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=HnPpEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=HnPpEAAAQBAJ&pg=PA165&dq=subject:science+fiction&hl=&cd=16&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=HnPpEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=HnPpEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 0,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 0,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=HnPpEAAAQBAJ&rdid=book-HnPpEAAAQBAJ&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/History_and_Speculative_Fiction-sample-epub.acsm?id=HnPpEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/History_and_Speculative_Fiction-sample-pdf.acsm?id=HnPpEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=HnPpEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "HmmCDwAAQBAJ",
+			"etag": "JCGScbT9ti4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/HmmCDwAAQBAJ",
+			"volumeInfo": {
+				"title": "The Science of Science Fiction",
+				"subtitle": "The Influence of Film and Fiction on the Science and Culture of Our Times",
+				"authors": [
+					"Mark Brake"
+				],
+				"publisher": "Simon and Schuster",
+				"publishedDate": "2018-10-02",
+				"description": "We are the first generation to live in a science fiction world. Media headlines declare this the age of automation. The TV talks about the coming revolution of the robot, tweets tell tales of jets that will ferry travelers to the edge of space, and social media reports that the first human to live for a thousand years has already been born. The science we do, the movies we watch, and the culture we consume is the stuff of fiction that became fact, the future imagined in our past—the future we now inhabit. The Science of Science Fiction is the story of how science fiction shaped our world. No longer a subculture, science fiction has moved into the mainstream with the advent of the information age it helped realize. Explore how science fiction has driven science, with topics that include: Guardians of the Galaxy: Is Space Full of Extraterrestrials? Jacking In: Will the Future Be Like Ready Player One? Mad Max: Is Society Running down into Chaos? The Internet: Will Humans Tire of Mere Reality? Blade Runner 2049: When Will We Engineer Human Lookalikes? And many more! This book will open your eyes to the way science fiction helped us dream of things to come, forced us to explore the nature and limits of our own reality, and aided us in building the future we now inhabit.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781510739376"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1510739378"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 228,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.1.1.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=HmmCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=HmmCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=HmmCDwAAQBAJ&pg=PT23&dq=subject:science+fiction&hl=&cd=17&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=HmmCDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=HmmCDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 739.86,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 369.93,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=HmmCDwAAQBAJ&rdid=book-HmmCDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 739860000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 369930000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Science_of_Science_Fiction-sample-epub.acsm?id=HmmCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=HmmCDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "96qGEAAAQBAJ",
+			"etag": "6iRwyfyoMM4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/96qGEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Connie Willis’s Science Fiction",
+				"subtitle": "Doomsday Every Day",
+				"authors": [
+					"Carissa Turner Smith"
+				],
+				"publisher": "Taylor & Francis",
+				"publishedDate": "2022-10-31",
+				"description": "In spite of Connie Willis’s numerous science fiction awards and her groundbreaking history as a woman in the field, there is a surprising dearth of critical publication surrounding her work. Taking Doomsday Book as its cue, this collection argues that Connie Willis’s most famous novel, along with the rest of her oeuvre, performs science fiction’s task of cognitive estrangement by highlighting our human inability to read the times correctly—and yet also affirming the ethical imperative to attempt to truly observe and record our temporal location. Willis’s fiction emphasizes that doomsdays happen every day, and they risk being forgotten by some, even as their trauma repeats for others. However, disasters also have the potential to upend accepted knowledge and transform the social order for the better, and this collection considers the ways that Willis pairs comic and tragic modes to reflect these uncertainties.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781000728453"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1000728455"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 264,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=96qGEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=96qGEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=96qGEAAAQBAJ&pg=PT210&dq=subject:science+fiction&hl=&cd=18&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=96qGEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=96qGEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 4856.89,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 4856.89,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=96qGEAAAQBAJ&rdid=book-96qGEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 4856890000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 4856890000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Connie_Willis_s_Science_Fiction-sample-epub.acsm?id=96qGEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Connie_Willis_s_Science_Fiction-sample-pdf.acsm?id=96qGEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=96qGEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "odxBEAAAQBAJ",
+			"etag": "dPIUNExmuJ4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/odxBEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Biopolitical Futures in Twenty-First-Century Speculative Fiction",
+				"authors": [
+					"Sherryl Vint"
+				],
+				"publisher": "Cambridge University Press",
+				"publishedDate": "2021-10-07",
+				"description": "A theorization of how the bioeconomy and biotechnology remake 'life itself,' creating crises in ethics and governance.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781108839006"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1108839002"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 283,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=odxBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=odxBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=odxBEAAAQBAJ&pg=PA8&dq=subject:science+fiction&hl=&cd=19&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=odxBEAAAQBAJ&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Biopolitical_Futures_in_Twenty_First_Cen.html?hl=&id=odxBEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Biopolitical_Futures_in_Twenty_First_Cen-sample-pdf.acsm?id=odxBEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=odxBEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "F0S-evg5vCkC",
+			"etag": "xrKS9wZ3msM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/F0S-evg5vCkC",
+			"volumeInfo": {
+				"title": "The Philosophy of Science Fiction Film",
+				"authors": [
+					"Steven M. Sanders"
+				],
+				"publisher": "University Press of Kentucky",
+				"publishedDate": "2007-12-14",
+				"description": "Thought-provoking essays on movies from Metropolis to The Matrix. The science fiction genre, through films such as Blade Runner, Invasion of the Body Snatchers, and The Terminator, not only entertains us but makes us think—about the implications of new technologies, the parameters and possibilities of space and time, and, in the age of artificial intelligence and robotics, the meaning of humanity itself. The Philosophy of Science Fiction Film explores the storylines, conflicts, and themes of fifteen science fiction film classics. Editor Steven M. Sanders and a group of outstanding scholars in philosophy, film studies, and other fields raise science fiction film criticism to a new level by penetrating the surfaces of the films to expose the underlying philosophical arguments, ethical perspectives, and metaphysical views.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780813137186"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0813137187"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 370,
+				"printType": "BOOK",
+				"categories": [
+					"Performing Arts"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.9.7.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=F0S-evg5vCkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=F0S-evg5vCkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=F0S-evg5vCkC&pg=PT183&dq=subject:science+fiction&hl=&cd=20&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=F0S-evg5vCkC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=F0S-evg5vCkC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 503.86,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 251.93,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=F0S-evg5vCkC&rdid=book-F0S-evg5vCkC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 503860000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 251930000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=F0S-evg5vCkC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "t0hyGwAACAAJ",
+			"etag": "MPRr8kENK4E",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/t0hyGwAACAAJ",
+			"volumeInfo": {
+				"title": "Babu Fictions",
+				"subtitle": "Alienation in Contemporary Indian English Novels",
+				"authors": [
+					"Tabish Khair"
+				],
+				"publishedDate": "2005",
+				"description": "This book presents readings of contemporary Indian fiction in English, using \"discourse\" and class divisions in \"Babu-Coolie\" terms. It includes analyses of writings by such eminent authors as R. K. Narayan, Raja Rao, V. S. Naipaul, Salman Rushdie, Anita Desai, Amitav Ghosh and others.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0195679032"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780195679038"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 407,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=t0hyGwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=t0hyGwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=t0hyGwAACAAJ&dq=subject:science+fiction&hl=&cd=21&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=t0hyGwAACAAJ&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Babu_Fictions.html?hl=&id=t0hyGwAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=t0hyGwAACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "jEaFIQRDD4EC",
+			"etag": "SnMPs9qM3vc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/jEaFIQRDD4EC",
+			"volumeInfo": {
+				"title": "Studies in the Comic Spirit in Modern Japanese Fiction",
+				"authors": [
+					"Joel Ralph Cohn"
+				],
+				"publisher": "Harvard Univ Asia Center",
+				"publishedDate": "1998",
+				"description": "Unlike traditional Japanese literature, with its rich tradition of comedy, modern Japanese literature is commonly associated with high seriousness. Cohn analyzes works by three writers--Ibuse Masuji (1898-1993), Dazai Osamu (1909-1948), and Inoue Hisashi (1934- )--that assault the notion that comedy cannot be part of serious literature.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0674847113"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780674847118"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 288,
+				"printType": "BOOK",
+				"categories": [
+					"Education"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.4.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=jEaFIQRDD4EC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=jEaFIQRDD4EC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=jEaFIQRDD4EC&pg=PA210&dq=subject:science+fiction&hl=&cd=22&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=jEaFIQRDD4EC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Studies_in_the_Comic_Spirit_in_Modern_Ja.html?hl=&id=jEaFIQRDD4EC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Studies_in_the_Comic_Spirit_in_Modern_Ja-sample-pdf.acsm?id=jEaFIQRDD4EC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=jEaFIQRDD4EC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "6DZbDwAAQBAJ",
+			"etag": "/zt7z2dij6c",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/6DZbDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Psience Fiction",
+				"subtitle": "The Paranormal in Science Fiction Literature",
+				"authors": [
+					"Damien Broderick"
+				],
+				"publisher": "McFarland",
+				"publishedDate": "2018-05-17",
+				"description": "Science fiction has often been considered the literature of futuristic technology: fantastic warfare among the stars or ruinous apocalypses on Earth. The last century, however, saw, through John W. Campbell, the introduction of \"psience fiction,\" which explores such themes of mental powers as telepathy, precognition of the future, teleportation, etc.--and symbolic machines that react to such forces. The author surveys this long-ignored literary shift through a series of influential novels and short stories published between the 1930s and the present. This discussion is framed by the sudden surge of interest in parapsychology and its absorption not only into the SF genre, but also into the real world through military experiments such as the Star Gate Program.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781476672281"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1476672288"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 246,
+				"printType": "BOOK",
+				"categories": [
+					"Body, Mind & Spirit"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=6DZbDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=6DZbDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=6DZbDwAAQBAJ&pg=PT52&dq=subject:science+fiction&hl=&cd=23&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=6DZbDwAAQBAJ&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Psience_Fiction.html?hl=&id=6DZbDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Psience_Fiction-sample-pdf.acsm?id=6DZbDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=6DZbDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "F2vXDgAAQBAJ",
+			"etag": "sgft0jwVw8g",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/F2vXDgAAQBAJ",
+			"volumeInfo": {
+				"title": "Margaret Atwood's Dystopian Fiction",
+				"subtitle": "Fire Is Being Eaten",
+				"authors": [
+					"Sławomir Kuźnicki"
+				],
+				"publisher": "Cambridge Scholars Publishing",
+				"publishedDate": "2017-05-11",
+				"description": "This volume details Margaret Atwood’s dystopian novels through the themes of the ambivalent ethics of science and technology, the position of women in the male-dominated world, and the ambiguous role played by religion and spirituality. The book’s unique and original approach places Atwood’s fiction within the contemporary world, with all the problems of our fast-changing reality. Furthermore, it provides an excellent reading of her dystopias in a broader, humanist context, with an emphasis on the social, cultural and political issues that have been important for both her, the writer, and us, the readers.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781443892698"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1443892696"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 230,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=F2vXDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=F2vXDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=F2vXDgAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=24&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=F2vXDgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=F2vXDgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 9338.41,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 9338.41,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=F2vXDgAAQBAJ&rdid=book-F2vXDgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 9338410000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 9338410000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Margaret_Atwood_s_Dystopian_Fiction-sample-pdf.acsm?id=F2vXDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=F2vXDgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "E8eADQAAQBAJ",
+			"etag": "UQFQPSKpHBE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/E8eADQAAQBAJ",
+			"volumeInfo": {
+				"title": "Science Fiction by Scientists",
+				"subtitle": "An Anthology of Short Stories",
+				"authors": [
+					"Michael Brotherton"
+				],
+				"publisher": "Springer",
+				"publishedDate": "2016-11-15",
+				"description": "This anthology contains fourteen intriguing stories by active research scientists and other writers trained in science. Science is at the heart of real science fiction, which is more than just westerns with ray guns or fantasy with spaceships. The people who do science and love science best are scientists. Scientists like Isaac Asimov, Arthur C. Clarke, and Fred Hoyle wrote some of the legendary tales of golden age science fiction. Today there is a new generation of scientists writing science fiction informed with the expertise of their fields, from astrophysics to computer science, biochemistry to rocket science, quantum physics to genetics, speculating about what is possible in our universe. Here lies the sense of wonder only science can deliver. All the stories in this volume are supplemented by afterwords commenting on the science underlying each story.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783319411026"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3319411020"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 214,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=E8eADQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=E8eADQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=E8eADQAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=25&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=E8eADQAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=E8eADQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2360,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2360,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=E8eADQAAQBAJ&rdid=book-E8eADQAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2360000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2360000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fiction_by_Scientists-sample-epub.acsm?id=E8eADQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fiction_by_Scientists-sample-pdf.acsm?id=E8eADQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=E8eADQAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "HuFDEAAAQBAJ",
+			"etag": "jckGtaJCM1Q",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/HuFDEAAAQBAJ",
+			"volumeInfo": {
+				"title": "The Legacies of Ursula K. Le Guin",
+				"subtitle": "Science, Fiction, Ethics",
+				"authors": [
+					"Christopher L. Robinson",
+					"Sarah Bouttier",
+					"Pierre-Louis Patoine"
+				],
+				"publisher": "Springer Nature",
+				"publishedDate": "2021-09-19",
+				"description": "The Legacies of Ursula K. Le Guin explores how Le Guin’s fiction and essays have built a speculative ethical practice engaging indigenous knowledge and feminism, while crafting utopias in which human and other-than-human life forms enter into new relations. Her work also delineates new ways of making sense of the “science” of science fiction. The authors of this collection provide up-to-date discussions of well-known works as well as more experimental writings. Written in an accessible style, Legacies will appeal to any readers interested in literature, science fiction and fantasy, as well as specialists of science and technology studies, philosophy of science, ethics, gender studies, indigenous studies and posthumanism.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783030828271"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3030828271"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 149,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=HuFDEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=HuFDEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=HuFDEAAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=26&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=HuFDEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=HuFDEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 5038.6,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 5038.6,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=HuFDEAAAQBAJ&rdid=book-HuFDEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 5038600000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 5038600000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Legacies_of_Ursula_K_Le_Guin-sample-epub.acsm?id=HuFDEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Legacies_of_Ursula_K_Le_Guin-sample-pdf.acsm?id=HuFDEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=HuFDEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "DTlYqS4yyb8C",
+			"etag": "2ONbaCcLT7I",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/DTlYqS4yyb8C",
+			"volumeInfo": {
+				"title": "Beautiful Chaos",
+				"subtitle": "Chaos Theory and Metachaotics in Recent American Fiction",
+				"authors": [
+					"Gordon Slethaug"
+				],
+				"publisher": "SUNY Press",
+				"publishedDate": "2000-11-09",
+				"description": "Explores the way chaos theory is incorporated in the work of such writers as Toni Morrison, Thomas Pynchon, John Barth, Don DeLillo, and Michael Crichton.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0791447421"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780791447420"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 242,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.8.7.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=DTlYqS4yyb8C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=DTlYqS4yyb8C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=DTlYqS4yyb8C&printsec=frontcover&dq=subject:science+fiction&hl=&cd=27&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=DTlYqS4yyb8C&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Beautiful_Chaos.html?hl=&id=DTlYqS4yyb8C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Beautiful_Chaos-sample-epub.acsm?id=DTlYqS4yyb8C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Beautiful_Chaos-sample-pdf.acsm?id=DTlYqS4yyb8C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=DTlYqS4yyb8C&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Cr5UzRM7y5QC",
+			"etag": "U4rzE4ezcLA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Cr5UzRM7y5QC",
+			"volumeInfo": {
+				"title": "Novel Science",
+				"subtitle": "Fiction and the Invention of Nineteenth-Century Geology",
+				"authors": [
+					"Adelene Buckland"
+				],
+				"publisher": "University of Chicago Press",
+				"publishedDate": "2013-04-12",
+				"description": "Novel Science is the first in-depth study of the shocking, groundbreaking, and sometimes beautiful writings of the gentlemen of the “heroic age” of geology and of the contribution these men made to the literary culture of their day. For these men, literature was an essential part of the practice of science itself, as important to their efforts as mapmaking, fieldwork, and observation. The reading and writing of imaginative literatures helped them to discover, imagine, debate, and give shape and meaning to millions of years of previously undiscovered earth history. Borrowing from the historical fictions of Walter Scott and the poetry of Lord Byron, they invented geology as a science, discovered many of the creatures we now call the dinosaurs, and were the first to unravel and map the sequence and structure of stratified rock. As Adelene Buckland shows, they did this by rejecting the grand narratives of older theories of the earth or of biblical cosmogony: theirs would be a humble science, faithfully recording minute details and leaving the big picture for future generations to paint. Buckland also reveals how these scientists—just as they had drawn inspiration from their literary predecessors—gave Victorian realist novelists such as George Eliot, Charles Kingsley, and Charles Dickens a powerful language with which to create dark and disturbing ruptures in the too-seductive sweep of story.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780226079684"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0226079686"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 395,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Cr5UzRM7y5QC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Cr5UzRM7y5QC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Cr5UzRM7y5QC&printsec=frontcover&dq=subject:science+fiction&hl=&cd=28&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=Cr5UzRM7y5QC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Novel_Science.html?hl=&id=Cr5UzRM7y5QC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Novel_Science-sample-pdf.acsm?id=Cr5UzRM7y5QC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Cr5UzRM7y5QC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "HmmCDwAAQBAJ",
+			"etag": "sJzccKMfodQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/HmmCDwAAQBAJ",
+			"volumeInfo": {
+				"title": "The Science of Science Fiction",
+				"subtitle": "The Influence of Film and Fiction on the Science and Culture of Our Times",
+				"authors": [
+					"Mark Brake"
+				],
+				"publisher": "Simon and Schuster",
+				"publishedDate": "2018-10-02",
+				"description": "We are the first generation to live in a science fiction world. Media headlines declare this the age of automation. The TV talks about the coming revolution of the robot, tweets tell tales of jets that will ferry travelers to the edge of space, and social media reports that the first human to live for a thousand years has already been born. The science we do, the movies we watch, and the culture we consume is the stuff of fiction that became fact, the future imagined in our past—the future we now inhabit. The Science of Science Fiction is the story of how science fiction shaped our world. No longer a subculture, science fiction has moved into the mainstream with the advent of the information age it helped realize. Explore how science fiction has driven science, with topics that include: Guardians of the Galaxy: Is Space Full of Extraterrestrials? Jacking In: Will the Future Be Like Ready Player One? Mad Max: Is Society Running down into Chaos? The Internet: Will Humans Tire of Mere Reality? Blade Runner 2049: When Will We Engineer Human Lookalikes? And many more! This book will open your eyes to the way science fiction helped us dream of things to come, forced us to explore the nature and limits of our own reality, and aided us in building the future we now inhabit.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781510739376"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1510739378"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 228,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.1.1.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=HmmCDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=HmmCDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=HmmCDwAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=29&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=HmmCDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=HmmCDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 739.86,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 369.93,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=HmmCDwAAQBAJ&rdid=book-HmmCDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 739860000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 369930000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Science_of_Science_Fiction-sample-epub.acsm?id=HmmCDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=HmmCDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "r-GTDgAAQBAJ",
+			"etag": "c3bDQn8t+O0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/r-GTDgAAQBAJ",
+			"volumeInfo": {
+				"title": "Victorian Narratives of the Recent Past",
+				"subtitle": "Memory, History, Fiction",
+				"authors": [
+					"Helen Kingstone"
+				],
+				"publisher": "Springer",
+				"publishedDate": "2017-03-30",
+				"description": "This book explains why narrating the recent past is always challenging, and shows how it was particularly fraught in the nineteenth century. The legacy of Romantic historicism, the professionalization of the historical discipline, and even the growth of social history, all heightened the stakes. This book brings together Victorian histories and novels to show how these parallel genres responded to the challenges of contemporary history writing in divergent ways. Many historians shrank from engaging with controversial recent events. This study showcases the work of those rare historians who defied convention, including the polymath Harriet Martineau, English nationalist J. R. Green, and liberal enthusiast Spencer Walpole. A striking number of popular Victorian novels are retrospective. This book argues that Charlotte Brontë, Elizabeth Gaskell and George Eliot’s “novels of the recent past” are long overdue recognition as genuinely historical novels. By focusing on provincial communities, these novelists reveal undercurrents invisible to national narratives, and intervene in debates about women’s contribution to history.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783319495507"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "331949550X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 244,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=r-GTDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=r-GTDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=r-GTDgAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=30&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=r-GTDgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=r-GTDgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 7563.8,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 7563.8,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=r-GTDgAAQBAJ&rdid=book-r-GTDgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 7563800000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 7563800000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Victorian_Narratives_of_the_Recent_Past-sample-epub.acsm?id=r-GTDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Victorian_Narratives_of_the_Recent_Past-sample-pdf.acsm?id=r-GTDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=r-GTDgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "uefwmdROKTAC",
+			"etag": "hTC0UggzhbA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/uefwmdROKTAC",
+			"volumeInfo": {
+				"title": "Science Fact and Science Fiction",
+				"subtitle": "An Encyclopedia",
+				"authors": [
+					"Brian M. Stableford"
+				],
+				"publisher": "Taylor & Francis",
+				"publishedDate": "2006",
+				"description": "Publisher description",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780415974608"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0415974607"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 758,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=uefwmdROKTAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=uefwmdROKTAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=uefwmdROKTAC&printsec=frontcover&dq=subject:science+fiction&hl=&cd=31&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=uefwmdROKTAC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Science_Fact_and_Science_Fiction.html?hl=&id=uefwmdROKTAC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Science_Fact_and_Science_Fiction-sample-pdf.acsm?id=uefwmdROKTAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=uefwmdROKTAC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "JxIZBQAAQBAJ",
+			"etag": "+gJN5t/Pduw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/JxIZBQAAQBAJ",
+			"volumeInfo": {
+				"title": "Ecosickness in Contemporary U.S. Fiction",
+				"subtitle": "Environment and Affect",
+				"authors": [
+					"Heather Houser"
+				],
+				"publisher": "Columbia University Press",
+				"publishedDate": "2014-06-17",
+				"description": "The 1970s brought a new understanding of the biological and intellectual impact of environmental crises on human beings, and as efforts to prevent ecological and human degradation aligned, a new literature of sickness emerged. “Ecosickness fiction” imaginatively rethinks the link between ecological and bodily endangerment and uses affect and the sick body to bring readers to environmental consciousness. Tracing the development of ecosickness through a compelling archive of modern U.S. novels and memoirs, this study demonstrates the mode’s crucial role in shaping thematic content and formal and affective literary strategies. Examining works by David Foster Wallace, Richard Powers, Leslie Marmon Silko, Marge Piercy, Jan Zita Grover, and David Wojnarowicz, Heather Houser shows how these authors unite experiences of environmental and somatic damage through narrative affects that draw attention to ecological phenomena, organize perception, and convert knowledge into ethics. Traversing contemporary cultural studies, ecocriticism, affect studies, and literature and medicine, Houser juxtaposes ecosickness fiction against new forms of environmentalism and technoscientific innovations such as regenerative medicine and alternative ecosystems. Ecosickness in Contemporary U.S. Fiction recasts recent narrative as a laboratory in which affective and perceptual changes both support and challenge political projects.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780231165143"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0231165145"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 330,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=JxIZBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=JxIZBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=JxIZBQAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=32&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=JxIZBQAAQBAJ&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Ecosickness_in_Contemporary_U_S_Fiction.html?hl=&id=JxIZBQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Ecosickness_in_Contemporary_U_S_Fiction-sample-pdf.acsm?id=JxIZBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=JxIZBQAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "TX5KCAAAQBAJ",
+			"etag": "LQ+h4+Ps0wY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/TX5KCAAAQBAJ",
+			"volumeInfo": {
+				"title": "Justice in Young Adult Speculative Fiction",
+				"subtitle": "A Cognitive Reading",
+				"authors": [
+					"Marek C. Oziewicz"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2015-04-17",
+				"description": "This book is the first to offer a justice-focused cognitive reading of modern YA speculative fiction in its narrative and filmic forms. It links the expansion of YA speculative fiction in the 20th century with the emergence of human and civil rights movements, with the communitarian revolution in conceptualizations of justice, and with spectacular advances in cognitive sciences as applied to the examination of narrative fiction. Oziewicz argues that complex ideas such as justice are processed by the human mind as cognitive scripts; that scripts, when narrated, take the form of multiply indexable stories; and that YA speculative fiction is currently the largest conceptual testing ground in the forging of justice consciousness for the 21st century world. Drawing on recent research in the cognitive and evolutionary sciences, Oziewicz explains how poetic, retributive, restorative, environmental, social, and global types of justice have been represented in narrative fiction, from 19th century folk and fairy tales through 21st century fantasy, dystopia, and science fiction. Suggesting that the appeal of these and other nonmimetic genres is largely predicated on the dream of justice, Oziewicz theorizes new justice scripts as conceptual tools essential to help humanity survive the qualitative leap toward an environmentally conscious, culturally diversified global world. This book is an important contribution to studies of children’s and YA speculative fiction, adding a new perspective to discussions about the educational as well as social potential of nonmimetic genres. It demonstrates that the justice imperative is very much alive in YA speculative fiction, creating new visions of justice relevant to contemporary challenges.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781317610816"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1317610814"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 245,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.5.6.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=TX5KCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=TX5KCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=TX5KCAAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=33&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=TX5KCAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=TX5KCAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=TX5KCAAAQBAJ&rdid=book-TX5KCAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Justice_in_Young_Adult_Speculative_Ficti-sample-epub.acsm?id=TX5KCAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Justice_in_Young_Adult_Speculative_Ficti-sample-pdf.acsm?id=TX5KCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=TX5KCAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "e4eDDwAAQBAJ",
+			"etag": "tZpQEPS8BFw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/e4eDDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Future Humans in Fiction and Film",
+				"authors": [
+					"Louisa MacKay Demerjian",
+					"Karen F. Stein"
+				],
+				"publisher": "Cambridge Scholars Publishing",
+				"publishedDate": "2019-01-10",
+				"description": "This book will appeal to everyone who reads science fiction or thinks about science and its impact on our lives. It raises profound economic, ethical, political, sociological, and psychological questions. It explores our fears and fantasies as it examines a range of fictions, films, and TV programs that speculate about the possibilities of humans in the future. The contributions here ask central questions that have provoked the creators and readers of science fiction since Mary Shelley inaugurated the genre with her novel Frankenstein. What are the aims and limits of science and technology? What are our responsibilities toward the products of our advancing science and technology? What kinds of creatures will we produce or encounter in the future? What rights will we grant to these creatures or – more worryingly – will they grant to us? Do science and technology make us more civilized or more barbaric? How should we treat each other? Ultimately, what does it mean to be human?",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781527524781"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1527524787"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 201,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=e4eDDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=e4eDDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=e4eDDwAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=34&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=e4eDDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=e4eDDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 8840.31,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 8840.31,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=e4eDDwAAQBAJ&rdid=book-e4eDDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 8840310000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 8840310000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Future_Humans_in_Fiction_and_Film-sample-pdf.acsm?id=e4eDDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=e4eDDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "pmioTTM-SDcC",
+			"etag": "2vonqOw/Qm0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/pmioTTM-SDcC",
+			"volumeInfo": {
+				"title": "Different Engines",
+				"subtitle": "How Science Drives Fiction and Fiction Drives Science",
+				"authors": [
+					"Mark Brake",
+					"Neil Hook"
+				],
+				"publisher": "Palgrave Macmillan",
+				"publishedDate": "2007-12-10",
+				"description": "Since its emergence in the seventeenth century, science fiction has been a sustained, coherent and subversive check on the promises and pitfalls of science. In their turn, invention and discovery have forced fiction writers to confront the nature and limits of reality. Different Engines explores how this fascinating symbiosis shapes what we see, do, and dream. From Johannes Kepler's Somnium to Arthur C. Clarke's 2001, science fiction has emerged as a mode of thinking, complementary to the scientific method. Science fiction's field of interest is the gap between the new worlds uncovered by experimentation and exploration, and the fantastic worlds of the imagination. Its proponents find drama in the tension between the familiar and the unfamiliar. Its readers, many of them scientists and politicians, find inspiration in the contrast between the ordinary and the extraordinary. Brake and Hook's Different Engines is a unique, provocative and compelling account of science fiction as the arbiter of progress.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780230553972"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0230553974"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 369,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=pmioTTM-SDcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=pmioTTM-SDcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=pmioTTM-SDcC&printsec=frontcover&dq=subject:science+fiction&hl=&cd=35&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=pmioTTM-SDcC&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Different_Engines.html?hl=&id=pmioTTM-SDcC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Different_Engines-sample-epub.acsm?id=pmioTTM-SDcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Different_Engines-sample-pdf.acsm?id=pmioTTM-SDcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=pmioTTM-SDcC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "5yAsEAAAQBAJ",
+			"etag": "tpWaYR6gZKc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/5yAsEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Comeuppance",
+				"subtitle": "Costly Signaling, Altruistic Punishment, and Other Biological Components of Fiction",
+				"authors": [
+					"William Flesch"
+				],
+				"publisher": "Harvard University Press",
+				"publishedDate": "2009-03-31",
+				"description": "With Comeuppance, William Flesch delivers the freshest, most generous thinking about the novel since Walter Benjamin wrote on the storyteller and Wayne C. Booth on the rhetoric of fiction. In clear and engaging prose, Flesch integrates evolutionary psychology into literary studies, creating a new theory of fiction in which form and content flawlessly intermesh. Fiction, Flesch contends, gives us our most powerful way of making sense of the social world. Comeuppance begins with an exploration of the appeal of gossip and ends with an account of how we can think about characters and care about them as much as about persons we know to be real. We praise a storyteller who contrives a happy or at least an appropriate ending, and fault the writer who refuses us one. Flesch uses Darwinian theory to show how fiction satisfies our desire to see the good vindicated and the wicked get their comeuppance. He conveys the danger and excitement of reading fiction with nimble intelligence and provides wide reference to stories both familiar and little known. Flesch has given us a book that is sure to claim a central place in the discussion of literature and the humanities.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780674263475"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0674263472"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 272,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=5yAsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=5yAsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=5yAsEAAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=36&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=5yAsEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=5yAsEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3928.46,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3928.46,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=5yAsEAAAQBAJ&rdid=book-5yAsEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3928460000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3928460000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Comeuppance-sample-epub.acsm?id=5yAsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Comeuppance-sample-pdf.acsm?id=5yAsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=5yAsEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "uJ83cTp-faYC",
+			"etag": "mejY/qkyUrw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/uJ83cTp-faYC",
+			"volumeInfo": {
+				"title": "Air's Appearance",
+				"subtitle": "Literary Atmosphere in British Fiction, 1660-1794",
+				"authors": [
+					"Jayne Elizabeth Lewis"
+				],
+				"publisher": "University of Chicago Press",
+				"publishedDate": "2012-11-22",
+				"description": "In Air’s Appearance, Jayne Elizabeth Lewis enlists her readers in pursuit of the elusive concept of atmosphere in literary works. She shows how diverse conceptions of air in the eighteenth century converged in British fiction, producing the modern literary sense of atmosphere and moving novelists to explore the threshold between material and immaterial worlds. Air’s Appearance links the emergence of literary atmosphere to changing ideas about air and the earth’s atmosphere in natural philosophy, as well as to the era’s theories of the supernatural and fascination with social manners—or, as they are now known, “airs.” Lewis thus offers a striking new interpretation of several standard features of the Enlightenment—the scientific revolution, the decline of magic, character-based sociability, and the rise of the novel—that considers them in terms of the romance of air that permeates and connects them. As it explores key episodes in the history of natural philosophy and in major literary works like Paradise Lost, “The Rape of the Lock,” Robinson Crusoe, and The Mysteries of Udolpho, this book promises to change the atmosphere of eighteenth-century studies and the history of the novel.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780226476711"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0226476715"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 336,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=uJ83cTp-faYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=uJ83cTp-faYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=uJ83cTp-faYC&printsec=frontcover&dq=subject:science+fiction&hl=&cd=37&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=uJ83cTp-faYC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=uJ83cTp-faYC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 5499.01,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 5499.01,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=uJ83cTp-faYC&rdid=book-uJ83cTp-faYC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 5499010000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 5499010000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Air_s_Appearance-sample-epub.acsm?id=uJ83cTp-faYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Air_s_Appearance-sample-pdf.acsm?id=uJ83cTp-faYC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=uJ83cTp-faYC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "9L6rDwAAQBAJ",
+			"etag": "6qOoGp2UFyg",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/9L6rDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Tourism Fictions, Simulacra and Virtualities",
+				"authors": [
+					"Maria Gravari-Barbas",
+					"Nelson Graburn",
+					"Jean-Francois Staszak"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2019-08-28",
+				"description": "Tourism Fictions, Simulacra and Virtualities offers a new understanding of tourism’s interaction with space, questioning the ways in which fictions, simulacra and virtualities express tourism in the built environment and vice versa. Since its beginnings, tourism has inspired themed built environments that have a constitutive, and sometimes problematic, relationship with the “real” world and its architectural references. This volume questions and rethinks the different environments constructed or adapted both for and by tourism exploring the relationship between the “real” and the “unreal” within the tourist bubble and the ways in which the real world inspires simulacra for tourism use. Adopting an interdisciplinary approach this book touches on a wide range of geographical areas, eras and subjects such as post-socialist tourism in Poland, the Hawaiian imaginary in Las Vegas, Rio de Janeiro’s Little Africa, as well as multiple instances of virtual reality in tourism. This timely and innovative volume will be of great interest to upper level students, researchers and academics in tourism, architecture, cultural studies, geography and heritage studies.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781000681178"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1000681173"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 311,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=9L6rDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=9L6rDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=9L6rDwAAQBAJ&pg=PT20&dq=subject:science+fiction&hl=&cd=38&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=9L6rDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=9L6rDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3138.8,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=9L6rDwAAQBAJ&rdid=book-9L6rDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3138800000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Tourism_Fictions_Simulacra_and_Virtualit-sample-epub.acsm?id=9L6rDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Tourism_Fictions_Simulacra_and_Virtualit-sample-pdf.acsm?id=9L6rDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=9L6rDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "sHIJEAAAQBAJ",
+			"etag": "wyX7KrJ2wMo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/sHIJEAAAQBAJ",
+			"volumeInfo": {
+				"title": "On the Origin of Stories",
+				"subtitle": "Evolution, Cognition, and Fiction",
+				"authors": [
+					"Brian Boyd"
+				],
+				"publisher": "Harvard University Press",
+				"publishedDate": "2010-11-15",
+				"description": "A century and a half after the publication of Origin of Species, evolutionary thinking has expanded beyond the field of biology to include virtually all human-related subjects—anthropology, archeology, psychology, economics, religion, morality, politics, culture, and art. Now a distinguished scholar offers the first comprehensive account of the evolutionary origins of art and storytelling. Brian Boyd explains why we tell stories, how our minds are shaped to understand them, and what difference an evolutionary understanding of human nature makes to stories we love. Art is a specifically human adaptation, Boyd argues. It offers tangible advantages for human survival, and it derives from play, itself an adaptation widespread among more intelligent animals. More particularly, our fondness for storytelling has sharpened social cognition, encouraged cooperation, and fostered creativity. After considering art as adaptation, Boyd examines Homer’s Odyssey and Dr. Seuss’s Horton Hears a Who! demonstrating how an evolutionary lens can offer new understanding and appreciation of specific works. What triggers our emotional engagement with these works? What patterns facilitate our responses? The need to hold an audience’s attention, Boyd underscores, is the fundamental problem facing all storytellers. Enduring artists arrive at solutions that appeal to cognitive universals: an insight out of step with contemporary criticism, which obscures both the individual and universal. Published for the bicentenary of Darwin’s birth and the 150th anniversary of the publication of Origin of Species, Boyd’s study embraces a Darwinian view of human nature and art, and offers a credo for a new humanism.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780674057111"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0674057112"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 555,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Criticism"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=sHIJEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=sHIJEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=sHIJEAAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=39&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=sHIJEAAAQBAJ&dq=subject:science+fiction&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/On_the_Origin_of_Stories.html?hl=&id=sHIJEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/On_the_Origin_of_Stories-sample-pdf.acsm?id=sHIJEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=sHIJEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "2O0QDQAAQBAJ",
+			"etag": "dK7KPf/TALE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/2O0QDQAAQBAJ",
+			"volumeInfo": {
+				"title": "Pseudoscience and Science Fiction",
+				"authors": [
+					"Andrew May"
+				],
+				"publisher": "Springer",
+				"publishedDate": "2016-09-13",
+				"description": "Aliens, flying saucers, ESP, the Bermuda Triangle, antigravity ... are we talking about science fiction or pseudoscience? Sometimes it is difficult to tell the difference. Both pseudoscience and science fiction (SF) are creative endeavours that have little in common with academic science, beyond the superficial trappings of jargon and subject matter. The most obvious difference between the two is that pseudoscience is presented as fact, not fiction. Yet like SF, and unlike real science, pseudoscience is driven by a desire to please an audience – in this case, people who “want to believe”. This has led to significant cross-fertilization between the two disciplines. SF authors often draw on “real” pseudoscientific theories to add verisimilitude to their stories, while on other occasions pseudoscience takes its cue from SF – the symbiotic relationship between ufology and Hollywood being a prime example of this. This engagingly written, well researched and richly illustrated text explores a wide range of intriguing similarities and differences between pseudoscience and the fictional science found in SF. Andrew May has a degree in Natural Sciences from Cambridge University and a PhD in astrophysics from Manchester University. After many years in academia and the private sector, he now works as a freelance writer and scientific consultant. He has written pocket biographies of Newton and Einstein, as well as contributing to a number of popular science books. He has a lifelong interest in science fiction, and has had several articles published in Fortean Times magazine",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783319426051"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3319426052"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 181,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=2O0QDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=2O0QDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=2O0QDQAAQBAJ&printsec=frontcover&dq=subject:science+fiction&hl=&cd=40&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=2O0QDQAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=2O0QDQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 1935.2,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 1935.2,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=2O0QDQAAQBAJ&rdid=book-2O0QDQAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 1935200000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 1935200000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Pseudoscience_and_Science_Fiction-sample-epub.acsm?id=2O0QDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Pseudoscience_and_Science_Fiction-sample-pdf.acsm?id=2O0QDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=2O0QDQAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		}
+	]
+}

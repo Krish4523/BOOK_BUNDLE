@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Book Bundle | Home</title>
+  <link rel="icon" type="image/svg+xml" href="../../public/icons/book-bundle-favicon-color.svg" />
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+    integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+  <link rel="stylesheet" href="home.css">
+</head>
+
+<body>
+  <div id="root">
+    <header class="container-fluid p-0 .books-section">
+      <nav class="navbar navbar-expand-md navbar-dark fixed-top">
+        <div class="container-fluid">
+          <div id="logo">
+            <a class="navbar-brand d-flex align-items-center " href="#root">
+              <img src="../../public/icons/book-bundle-favicon-white.png" alt="" class="img-fluid" id="imgLogo" />
+              BOOK BUNDLE
+            </a>
+          </div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-wrapper"
+            aria-controls="nav-wrapper" aria-expanded="false" aria-label="Toggle navigation">
+            <span><i class="fa-solid fa-bars"></i></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="nav-wrapper">
+            <ul class="navbar-nav" id="nav-list">
+              <li class="nav-item">
+                <a class="nav-link active" aria-current="page" href="#root">HOME</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../search/search.html">SEARCH</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../about/about.html">ABOUT</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../login-signup/login.html">LOGIN</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main id="main">
+      <section class="books-section">
+        <!-- <div class="container"> -->
+        <div class="search-bar">
+          <div id="carousel" class="carousel slide mx-0" data-bs-ride="carousel">
+            <div class="carousel-indicators">
+              <button class="active" data-bs-slide-to="0" data-bs-target="#demo"></button>
+              <button data-bs-slide-to="1" data-bs-target="#carousel"></button>
+              <button data-bs-slide-to="2" data-bs-target="#carousel"></button>
+              <button data-bs-slide-to="3" data-bs-target="#carousel"></button>
+              <button data-bs-slide-to="4" data-bs-target="#carousel"></button>
+            </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img src="../../public/images/book5.png" class='img img-fluid' alt='Book Image-1' />
+                <div class="carousel-caption">
+                  <p>The book you don't read, <br />won't help.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="../../public/images/book2.png" class='img img-fluid' alt='Book Image-1' />
+                <div class="carousel-caption">
+                  <p>A room without book is like <br /> a body without soul.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="../../public/images/book3.png" class='img img-fluid' alt='Book Image-1' />
+                <div class="carousel-caption">
+                  <p>Books are a uniquely portable magic</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="../../public/images/book4.png" class='img img-fluid' alt='Book Image-1' />
+                <div class="carousel-caption">
+                  <p>There are no friends <br /> as loyal as a book.</p>
+                </div>
+              </div>
+              <div class="carousel-item">
+                <img src="../../public/images/book1.png" class='img img-fluid' alt='Book Image-1' />
+                <div class="carousel-caption">
+                  <p>A book is a dream that<br /> you hold in your hand.</p>
+                </div>
+              </div>
+            </div>
+            <button class="carousel-control-prev" data-bs-slide="prev" data-bs-target="#carousel">
+              <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" data-bs-slide="next" data-bs-target="#carousel">
+              <span class="carousel-control-next-icon"></span>
+            </button>
+          </div>
+        </div>
+        <!-- </div> -->
+      </section>
+      <div class="container">
+        <section id="featured" class="books-section">
+          <div class="card-header">
+            <h2>Featured</h2>
+            <button class="featured btn btn-sm btn-outline-info view-btn" id="viewFeatured">View All</button>
+          </div>
+        </section>
+        <section id="business" class="books-section">
+          <div class="card-header">
+            <h2>Business & Economics</h2>
+            <button class="business btn btn-sm btn-outline-info view-btn" id="viewBuisness">View All</button>
+          </div>
+        </section>
+        <section id="history" class="books-section">
+          <div class="card-header">
+            <h2>History</h2>
+            <button class="history btn btn-sm btn-outline-info view-btn" id="viewHistory">View All</button>
+          </div>
+        </section>
+        <section id="lifestyle" class="books-section">
+          <div class="card-header">
+            <h2>Lifestyle</h2>
+            <button class="lifestyle btn btn-sm btn-outline-info view-btn" id="viewLifestyle">View All</button>
+          </div>
+        </section>
+        <section id="fiction" class="books-section">
+          <div class="card-header">
+            <h2>Science & Fiction</h2>
+            <button class="fiction btn btn-sm btn-outline-info view-btn" id="viewFiction">View All</button>
+          </div>
+        </section>
+      </div>
+
+      <div id="bookModal" class="modal modal-lg fade" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
+        aria-labelledby="staticBackdropLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-scrollable modal-dialog-centered">
+          <div class="modal-content">
+            <div class="d-flex justify-content-end">
+              <button type="button" class="btn btn-close m-2" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div id="bookContent" class="modal-body"></div>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <footer class="container-fluid text-white">
+      <div class="footer-section" id="footerLogo">
+        <a href="#root">
+          <img src="../../public/icons/book-bundle-favicon-white.png" />BOOK BUNDLE
+        </a>
+        <p class="pt-4 text-white">All rights reserved<br>©Copyright 2024
+        </p>
+      </div>
+      <div class="footer-section">
+        <h5>EXPLORE</h5>
+        <ul class="list-unstyled footer-nav">
+          <li><a href="#root">HOME</a></li>
+          <li><a href="../search/search.html">SEARCH</a></li>
+          <li><a href="../about/about.html">ABOUT</a></li>
+          <li><a href="../login-signup/login.html">LOGIN</a></li>
+        </ul>
+      </div>
+      <div class="footer-section">
+        <h5 class="text-light">Follow Us</h5>
+        <p class="">Let us be social</p>
+        <ul class="list-inline text-light">
+          <li class="list-inline-item"><i class="fab fa-facebook-f"></i></li>
+          <li class="list-inline-item"><i class="fab fa-instagram"></i></li>
+          <li class="list-inline-item"><i class="fab fa-twitter"></i></li>
+          <li class="list-inline-item"><i class="fab fa-youtube"></i></li>
+        </ul>
+      </div>
+      
+      <div class="footer-section">
+        <form class="form" style="width: 300px;" action="">
+          <h5>Feedback Form</h5>
+          <div class="input-group mb-3">
+            <div class="input-group-text">
+              <label class="form-label" for="email">Email</label>
+            </div>
+            <input class="form-control" type="email" name="email" id="email" placeholder="Email" required>
+          </div>
+          <div class="input-group mb-3">
+            <div class="input-group-text">
+              <label class="form-label" for="feedback">Feedback</label>
+            </div>
+            <textarea class="form-control" name="feedback" id="feedback" rows="2"
+              placeholder="Enter Your Feedback Here...." required></textarea>
+          </div>
+          <button type="submit" class="btn btn-primary me-3" value="Submit">Submit</button>
+        </form>
+      </div>
+    </footer>
+  </div>
+  <script type="module" src="home.js" defer></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL"
+    crossorigin="anonymous" defer></script>
+  <script src="https://kit.fontawesome.com/2f795b4662.js" crossorigin="anonymous" defer></script>
+</body>
+
+</html>

@@ -1,0 +1,126 @@
+/* Reset some default browser styles */
+@import url("https://fonts.googleapis.com/css?family=Acme|Lobster|Patua+One|Rubik|Sniglet");
+@import url('https://fonts.googleapis.com/css2?family=Bodoni+Moda:opsz@6..96&family=Poppins:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    /* background-color: var(--btn); */
+}
+
+:root {
+    --sniglet-font: "Sniglet", sans-serif;
+    --rubik: "Rubik", cursive;
+    --light-black: #2e2c2caf;
+    --bg-gradient: linear-gradient(to bottom, rgba(248, 237, 255, 0.5), rgba(248, 237, 255, 0.1));
+    --nav-gradient: linear-gradient(to bottom, #dd2476, #ff512f);
+    --nav-bg: #3D3B40;
+    --btn: rgb(82, 92, 235);
+    --btn-hover: rgb(54, 66, 232);
+    --light-gray: rgba(255, 255, 255, 0.877);
+}
+
+#root {
+    background: var(--bg-gradient) !important;
+}
+
+#logo {
+    display: flex;
+    align-items: center;
+}
+
+#imgLogo {
+    height: 1.8rem;
+    width: 1.8rem;
+}
+
+header a {
+    font-family: var(--sniglet-font) !important;
+    font-size: 0.9em;
+}
+
+#nav-list {
+    margin: 0 1em;
+    list-style: none;
+}
+
+header .nav-item {
+    padding: 0 1em;
+}
+
+header .navbar-brand {
+    padding-left: 2rem;
+}
+
+nav {
+    /* background: #ff512f; */
+    /* fallback for old browsers */
+    /* background: var(--nav-gradient); */
+    /* background: #3D3B40; */
+    background: #3D3B40;
+}
+
+
+#main {
+    margin-top: 1rem;
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.about-section,
+.team-section {
+    margin-bottom: 30px;
+}
+
+.section-4 .team {
+    padding: 10vmin 4vmin;
+}
+
+.section-4 .card {
+    width: 22em;
+    margin-top: 10vmin;
+}
+
+.section-4 .card .card-text {
+    padding: 0.5em;
+}
+
+.section-4 .card-body>a {
+    font-size: 1.5em;
+}
+
+.section-4 .carousel-item {
+    padding-left: 3rem;
+}
+
+.border-radius {
+    border-radius: 340px;
+    width: 60%;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}
+
+::-webkit-scrollbar {
+	width: 8px;
+} 
+
+::-webkit-scrollbar-thumb {
+	background-color: #3D3B40;
+	border-radius: 1px;
+}
+
+::-webkit-scrollbar-track {
+	background-color: #F8EDFF;
+}

@@ -1,0 +1,3397 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 2549,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "eVuaobPHxPIC",
+			"etag": "vEJfou1IxjY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/eVuaobPHxPIC",
+			"volumeInfo": {
+				"title": "To Err Is Human",
+				"subtitle": "Building a Safer Health System",
+				"authors": [
+					"Institute of Medicine",
+					"Committee on Quality of Health Care in America"
+				],
+				"publisher": "National Academies Press",
+				"publishedDate": "2000-03-01",
+				"description": "Experts estimate that as many as 98,000 people die in any given year from medical errors that occur in hospitals. That's more than die from motor vehicle accidents, breast cancer, or AIDSâ€\"three causes that receive far more public attention. Indeed, more people die annually from medication errors than from workplace injuries. Add the financial cost to the human tragedy, and medical error easily rises to the top ranks of urgent, widespread public problems. To Err Is Human breaks the silence that has surrounded medical errors and their consequenceâ€\"but not by pointing fingers at caring health care professionals who make honest mistakes. After all, to err is human. Instead, this book sets forth a national agendaâ€\"with state and local implicationsâ€\"for reducing medical errors and improving patient safety through the design of a safer health system. This volume reveals the often startling statistics of medical error and the disparity between the incidence of error and public perception of it, given many patients' expectations that the medical profession always performs perfectly. A careful examination is made of how the surrounding forces of legislation, regulation, and market activity influence the quality of care provided by health care organizations and then looks at their handling of medical mistakes. Using a detailed case study, the book reviews the current understanding of why these mistakes happen. A key theme is that legitimate liability concerns discourage reporting of errorsâ€\"which begs the question, \"How can we learn from our mistakes?\" Balancing regulatory versus market-based initiatives and public versus private efforts, the Institute of Medicine presents wide-ranging recommendations for improving patient safety, in the areas of leadership, improved data collection and analysis, and development of effective systems at the level of direct patient care. To Err Is Human asserts that the problem is not bad people in health careâ€\"it is that good people are working in bad systems that need to be made safer. Comprehensive and straightforward, this book offers a clear prescription for raising the level of patient safety in American health care. It also explains how patients themselves can influence the quality of care that they receive once they check into the hospital. This book will be vitally important to federal, state, and local health policy makers and regulators, health professional licensing officials, hospital administrators, medical educators and students, health caregivers, health journalists, patient advocatesâ€\"as well as patients themselves. First in a series of publications from the Quality of Health Care in America, a project initiated by the Institute of Medicine",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780309068376"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0309068371"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 312,
+				"printType": "BOOK",
+				"categories": [
+					"Medical"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=eVuaobPHxPIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=eVuaobPHxPIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=eVuaobPHxPIC&printsec=frontcover&dq=human&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=eVuaobPHxPIC&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/To_Err_Is_Human.html?hl=&id=eVuaobPHxPIC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=eVuaobPHxPIC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "After all, to err is human. Instead, this book sets forth a national agendaâ€&quot;with state and local implicationsâ€&quot;for reducing medical errors and improving patient safety through the design of a safer health system."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "TwYSAQAAIAAJ",
+			"etag": "wTMYaa8PkHQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/TwYSAQAAIAAJ",
+			"volumeInfo": {
+				"title": "Human",
+				"authors": [
+					"Robert Winston"
+				],
+				"publishedDate": "2004",
+				"description": "Humanis a comprehensive, highly illustrated account of what makes us what we are- how we evolved, how our bodies develop and work, and how we think and behave both as individuals and as members of society. It not only examines the qualities we all share and that define us as a species, but also highlights the fascinating diversity of human society and culture. Human is genuinely unique. No other book covers all aspects of human life, from evolution and biology to society, culture, and the future of our species Professor Robert Winston is chief UK consultant, backed up by a team of authoritative contributors and consultants from a wide variety of fields The immense variety in society and culture worldwide is revealed through comparative profiles of beliefs, customs, rituals, and the arts Structure and workings of the human body and mind are fully illustrated and explained Panels throughout the book highlight fascinating facts, environmental and health issues, and cutting-edge developments",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "STANFORD:36105119826498"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 978,
+				"printType": "BOOK",
+				"categories": [
+					"Philosophy"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.3.3.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=TwYSAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=TwYSAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=TwYSAQAAIAAJ&q=human&dq=human&hl=&cd=2&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=TwYSAQAAIAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human.html?hl=&id=TwYSAQAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=TwYSAQAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "No other book covers all aspects of human life, from evolution and biology to society, culture, and the future of our species Professor Robert Winston is chief UK consultant, backed up by a team of authoritative contributors and consultants ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "4bAsEAAAQBAJ",
+			"etag": "Yrx80ypSUQ4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/4bAsEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Radically Human",
+				"subtitle": "How New Technology Is Transforming Business and Shaping Our Future",
+				"authors": [
+					"Paul Daugherty",
+					"H. James Wilson"
+				],
+				"publisher": "Harvard Business Press",
+				"publishedDate": "2022-04-26",
+				"description": "Technology advances are making tech more . . . human. This changes everything you thought you knew about innovation and strategy. In their groundbreaking book, Human + Machine, Accenture technology leaders Paul R. Daugherty and H. James Wilson showed how leading organizations use the power of human-machine collaboration to transform their processes and their bottom lines. Now, as new AI powered technologies like the metaverse, natural language processing, and digital twins begin to rapidly impact both life and work, those companies and other pioneers across industries are tipping the balance even more strikingly toward the human side with technology-led strategy that is reshaping the very nature of innovation. In Radically Human, Daugherty and Wilson show this profound shift, fast-forwarded by the pandemic, toward more human—and more humane—technology. Artificial intelligence is becoming less artificial and more intelligent. Instead of data-hungry approaches to AI, innovators are pursuing data-efficient approaches that enable machines to learn as humans do. Instead of replacing workers with machines, they're unleashing human expertise to create human-centered AI. In place of lumbering legacy IT systems, they're building cloud-first IT architectures able to continuously adapt to a world of billions of connected devices. And they're pursuing strategies that will take their place alongside classic, winning business formulas like disruptive innovation. These against-the-grain approaches to the basic building blocks of business—Intelligence, Data, Expertise, Architecture, and Strategy (IDEAS)—are transforming competition. Industrial giants and startups alike are drawing on this radically human IDEAS framework to create new business models, optimize post-pandemic approaches to work and talent, rebuild trust with their stakeholders, and show the way toward a sustainable future. With compelling insights and fresh examples from a variety of industries, Radically Human will forever change the way you think about, practice, and win with innovation.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781647821098"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1647821096"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 152,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=4bAsEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=4bAsEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=4bAsEAAAQBAJ&printsec=frontcover&dq=human&hl=&cd=3&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=4bAsEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=4bAsEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2195,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2195,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=4bAsEAAAQBAJ&rdid=book-4bAsEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2195000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2195000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Radically_Human-sample-epub.acsm?id=4bAsEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Radically_Human-sample-pdf.acsm?id=4bAsEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=4bAsEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In Radically Human, Daugherty and Wilson show this profound shift, fast-forwarded by the pandemic, toward more human—and more humane—technology. Artificial intelligence is becoming less artificial and more intelligent."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "OQRVDwAAQBAJ",
+			"etag": "vxj3WLWegs8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/OQRVDwAAQBAJ",
+			"volumeInfo": {
+				"title": "The Book of Humans",
+				"subtitle": "A Brief History of Culture, Sex, War and the Evolution of Us",
+				"authors": [
+					"Adam Rutherford"
+				],
+				"publisher": "Hachette UK",
+				"publishedDate": "2018-09-13",
+				"description": "*FROM THE BESTSELLING AUTHOR OF A BRIEF HISTORY OF EVERYONE WHO EVER LIVED and HOW TO ARGUE WITH A RACIST* WHAT MAKES US HUMAN? Waging war? Sex for pleasure? Creating art? Mastery of fire? In this thrilling tour of the animal kingdom, Adam Rutherford tells the story of how we became the unique creatures we are today. Illuminated by the latest scientific discoveries, THE BOOK OF HUMANS is a dazzling compendium of what unequivocally fixes us as animals, and reveals how we are extraordinary among them. *** 'Adam Rutherford is a superb communicator, who eruditely explores the borderlands of history, archaeology, genetics and anthropology in this fascinating tour of our species' DAN SNOW 'This superbly accessible discussion about who we humans really are is important and necessary' CHRIS PACKHAM 'Charming, compelling and packed with information. I learned more about biology from this short book than I did from years of science lessons' PETER FRANKOPAN 'An outstandingly clear and witty account that shows beyond doubt how much we are part of the animal world, and yet at the same time how different we have become' HENRY MARSH",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780297609421"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0297609424"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 272,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.4.5.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=OQRVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=OQRVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=OQRVDwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=4&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=OQRVDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=OQRVDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 483.8,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 338.66,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=OQRVDwAAQBAJ&rdid=book-OQRVDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 483800000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 338660000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Book_of_Humans-sample-epub.acsm?id=OQRVDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=OQRVDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Illuminated by the latest scientific discoveries, THE BOOK OF HUMANS is a dazzling compendium of what unequivocally fixes us as animals, and reveals how we are extraordinary among them. *** &#39;Adam Rutherford is a superb communicator, who ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "DJAEEAAAQBAJ",
+			"etag": "zAzBghqN+ws",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/DJAEEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Human",
+				"authors": [
+					"Amanda Rees",
+					"Charlotte Sleigh"
+				],
+				"publisher": "Reaktion Books",
+				"publishedDate": "2020-09-02",
+				"description": "What does it mean to be human? And what, if anything, does it have to do with being a member of the animal species Homo sapiens? This dazzling book gets to the very heart of our rather unscientific motivations and prejudices, showing how they are of great use in resolving the world’s biggest problems. From beasts to aliens, this book explores widely discussed but often problematic links between humans and six other beings, tackling deep philosophical questions including humanity’s common purpose, life’s meaning, and what it means to be accepted as part of a community. Global in its outlook and illustrated with stunning pictures, Human is a powerful, funny, and iconoclastic antidote to post-humanism.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781789142143"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1789142148"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 217,
+				"printType": "BOOK",
+				"categories": [
+					"Social Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=DJAEEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=DJAEEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=DJAEEAAAQBAJ&dq=human&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=DJAEEAAAQBAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human.html?hl=&id=DJAEEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=DJAEEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "From beasts to aliens, this book explores widely discussed but often problematic links between humans and six other beings, tackling deep philosophical questions including humanity’s common purpose, life’s meaning, and what it means to ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "jKPHmHqei20C",
+			"etag": "m8bzi2STnjs",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/jKPHmHqei20C",
+			"volumeInfo": {
+				"title": "Human Nature as Capacity",
+				"subtitle": "Transcending Discourse and Classification",
+				"authors": [
+					"Nigel Rapport"
+				],
+				"publisher": "Berghahn Books",
+				"publishedDate": "2010-03-30",
+				"description": "What is it to be human? What are our specifically human attributes, our capacities and liabilities? Such questions gave birth to anthropology as an Enlightenment science. This book argues that it is again appropriate to bring \"the human\" to the fore, to reclaim the singularity of the word as central to the anthropological endeavor, not on the basis of the substance of a human nature – \"To be human is to act like this and react like this, to feel this and want this\" – but in terms of species-wide capacities: capabilities for action and imagination, liabilities for suffering and cruelty. The contributors approach \"the human\" with an awareness of these complexities and particularities, rendering this volume unique in its ability to build on anthropology's ethnographic expertise.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781845458157"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "184545815X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 224,
+				"printType": "BOOK",
+				"categories": [
+					"Social Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.6.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=jKPHmHqei20C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=jKPHmHqei20C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=jKPHmHqei20C&printsec=frontcover&dq=human&hl=&cd=6&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=jKPHmHqei20C&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=jKPHmHqei20C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3432.41,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3432.41,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=jKPHmHqei20C&rdid=book-jKPHmHqei20C&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3432410000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3432410000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Nature_as_Capacity-sample-epub.acsm?id=jKPHmHqei20C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Nature_as_Capacity-sample-pdf.acsm?id=jKPHmHqei20C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=jKPHmHqei20C&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book argues that it is again appropriate to bring “the human” to the fore, to reclaim the singularity of the word as central to the anthropological endeavor, not on the basis of the substance of a human nature – “To be human is ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "wpY4DwAAQBAJ",
+			"etag": "7kmOV4czayM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/wpY4DwAAQBAJ",
+			"volumeInfo": {
+				"title": "Human + Machine",
+				"subtitle": "Reimagining Work in the Age of AI",
+				"authors": [
+					"Paul R. Daugherty",
+					"H. James Wilson"
+				],
+				"publisher": "Harvard Business Press",
+				"publishedDate": "2018-03-20",
+				"description": "AI is radically transforming business. Are you ready? Look around you. Artificial intelligence is no longer just a futuristic notion. It's here right now--in software that senses what we need, supply chains that \"think\" in real time, and robots that respond to changes in their environment. Twenty-first-century pioneer companies are already using AI to innovate and grow fast. The bottom line is this: Businesses that understand how to harness AI can surge ahead. Those that neglect it will fall behind. Which side are you on? In Human + Machine, Accenture leaders Paul R. Daugherty and H. James (Jim) Wilson show that the essence of the AI paradigm shift is the transformation of all business processes within an organization--whether related to breakthrough innovation, everyday customer service, or personal productivity habits. As humans and smart machines collaborate ever more closely, work processes become more fluid and adaptive, enabling companies to change them on the fly--or to completely reimagine them. AI is changing all the rules of how companies operate. Based on the authors' experience and research with 1,500 organizations, the book reveals how companies are using the new rules of AI to leap ahead on innovation and profitability, as well as what you can do to achieve similar results. It describes six entirely new types of hybrid human + machine roles that every company must develop, and it includes a \"leader’s guide\" with the five crucial principles required to become an AI-fueled business. Human + Machine provides the missing and much-needed management playbook for success in our new age of AI. BOOK PROCEEDS FOR THE AI GENERATION The authors' goal in publishing Human + Machine is to help executives, workers, students and others navigate the changes that AI is making to business and the economy. They believe AI will bring innovations that truly improve the way the world works and lives. However, AI will cause disruption, and many people will need education, training and support to prepare for the newly created jobs. To support this need, the authors are donating the royalties received from the sale of this book to fund education and retraining programs focused on developing fusion skills for the age of artificial intelligence.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781633693876"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1633693872"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 264,
+				"printType": "BOOK",
+				"categories": [
+					"Computers"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.4.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=wpY4DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=wpY4DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=wpY4DwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=7&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=wpY4DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=wpY4DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 1475,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 737.5,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=wpY4DwAAQBAJ&rdid=book-wpY4DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 1475000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 737500000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_+_Machine-sample-epub.acsm?id=wpY4DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_+_Machine-sample-pdf.acsm?id=wpY4DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=wpY4DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "To support this need, the authors are donating the royalties received from the sale of this book to fund education and retraining programs focused on developing fusion skills for the age of artificial intelligence."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "0qm5zAEACAAJ",
+			"etag": "lAqGtZFMBOs",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/0qm5zAEACAAJ",
+			"volumeInfo": {
+				"title": "Human = Possibility",
+				"authors": [
+					"Gopikrishnan P. Srividya Srinivasan",
+					"Preethi M.",
+					"Bhagavathy Ramachandran M."
+				],
+				"publisher": "Notion Press",
+				"publishedDate": "2019-12-20",
+				"description": "Understand and develop a better relationship with your employees with the help of Human=Possibility. This book is a must-read for freshers, HR's, Managers or people at any level who manage Human Resources. It inculcates and promotes ideas that lead to high-performing organizations and great career growth for individuals. - Learn about management from three different perspectives--People Manager, Employee, and Potential Hire. - Discover the potential of employees as valuable resources who can confront everyone and every situation. - Create a very hospitable, friendly, and safe work environment leading to increase in productivity and efficiency. \"In an era where technology and human potential serve as differentiators in organisations, shifting the focus from humans as resources to possibilities is a call to fellow professionals to put people priorities while aspiring to scale organisations. Human = Possibility is an attempt to chronicle experiences and practical situations in the process of building DOYENSYS from the eyes of its HR team. Simple things told in a simple language has a powerful impact and the sincere effort of putting the content easy to understand and should be especially useful to young HR wannabes\" - Shashikanth Jayaraman, Human Resources Leader & Founder - HR Sangam",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1647608112"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781647608118"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 202,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=0qm5zAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=0qm5zAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=0qm5zAEACAAJ&dq=human&hl=&cd=8&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=0qm5zAEACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human_Possibility.html?hl=&id=0qm5zAEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=0qm5zAEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Understand and develop a better relationship with your employees with the help of Human=Possibility. This book is a must-read for freshers, HR&#39;s, Managers or people at any level who manage Human Resources."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "dVLVLIV8rD0C",
+			"etag": "XTrnbNHg0Tk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/dVLVLIV8rD0C",
+			"volumeInfo": {
+				"title": "Animal Models for the Study of Human Disease",
+				"authors": [
+					"P. Michael Conn"
+				],
+				"publisher": "Academic Press",
+				"publishedDate": "2013-05-29",
+				"description": "Animal Models for the Study of Human Disease identifies important animal models and assesses the advantages and disadvantages of each model for the study of human disease. The first section addresses how to locate resources, animal alternatives, animal ethics and related issues, much needed information for researchers across the biological sciences and biomedicine.The next sections of the work offers models for disease-oriented topics, including cardiac and pulmonary diseases, aging, infectious diseases, obesity, diabetes, neurological diseases, joint diseases, visual disorders, cancer, hypertension, genetic diseases, and diseases of abuse. Organized by disease orientation for ease of searchability Provides information on locating resources, animal alternatives and animal ethics Covers a broad range of animal models used in research for human disease",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780124159129"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0124159125"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 1108,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.4.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=dVLVLIV8rD0C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=dVLVLIV8rD0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=dVLVLIV8rD0C&printsec=frontcover&dq=human&hl=&cd=9&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=dVLVLIV8rD0C&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=dVLVLIV8rD0C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 21208.14,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 21208.14,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=dVLVLIV8rD0C&rdid=book-dVLVLIV8rD0C&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 21208140000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 21208140000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Animal_Models_for_the_Study_of_Human_Dis-sample-epub.acsm?id=dVLVLIV8rD0C&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Animal_Models_for_the_Study_of_Human_Dis-sample-pdf.acsm?id=dVLVLIV8rD0C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=dVLVLIV8rD0C&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The first section addresses how to locate resources, animal alternatives, animal ethics and related issues, much needed information for researchers across the biological sciences and biomedicine.The next sections of the work offers models ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "tmqPDwAAQBAJ",
+			"etag": "05aoCRAvcng",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/tmqPDwAAQBAJ",
+			"volumeInfo": {
+				"title": "The Hypothetical Species",
+				"subtitle": "Variables of Human Evolution",
+				"authors": [
+					"Michael Charles Tobias",
+					"Jane Gray Morrison"
+				],
+				"publisher": "Springer",
+				"publishedDate": "2019-03-28",
+				"description": "This book is a provocative and invigorating real-time exploration of the future of human evolution by two of the world’s leading interdisciplinary ecologists – Michael Charles Tobias and Jane Gray Morrison. Steeped in a rich multitude of the sciences and humanities, the book enshrines an elegant narrative that is highly empathetic, personal, scientifically wide-ranging and original. It focuses on the geo-positioning of the human Self and its corresponding species. The book's overarching viewpoints and poignant through-story examine and powerfully challenge concepts associated historically with assertions of human superiority over all other life forms. Ultimately, The Hypothetical Species: Variables of Human Evolution is a deeply considered treatise on the ecological and psychological state of humanity and her options – both within, and outside the rubrics of evolutionary research – for survival. This important work is beautifully presented with nearly 200 diverse illustrations, and is introduced with a foreword by famed paleobiologist, Dr. Melanie DeVore.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783030113193"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3030113191"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 318,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=tmqPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=tmqPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=tmqPDwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=10&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=tmqPDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=tmqPDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2773,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2773,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=tmqPDwAAQBAJ&rdid=book-tmqPDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2773000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2773000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Hypothetical_Species-sample-epub.acsm?id=tmqPDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Hypothetical_Species-sample-pdf.acsm?id=tmqPDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=tmqPDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book is a provocative and invigorating real-time exploration of the future of human evolution by two of the world’s leading interdisciplinary ecologists – Michael Charles Tobias and Jane Gray Morrison."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "cucGKcGkB9sC",
+			"etag": "QK7gOdWbpFo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/cucGKcGkB9sC",
+			"volumeInfo": {
+				"title": "Exploring the Biological Contributions to Human Health",
+				"subtitle": "Does Sex Matter?",
+				"authors": [
+					"Institute of Medicine",
+					"Board on Health Sciences Policy",
+					"Committee on Understanding the Biology of Sex and Gender Differences"
+				],
+				"publisher": "National Academies Press",
+				"publishedDate": "2001-07-02",
+				"description": "It's obvious why only men develop prostate cancer and why only women get ovarian cancer. But it is not obvious why women are more likely to recover language ability after a stroke than men or why women are more apt to develop autoimmune diseases such as lupus. Sex differences in health throughout the lifespan have been documented. Exploring the Biological Contributions to Human Health begins to snap the pieces of the puzzle into place so that this knowledge can be used to improve health for both sexes. From behavior and cognition to metabolism and response to chemicals and infectious organisms, this book explores the health impact of sex (being male or female, according to reproductive organs and chromosomes) and gender (one's sense of self as male or female in society). Exploring the Biological Contributions to Human Health discusses basic biochemical differences in the cells of males and females and health variability between the sexes from conception throughout life. The book identifies key research needs and opportunities and addresses barriers to research. Exploring the Biological Contributions to Human Health will be important to health policy makers, basic, applied, and clinical researchers, educators, providers, and journalists-while being very accessible to interested lay readers.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0309132975"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780309132978"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 288,
+				"printType": "BOOK",
+				"categories": [
+					"Medical"
+				],
+				"averageRating": 3,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "5.8.8.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=cucGKcGkB9sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=cucGKcGkB9sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=cucGKcGkB9sC&printsec=frontcover&dq=human&hl=&cd=11&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=cucGKcGkB9sC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=cucGKcGkB9sC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 3829.41,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 3829.41,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=cucGKcGkB9sC&rdid=book-cucGKcGkB9sC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 3829410000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 3829410000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=cucGKcGkB9sC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "From behavior and cognition to metabolism and response to chemicals and infectious organisms, this book explores the health impact of sex (being male or female, according to reproductive organs and chromosomes) and gender (one&#39;s sense of ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "CGREbdpBOQcC",
+			"etag": "nDJ3oKfy154",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/CGREbdpBOQcC",
+			"volumeInfo": {
+				"title": "An Introduction to Human Evolutionary Anatomy",
+				"authors": [
+					"Leslie Aiello",
+					"Christopher Dean"
+				],
+				"publisher": "Academic Press",
+				"publishedDate": "1990-09-11",
+				"description": "An anthropologist and an anatomist have combined their skills in this book to provide students and research workers with the essentials of anatomy and the means to apply these to investigations into hominid form and function. Using basic principles and relevant bones, conclusions can be reached regarding the probable musculature, stance, brain size, age, weight, and sex of a particular fossil specimen. The sort of deductions which are possible are illustrated by reference back to contemporary apes and humans, and a coherent picture of the history of hominid evolution appears. Written in a clear and concise style and beautifully illustrated, An Introduction to Human Evolutionary Anatomy is a basic reference for all concerned with human evolution as well as a valuable companion to both laboratory practical sessions and new research using fossil skeletons.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780080571003"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "008057100X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 608,
+				"printType": "BOOK",
+				"categories": [
+					"Social Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.4.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=CGREbdpBOQcC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=CGREbdpBOQcC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=CGREbdpBOQcC&printsec=frontcover&dq=human&hl=&cd=12&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=CGREbdpBOQcC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=CGREbdpBOQcC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 4170.12,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 4170.12,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=CGREbdpBOQcC&rdid=book-CGREbdpBOQcC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 4170120000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 4170120000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/An_Introduction_to_Human_Evolutionary_An-sample-epub.acsm?id=CGREbdpBOQcC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/An_Introduction_to_Human_Evolutionary_An-sample-pdf.acsm?id=CGREbdpBOQcC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=CGREbdpBOQcC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "An anthropologist and an anatomist have combined their skills in this book to provide students and research workers with the essentials of anatomy and the means to apply these to investigations into hominid form and function."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "HgIomnaL_OAC",
+			"etag": "jRiJjh0FR0w",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/HgIomnaL_OAC",
+			"volumeInfo": {
+				"title": "The Descent of Human Sex Ratio at Birth",
+				"subtitle": "A Dialogue between Mathematics, Biology and Sociology",
+				"authors": [
+					"Éric Brian",
+					"Marie Jaisson"
+				],
+				"publisher": "Springer Science & Business Media",
+				"publishedDate": "2007-07-24",
+				"description": "This is an attempt to renew our links with the oldest traditions of scholarly thinking, but is also a well-tempered reflection on today’s work in objectivization. After a deconstruction of the past and present conditions of scientific understanding of human sex-ratio at birth, the authors propose a reconstruction of the dynamics of the phenomenon based on stochastics. Appendices provide information on the first expression of sex ratio trends, as well as a comparison of Darwin’s treatments of the subject.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781402060366"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "140206036X"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 258,
+				"printType": "BOOK",
+				"categories": [
+					"Social Science"
+				],
+				"maturityRating": "MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.6.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=HgIomnaL_OAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=HgIomnaL_OAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=HgIomnaL_OAC&printsec=frontcover&dq=human&hl=&cd=13&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=HgIomnaL_OAC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=HgIomnaL_OAC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 8401.6,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 8401.6,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=HgIomnaL_OAC&rdid=book-HgIomnaL_OAC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 8401600000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 8401600000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Descent_of_Human_Sex_Ratio_at_Birth-sample-pdf.acsm?id=HgIomnaL_OAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=HgIomnaL_OAC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This is an attempt to renew our links with the oldest traditions of scholarly thinking, but is also a well-tempered reflection on today’s work in objectivization."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "t-3PmwEACAAJ",
+			"etag": "fDPF15cvkMU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/t-3PmwEACAAJ",
+			"volumeInfo": {
+				"title": "The Techno-human Condition",
+				"authors": [
+					"Braden R. Allenby",
+					"Daniel R. Sarewitz"
+				],
+				"publishedDate": "2013",
+				"description": "\"In this latest version of humanity, we are equipped with a fully re-engineered immune system; the latest set of cultural assumptions about gender, ethnicity, and sexuality; and a suite of customized enhancements, including artificial joints, neurochemical mood modulators, and performance-boosting hormones. In The Techno-Human Condition, Braden Allenby and Daniel Sarewitz explore what it means to be human in an era of incomprehensible technological complexity and change. They argue that if we are to have any prospect of managing that complexity, we will need to escape the shackles of current assumptions about rationality, progress, and certainty, even as we maintain a commitment to fundamental human values.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0262525259"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780262525251"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"Artificial intelligence"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=t-3PmwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=t-3PmwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=t-3PmwEACAAJ&dq=human&hl=&cd=14&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=t-3PmwEACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Techno_human_Condition.html?hl=&id=t-3PmwEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=t-3PmwEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In The Techno-Human Condition, Braden Allenby and Daniel Sarewitz explore what it means to be human in an era of incomprehensible technological complexity and change."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "6yBIEAAAQBAJ",
+			"etag": "n4oBowoV70U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/6yBIEAAAQBAJ",
+			"volumeInfo": {
+				"title": "A Theory of Human Need",
+				"authors": [
+					"Len Doyal",
+					"Ian Gough"
+				],
+				"publisher": "Bloomsbury Publishing",
+				"publishedDate": "1991-08-23",
+				"description": "Rejecting fashionable subjectivist and cultural relativist approaches, this important book argues that human beings have universal and objective needs for health and autonomy and a right to their optimal satisfaction. The authors develop a system of social indicators to show what such optimization would mean in practice and assess the records of a wide range of developed and underdeveloped economies in meeting their citizens' needs.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781349215003"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1349215007"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 374,
+				"printType": "BOOK",
+				"categories": [
+					"Political Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=6yBIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=6yBIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=6yBIEAAAQBAJ&printsec=frontcover&dq=human&hl=&cd=15&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=6yBIEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=6yBIEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 4037,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 4037,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=6yBIEAAAQBAJ&rdid=book-6yBIEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 4037000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 4037000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/A_Theory_of_Human_Need-sample-pdf.acsm?id=6yBIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=6yBIEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Rejecting fashionable subjectivist and cultural relativist approaches, this important book argues that human beings have universal and objective needs for health and autonomy and a right to their optimal satisfaction."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "v12nkhHzD7UC",
+			"etag": "foMm6PEobjw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/v12nkhHzD7UC",
+			"volumeInfo": {
+				"title": "The Human Journey",
+				"subtitle": "A Concise Introduction to World History",
+				"authors": [
+					"Kevin Reilly"
+				],
+				"publisher": "Rowman & Littlefield",
+				"publishedDate": "2012",
+				"description": "The Human Journey offers a truly concise yet satisfying full history of the world from ancient times to the present. Its themes include not only the great questions of the humanities--nature versus nurture, the history and meaning of human variation, the sources of wealth, and causes of revolution--but also the major transformations in human history: agriculture, cities, iron, writing, universal religions, global trade, industrialization, popular government, justice, and equality. Beginning with our most important questions and searching all of our past for answers, this is world history in a grand humanistic tradition.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781442213845"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1442213841"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 255,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=v12nkhHzD7UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=v12nkhHzD7UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=v12nkhHzD7UC&printsec=frontcover&dq=human&hl=&cd=16&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=v12nkhHzD7UC&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Human_Journey.html?hl=&id=v12nkhHzD7UC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Human_Journey-sample-pdf.acsm?id=v12nkhHzD7UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=v12nkhHzD7UC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Beginning with our most important questions and searching all of our past for answers, this is world history in a grand humanistic tradition."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "uNpRDrLfWVwC",
+			"etag": "IjNRnk4r3uQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/uNpRDrLfWVwC",
+			"volumeInfo": {
+				"title": "Anatomies",
+				"subtitle": "The Human Body, Its Parts and The Stories They Tell",
+				"authors": [
+					"Hugh Aldersey-Williams"
+				],
+				"publisher": "Penguin UK",
+				"publishedDate": "2013-02-07",
+				"description": "The Sunday Times Science Book of the Year, Anatomies by Hugh Aldersey-Williams, author of bestseller Periodic Tales, is a splendidly entertaining journey through the art, science, literature and history of the human body. 'Magnificent, inspired. He writes like a latter-day Montaigne. Stimulating scientific hypotheses, bold philosophic theories, illuminating quotations and curious facts. I recommend it to all' Telegraph ***** 'Splendid, highly entertaining, chock-full of insights ... It inserts fascinating scientific snippets and anecdotes about our organs into the wider history of our changing understanding of our bodies' Sunday Times 'A relentlessly entertaining cultural history of the human body ... brims with fascinating details, infectious enthusiasm ... the terrain he covers is so richly brought to life' Guardian 'Elegant and informative ... For Aldersey-Williams, [the body] is a thing of wonder and a repository of fascinating facts' Mail on Sunday **** In Anatomies, bestselling author Hugh Aldersey-Williams investigates that marvellous, mysterious form: the human body. Providing a treasure trove of surprising facts, remarkable stories and startling information drawn from across history, science, art and literature - from finger-prints to angel physiology, from Isaac Newton's death-mask to the afterlife of Einstein's brain - he explores our relationship with our bodies and investigates our changing attitudes to the extraordinary physical shell we inhabit. 'More than a science book - it's also history, biography and autobiography - Anatomies is writing at its most refined, regardless of genre' Sunday Times Praise for Periodic Tales: 'Science writing at its best ... fascinating and beautiful ... if only chemistry had been like this at school ... to meander through the periodic table with him ... is like going round a zoo with Gerald Durrell ... a rich compilation of delicious tales, but it offers greater rewards, too' Matt Ridley 'Immensely engaging and continually makes one sit up in surprise' Sunday Times 'Splendid ... enjoyable and polished' Observer 'Full of good stories and he knows how to tell them well ... an agreeable jumble of anecdote, reflection and information' Sunday Telegraph 'Great fun to read and an endless fund of unlikely and improbable anecdotes ... sharp and often witty' Financial Times Hugh Aldersey-Williams studied natural sciences at Cambridge. He is the author of several books exploring science, design and architecture and has curated exhibitions at the Victoria and Albert Museum and the Wellcome Collection. His previous book Periodic Tales: The Curious Lives of the Elements was a Sunday Times bestseller and has been published in many languages around the world. He lives in Norfolk with his wife and son.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780670920754"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0670920754"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 320,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.14.14.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=uNpRDrLfWVwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=uNpRDrLfWVwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=uNpRDrLfWVwC&printsec=frontcover&dq=human&hl=&cd=17&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=uNpRDrLfWVwC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=uNpRDrLfWVwC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 500.32,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 250.16,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=uNpRDrLfWVwC&rdid=book-uNpRDrLfWVwC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 500320000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 250160000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Anatomies-sample-epub.acsm?id=uNpRDrLfWVwC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=uNpRDrLfWVwC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Sunday Times Science Book of the Year, Anatomies by Hugh Aldersey-Williams, author of bestseller Periodic Tales, is a splendidly entertaining journey through the art, science, literature and history of the human body."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "XkzECwAAQBAJ",
+			"etag": "hMvDNtB283c",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/XkzECwAAQBAJ",
+			"volumeInfo": {
+				"title": "The Human Advantage",
+				"subtitle": "A New Understanding of How Our Brain Became Remarkable",
+				"authors": [
+					"Suzana Herculano-Houzel"
+				],
+				"publisher": "MIT Press",
+				"publishedDate": "2016-03-18",
+				"description": "Why our human brains are awesome, and how we left our cousins, the great apes, behind: a tale of neurons and calories, and cooking. Humans are awesome. Our brains are gigantic, seven times larger than they should be for the size of our bodies. The human brain uses 25% of all the energy the body requires each day. And it became enormous in a very short amount of time in evolution, allowing us to leave our cousins, the great apes, behind. So the human brain is special, right? Wrong, according to Suzana Herculano-Houzel. Humans have developed cognitive abilities that outstrip those of all other animals, but not because we are evolutionary outliers. The human brain was not singled out to become amazing in its own exclusive way, and it never stopped being a primate brain. If we are not an exception to the rules of evolution, then what is the source of the human advantage? Herculano-Houzel shows that it is not the size of our brain that matters but the fact that we have more neurons in the cerebral cortex than any other animal, thanks to our ancestors' invention, some 1.5 million years ago, of a more efficient way to obtain calories: cooking. Because we are primates, ingesting more calories in less time made possible the rapid acquisition of a huge number of neurons in the still fairly small cerebral cortex—the part of the brain responsible for finding patterns, reasoning, developing technology, and passing it on through culture. Herculano-Houzel shows us how she came to these conclusions—making “brain soup” to determine the number of neurons in the brain, for example, and bringing animal brains in a suitcase through customs. The Human Advantage is an engaging and original look at how we became remarkable without ever being special.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780262333207"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0262333201"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 271,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.6.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=XkzECwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=XkzECwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=XkzECwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=18&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=XkzECwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=XkzECwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 1053.74,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 526.87,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=XkzECwAAQBAJ&rdid=book-XkzECwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 1053740000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 526870000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Human_Advantage-sample-epub.acsm?id=XkzECwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Human_Advantage-sample-pdf.acsm?id=XkzECwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=XkzECwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Human Advantage is an engaging and original look at how we became remarkable without ever being special."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "IBDAQgAACAAJ",
+			"etag": "cxW9gswJt80",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/IBDAQgAACAAJ",
+			"volumeInfo": {
+				"title": "Human Rights and Human Diversity",
+				"subtitle": "An Essay in the Philosophy of Human Rights",
+				"authors": [
+					"A. J. M. Milne"
+				],
+				"publisher": "SUNY Press",
+				"publishedDate": "1986-12-24",
+				"description": "This original and provocative book is concerned with fundamental questions in moral, political, and legal philosophy. It challenges both supporters and sceptics alike to rethink their ideas about human rights. The author explains that human life is not the same everywhere, noting that there are different traditions of culture and civilization. He argues that an adequate idea of human rights must take such a diversity seriously, and unlike the UN Declaration, it must not presuppose Western institutions and values. This theory of human rights developed by Milne deals systematically with the philosophical issues it raises. He shows that human rights can only be a minimum standard, not a panacea for the troubles of humanity. And that this significance, although modest, should not be underrated.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0887063675"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780887063671"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 186,
+				"printType": "BOOK",
+				"categories": [
+					"Philosophy"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=IBDAQgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=IBDAQgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=IBDAQgAACAAJ&dq=human&hl=&cd=19&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=IBDAQgAACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human_Rights_and_Human_Diversity.html?hl=&id=IBDAQgAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=IBDAQgAACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "He argues that an adequate idea of human rights must take such a diversity seriously, and unlike the UN Declaration, it must not presuppose Western institutions and values."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "1EiJAwAAQBAJ",
+			"etag": "d40I7M07u3g",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/1EiJAwAAQBAJ",
+			"volumeInfo": {
+				"title": "Sapiens",
+				"subtitle": "THE MULTI-MILLION COPY BESTSELLER",
+				"authors": [
+					"Yuval Noah Harari"
+				],
+				"publisher": "Random House",
+				"publishedDate": "2014-09-04",
+				"description": "'Interesting and provocative... It gives you a sense of how briefly we've been on this Earth' Barack Obama What makes us brilliant? What makes us deadly? What makes us Sapiens? One of the world's preeminent historians and thinkers, Yuval Noah Harari challenges everything we know about being human. Earth is 4.5 billion years old. In just a fraction of that time, one species among countless others has conquered it: us. In this bold and provocative book, Yuval Noah Harari explores who we are, how we got here and where we're going. **ONE OF THE GUARDIAN'S 100 BEST BOOKS OF THE 21st CENTURY** PRAISE FOR SAPIENS: 'Jaw-dropping from the first word to the last... It may be the best book I've ever read' Chris Evans 'Startling... It changes the way you look at the world' Simon Mayo 'I would recommend Sapiens to anyone who's interested in the history and future of our species' Bill Gates",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781448190690"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "144819069X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 353,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"averageRating": 4.5,
+				"ratingsCount": 12,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.30.28.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=1EiJAwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=1EiJAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=1EiJAwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=20&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=1EiJAwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=1EiJAwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 529.82,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 264.91,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=1EiJAwAAQBAJ&rdid=book-1EiJAwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 529820000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 264910000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Sapiens-sample-epub.acsm?id=1EiJAwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=1EiJAwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "It may be the best book I&#39;ve ever read&#39; Chris Evans &#39;Startling... It changes the way you look at the world&#39; Simon Mayo &#39;I would recommend Sapiens to anyone who&#39;s interested in the history and future of our species&#39; Bill Gates"
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "N81uPgAACAAJ",
+			"etag": "dBqVvdwpQEc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/N81uPgAACAAJ",
+			"volumeInfo": {
+				"title": "Human-animal Medicine",
+				"subtitle": "Clinical Approaches to Zoonoses, Toxicants, and Other Shared Health Risks",
+				"authors": [
+					"Peter MacGarr Rabinowitz",
+					"Lisa A. Conti"
+				],
+				"publisher": "Saunders",
+				"publishedDate": "2010",
+				"description": "Focusing on the emerging diseases that cross between animals and humans, this text points out the important environmental changes related to land use, climate change, intensification of food production, and other factors that help manifest these diseases.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1416068376"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781416068372"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"Environmental health"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=N81uPgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=N81uPgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=N81uPgAACAAJ&dq=human&hl=&cd=21&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=N81uPgAACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human_animal_Medicine.html?hl=&id=N81uPgAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=N81uPgAACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Focusing on the emerging diseases that cross between animals and humans, this text points out the important environmental changes related to land use, climate change, intensification of food production, and other factors that help manifest ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "_-MR9NX3DcAC",
+			"etag": "OkdYg20H0l0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/_-MR9NX3DcAC",
+			"volumeInfo": {
+				"title": "Human Genes and Genomes",
+				"subtitle": "Science, Health, Society",
+				"authors": [
+					"Leon E. Rosenberg",
+					"Diane Drobnis Rosenberg"
+				],
+				"publisher": "Academic Press",
+				"publishedDate": "2012-05-21",
+				"description": "In the nearly 60 years since Watson and Crick proposed the double helical structure of DNA, the molecule of heredity, waves of discoveries have made genetics the most thrilling field in the sciences. The study of genes and genomics today explores all aspects of the life with relevance in the lab, in the doctor’s office, in the courtroom and even in social relationships. In this helpful guidebook, one of the most respected and accomplished human geneticists of our time communicates the importance of genes and genomics studies in all aspects of life. With the use of core concepts and the integration of extensive references, this book provides students and professionals alike with the most in-depth view of the current state of the science and its relevance across disciplines. Bridges the gap between basic human genetic understanding and one of the most promising avenues for advances in the diagnosis, prevention and treatment of human disease. Includes the latest information on diagnostic testing, population screening, predicting disease susceptibility, pharmacogenomics and more Explores ethical, legal, regulatory and economic aspects of genomics in medicine. Integrates historical (classical) genetics approach with the latest discoveries in structural and functional genomics",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780123852137"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0123852137"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 446,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.7.6.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=_-MR9NX3DcAC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=_-MR9NX3DcAC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=_-MR9NX3DcAC&printsec=frontcover&dq=human&hl=&cd=22&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=_-MR9NX3DcAC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=_-MR9NX3DcAC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 7187.38,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 7187.38,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=_-MR9NX3DcAC&rdid=book-_-MR9NX3DcAC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 7187380000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 7187380000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Genes_and_Genomes-sample-epub.acsm?id=_-MR9NX3DcAC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Genes_and_Genomes-sample-pdf.acsm?id=_-MR9NX3DcAC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=_-MR9NX3DcAC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "With the use of core concepts and the integration of extensive references, this book provides students and professionals alike with the most in-depth view of the current state of the science and its relevance across disciplines."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "zHYO1Fh9_JMC",
+			"etag": "pC6ZFFkgtM4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/zHYO1Fh9_JMC",
+			"volumeInfo": {
+				"title": "A Treatise of Human Nature",
+				"authors": [
+					"David Hume"
+				],
+				"publisher": "Courier Corporation",
+				"publishedDate": "2003-01-01",
+				"description": "Unpopular in its day, David Hume's sprawling, three-volume 'A Treatise of Human Nature' (1739-40) has withstood the test of time and had enormous impact on subsequent philosophical thought. Hume's comprehensive effort to form an observationally grounded study of human nature employs John Locke's empiric principles to construct a theory of knowledge from which to evaluate metaphysical ideas. A key to modern studies of eighteenth-century Western philosophy, the Treatise considers numerous classic philosophical issues, including causation, existence, freedom and necessity, and morality. Unabridged republication of the edition originally published by Oxford at the Clarendon Press, London, 1888.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0486432505"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780486432502"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 484,
+				"printType": "BOOK",
+				"categories": [
+					"Philosophy"
+				],
+				"averageRating": 3.5,
+				"ratingsCount": 13,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "7.9.8.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=zHYO1Fh9_JMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=zHYO1Fh9_JMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=zHYO1Fh9_JMC&printsec=frontcover&dq=human&hl=&cd=23&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=zHYO1Fh9_JMC&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/A_Treatise_of_Human_Nature.html?hl=&id=zHYO1Fh9_JMC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/A_Treatise_of_Human_Nature-sample-epub.acsm?id=zHYO1Fh9_JMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/A_Treatise_of_Human_Nature-sample-pdf.acsm?id=zHYO1Fh9_JMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=zHYO1Fh9_JMC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Unabridged republication of the edition originally published by Oxford at the Clarendon Press, London, 1888."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "S8TU01Dd3moC",
+			"etag": "R0NJhQBTTfo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/S8TU01Dd3moC",
+			"volumeInfo": {
+				"title": "To Be Human",
+				"authors": [
+					"Jiddu Krishnamurti"
+				],
+				"publisher": "Shambhala Publications",
+				"publishedDate": "2000-10-10",
+				"description": "To Be Human presents Krishnamurti's radical vision of life in a new way. At the heart of this extraordinary collection are passages from the great teacher's talks that amplify and clarify the nature of truth and those obstacles that often prevent us from seeing it. Most of these core teachings have not been available in print until now. Besides presenting the core of Krishnamurti's message, the book alerts the reader to his innovative use of language, the ways in which he would use \"old words with new interpretations,\" then gives practical examples, showing that we can clarify our understanding of life itself—and act on this new understanding. The splendid introduction by David Skitt discusses Krishnamurti's philosophy as a guide to knowledge and experience, the roles knowledge and experience should play in our lives, and the times when it is best to cast them aside and \"look and act anew.\" The book's source notes will aid the inquisitive reader who wishes a deeper understanding of this great teacher's message.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0834825538"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780834825536"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 192,
+				"printType": "BOOK",
+				"categories": [
+					"Philosophy"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.5.9.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=S8TU01Dd3moC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=S8TU01Dd3moC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=S8TU01Dd3moC&printsec=frontcover&dq=human&hl=&cd=24&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=S8TU01Dd3moC&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/To_Be_Human.html?hl=&id=S8TU01Dd3moC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/To_Be_Human-sample-epub.acsm?id=S8TU01Dd3moC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/To_Be_Human-sample-pdf.acsm?id=S8TU01Dd3moC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=S8TU01Dd3moC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "At the heart of this extraordinary collection are passages from the great teacher&#39;s talks that amplify and clarify the nature of truth and those obstacles that often prevent us from seeing it."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ZNDqoOSh1_kC",
+			"etag": "KAWy3FDxOP8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ZNDqoOSh1_kC",
+			"volumeInfo": {
+				"title": "Human Toxicology",
+				"authors": [
+					"J. Descotes"
+				],
+				"publisher": "Elsevier",
+				"publishedDate": "1996-09-02",
+				"description": "This excellent volume was designed and edited with two major ideas in mind: firstly, the field of clinical toxicology is changing and an acknowledgement of these changes is warranted; secondly, no comprehensive compilation of recently published case reports of, and clinical studies on, human poisonings is available, which is in sharp contrast to the closely related field of drug-induced side-effects. The book focusses on issues of recent concern, or issues poorly documented in the past. It is important that clinical toxicologists gain a better knowledge of all the available techniques of toxicological analysis. A better understanding of the way a sound interpretation of results should be conducted for the benefit of the patient's management, and a comprehensive set of data on the kinetics of the most common pharmaceutical drugs and many chemicals is required. Human Toxicology is a timely reference work which will be welcomed by a broad audience of toxicology professionals.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0080534228"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780080534220"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 839,
+				"printType": "BOOK",
+				"categories": [
+					"Medical"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.10.4.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ZNDqoOSh1_kC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ZNDqoOSh1_kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=ZNDqoOSh1_kC&printsec=frontcover&dq=human&hl=&cd=25&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=ZNDqoOSh1_kC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=ZNDqoOSh1_kC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 28041.52,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 28041.52,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=ZNDqoOSh1_kC&rdid=book-ZNDqoOSh1_kC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 28041520000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 28041520000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Toxicology-sample-epub.acsm?id=ZNDqoOSh1_kC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Toxicology-sample-pdf.acsm?id=ZNDqoOSh1_kC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ZNDqoOSh1_kC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This excellent volume was designed and edited with two major ideas in mind: firstly, the field of clinical toxicology is changing and an acknowledgement of these changes is warranted; secondly, no comprehensive compilation of recently ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "jos3AQAAMAAJ",
+			"etag": "z8kT3oceC0E",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/jos3AQAAMAAJ",
+			"volumeInfo": {
+				"title": "The Human Species",
+				"authors": [
+					"Armand de Quatrefages de Bréau"
+				],
+				"publishedDate": "1881",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "MINN:31951002358327A"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 528,
+				"printType": "BOOK",
+				"categories": [
+					"Anthropology"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.5.0.full.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=jos3AQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=jos3AQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=jos3AQAAMAAJ&printsec=frontcover&dq=human&hl=&cd=26&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=jos3AQAAMAAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=jos3AQAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FREE",
+				"isEbook": true,
+				"buyLink": "https://play.google.com/store/books/details?id=jos3AQAAMAAJ&rdid=book-jos3AQAAMAAJ&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": true,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false,
+					"downloadLink": "http://books.google.co.in/books/download/The_Human_Species.epub?id=jos3AQAAMAAJ&hl=&output=epub&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"downloadLink": "http://books.google.co.in/books/download/The_Human_Species.pdf?id=jos3AQAAMAAJ&hl=&output=pdf&sig=ACfU3U0AEhfOGP5HKXO4VXXlSDPlGkcBbQ&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=jos3AQAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "FULL_PUBLIC_DOMAIN",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "egN_BAAAQBAJ",
+			"etag": "gojvFDJXgss",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/egN_BAAAQBAJ",
+			"volumeInfo": {
+				"title": "Human Rights",
+				"subtitle": "Between Idealism and Realism",
+				"authors": [
+					"Christian Tomuschat"
+				],
+				"publisher": "Collected Courses of the Acade",
+				"publishedDate": "2014",
+				"description": "This third edition of Human Rights: Between Idealism and Realism presents human rights in action, focusing on their effectiveness as legal tools designed to benefit human beings. By combining conceptual analysis with an emphasis on procedures and mechanisms of implementation, this volume provides a multidimensional overview of human rights. After examining briefly the history of human rights, the author analyses the intellectual framework that forms the basis of their legitimacy. In particular, he covers the concept of universality and the widely used model that classifies human rights into clusters of different 'generations'. In this edition, the author brings together the fundamental aspects of human rights law, addressing human dignity as the ethical foundation of human rights, the principle of equality and non-discrimination as the essence of any culture of human rights, the protections against racial discrimination and discrimination against women, and assesses the individual as a subject of international law. The volume then moves on to assess the activities of the political institutions of the United Nations, the expert bodies established by the relevant treaties, and the international tribunals specifically entrusted at the regional level with protecting human rights. This edition also includes specific analysis of the actions mandated by the UN Security Council against Libya in 2011. It also includes greater coverage of the jurisprudence of the Inter-American Court of Human Rights and the African Commission on Human and Peoples' Rights. The author explains how and why the classical array of politically inspired informal devices has been enriched by the addition of international criminal procedures and by endeavors to introduce civil suits against alleged individual violators of human rights. Finally, the volume is rounded off by a consideration of the importance of humanitarian law as an instrument for the protection of human life and dignity and an exploration of the future of human rights.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780199683734"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0199683735"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 529,
+				"printType": "BOOK",
+				"categories": [
+					"Law"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=egN_BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=egN_BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=egN_BAAAQBAJ&printsec=frontcover&dq=human&hl=&cd=27&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=egN_BAAAQBAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human_Rights.html?hl=&id=egN_BAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Rights-sample-pdf.acsm?id=egN_BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=egN_BAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This third edition of Human Rights: Between Idealism and Realism presents human rights in action, focusing on their effectiveness as legal tools designed to benefit human beings."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "TNHUBQAAQBAJ",
+			"etag": "wyCIvxdMb3o",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/TNHUBQAAQBAJ",
+			"volumeInfo": {
+				"title": "Basics in Human Evolution",
+				"authors": [
+					"Michael P Muehlenbein"
+				],
+				"publisher": "Academic Press",
+				"publishedDate": "2015-07-24",
+				"description": "Basics in Human Evolution offers a broad view of evolutionary biology and medicine. The book is written for a non-expert audience, providing accessible and convenient content that will appeal to numerous readers across the interdisciplinary field. From evolutionary theory, to cultural evolution, this book fills gaps in the readers’ knowledge from various backgrounds and introduces them to thought leaders in human evolution research. Offers comprehensive coverage of the wide ranging field of human evolution Written for a non-expert audience, providing accessible and convenient content that will appeal to numerous readers across the interdisciplinary field Provides expertise from leading minds in the field Allows the reader the ability to gain exposure to various topics in one publication",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780128026939"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0128026936"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 584,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=TNHUBQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=TNHUBQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=TNHUBQAAQBAJ&printsec=frontcover&dq=human&hl=&cd=28&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=TNHUBQAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=TNHUBQAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 8628.16,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 8628.16,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=TNHUBQAAQBAJ&rdid=book-TNHUBQAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 8628160000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 8628160000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Basics_in_Human_Evolution-sample-epub.acsm?id=TNHUBQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Basics_in_Human_Evolution-sample-pdf.acsm?id=TNHUBQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=TNHUBQAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "From evolutionary theory, to cultural evolution, this book fills gaps in the readers’ knowledge from various backgrounds and introduces them to thought leaders in human evolution research."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "WH5WEAAAQBAJ",
+			"etag": "7V65m5FIJLM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/WH5WEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Embryogeny and Phylogeny of the Human Posture 2",
+				"subtitle": "A New Glance at the Future of our Species",
+				"authors": [
+					"Anne Dambricourt Malasse"
+				],
+				"publisher": "John Wiley & Sons",
+				"publishedDate": "2022-01-26",
+				"description": "The future of the human posture is in the spotlight. The 200-year-old locomotion paradigm can no longer resist the advancement of knowledge, yet 2,500 years of thinking on the place of verticalized human anatomy and its reflexive consciousness in the natural history of life and the Earth, is more relevant than ever. This book retraces these reflections from pre-Socratic philosophers, focusing on the link between verticality and the most complex and consciously reflexive nervous system on the top rung of the ladder of living beings. The origin of animated forms, or animals, was considered metaphysical until the 19th century but reflection on their inception, from fertilization, paved the way for mathematics of infinitesimal geometry and dynamics. The simian filiation was inconceivable until Jean-Baptiste de Lamarck bridged the gap in 1802 with the locomotion postulate to explain the transition from quadrupedal to bipedal posture, sustained by the hypothesis of inheritance of acquired characteristics. This doctrine was overturned in 1987 by the discovery of the embryonic origins of the straightening – specific dynamics linked to neurogenesis – confirming the natural place of human verticality and nervous system complexity with its psychomotor and cognitive consequences. Sapiens find themselves at the physical limit of the straightening while mechanisms of gametogenesis have never ceased in making neurogenesis exponentially more complex. Is the future exclusively terrestrial or does intrauterine hominization open up new perspectives for space exploration? Posturologists, occlusodontics, osteopaths, cognisciences – all anthropological sciences exposed to human verticality are concerned with this discovery, which allows Sapiens to face their natural destiny.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781786307293"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1786307294"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 274,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=WH5WEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=WH5WEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=WH5WEAAAQBAJ&printsec=frontcover&dq=human&hl=&cd=29&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=WH5WEAAAQBAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Embryogeny_and_Phylogeny_of_the_Human_Po.html?hl=&id=WH5WEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Embryogeny_and_Phylogeny_of_the_Human_Po-sample-pdf.acsm?id=WH5WEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=WH5WEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book retraces these reflections from pre-Socratic philosophers, focusing on the link between verticality and the most complex and consciously reflexive nervous system on the top rung of the ladder of living beings."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "TOf_DwAAQBAJ",
+			"etag": "5YvEwvoWAdg",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/TOf_DwAAQBAJ",
+			"volumeInfo": {
+				"title": "I was born human",
+				"authors": [
+					"sthitapragyan Mohanty"
+				],
+				"publisher": "BooksClub",
+				"publishedDate": "2020-09-29",
+				"description": "In this immortal world, we have witnessed people of various kinds and experiences. We have seen engineers, doctors, lawyers, entrepreneurs, teachers, readers and many more. But we hardly see humans. A Human is somewhere pushed inside, behind the mask of all these characters. We fail to love, care, help and understand the importance of being a human. Humans were known for their creativity and humanity. In today's world, we succeed in living a life killing the human inside us which led to chaos, depression, hate and downfall. When the whole world is going through a transition period with the extinction of humans, it's time to revive and make them fall in love with the human inside us. This book is a token of emotion for humans.",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 212,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 5,
+				"ratingsCount": 3,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=TOf_DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=TOf_DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=TOf_DwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=30&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=TOf_DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=TOf_DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 116.82,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 116.82,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=TOf_DwAAQBAJ&rdid=book-TOf_DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 116820000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 116820000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=TOf_DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "When the whole world is going through a transition period with the extinction of humans, it&#39;s time to revive and make them fall in love with the human inside us. This book is a token of emotion for humans."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "iqWwAAAAIAAJ",
+			"etag": "Ud8MvC28YPs",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/iqWwAAAAIAAJ",
+			"volumeInfo": {
+				"title": "The Human Direction",
+				"subtitle": "An Evolutionary Approach to Social and Cultural Anthropology",
+				"authors": [
+					"James L. Peacock",
+					"A. Thomas Kirsch"
+				],
+				"publishedDate": "1970",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UCAL:B4381145"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 362,
+				"printType": "BOOK",
+				"categories": [
+					"Ethnology"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.3.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=iqWwAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=iqWwAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=iqWwAAAAIAAJ&q=human&dq=human&hl=&cd=31&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=iqWwAAAAIAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Human_Direction.html?hl=&id=iqWwAAAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=iqWwAAAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "DgE8ITskDEcC",
+			"etag": "P3j7pUWj0RU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/DgE8ITskDEcC",
+			"volumeInfo": {
+				"title": "What Does it Mean to be Human?",
+				"authors": [
+					"Richard Potts",
+					"Christopher Sloan"
+				],
+				"publisher": "National Geographic Books",
+				"publishedDate": "2010",
+				"description": "This generously illustrated book tells the story of the human family, showing how our species' physical traits and behaviors evolved over millions of years as our ancestors adapted to dramatic environmental changes. In What Does It Means to Be Human? Rick Potts, director of the Smithsonian's Human Origins Program, and Chris Sloan, National Geographic's paleoanthropolgy expert, delve into our distant past to explain when, why, and how we acquired the unique biological and cultural qualities that govern our most fundamental connections and interactions with other people and with the natural world. Drawing on the latest research, they conclude that we are the last survivors of a once-diverse family tree, and that our evolution was shaped by one of the most unstable eras in Earth's environmental history. The book presents a wealth of attractive new material especially developed for the Hall's displays, from life-like reconstructions of our ancestors sculpted by the acclaimed John Gurche to photographs from National Geographic and Smithsonian archives, along with informative graphics and illustrations. In coordination with the exhibit opening, the PBS program NOVA will present a related three-part television series, and the museum will launch a website expected to draw 40 million visitors.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781426206061"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1426206062"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 180,
+				"printType": "BOOK",
+				"categories": [
+					"Human beings"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.4.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=DgE8ITskDEcC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=DgE8ITskDEcC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=DgE8ITskDEcC&dq=human&hl=&cd=32&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=DgE8ITskDEcC&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/What_Does_it_Mean_to_be_Human.html?hl=&id=DgE8ITskDEcC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=DgE8ITskDEcC&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This generously illustrated book tells the story of the human family, showing how our species&#39; physical traits and behaviors evolved over millions of years as our ancestors adapted to dramatic environmental changes."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Wzq9jwEACAAJ",
+			"etag": "rrwOZAxzpPQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Wzq9jwEACAAJ",
+			"volumeInfo": {
+				"title": "Human Dignity",
+				"subtitle": "A Way of Living",
+				"authors": [
+					"Peter Bieri"
+				],
+				"publisher": "Polity",
+				"publishedDate": "2017-02-13",
+				"description": "Dignity is humanitys most prized possession. We experience the loss of dignity as a terrible humiliation: when we lose our dignity we feel deprived of something without which life no longer seems worth living. But what exactly is this trait that we value so highly? In this important new book, distinguished philosopher Peter Bieri looks afresh at the notion of human dignity. In contrast to most traditional views, he argues that dignity is not an innate quality of human beings or a right that we possess by virtue of being human. Rather, dignity is a certain way to lead ones life. It is a pattern of thought, experience and action – in other words, a way of living. In Bieris account, there are three key dimensions to dignity as a way of living. The first is the way I am treated by others: they can treat me in a way that leaves my dignity intact or they can destroy my dignity. The second dimension concerns the way that I treat other people: do I treat them in a way that allows me to live a dignified life? The third dimension concerns the view that I have of myself: which ways of seeing and treating myself allow me to maintain a sense of dignity? In the actual flow of day-to-day life these three dimensions of dignity are often interwoven, and this accounts in part for the complexity of the situations and experiences in which our dignity is at stake. So, why did we invent dignity and what role does it play in our lives? As thinking and acting beings, our lives are fragile and constantly under threat. A dignified way of living, argues Bieri, is humanitys way of coping with this threat. In our constantly endangered lives, it is important to stand our ground with confidence. Thus a dignified way of living is not any way of living: it is a particular way of responding to the existential experience of being under threat. It is also a particular way of answering the question: What kind of life do we wish to live? This beautifully written reflection on our most cherished human value will be of interest to a wide readership.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0745689019"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780745689012"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"Philosophy"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Wzq9jwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Wzq9jwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Wzq9jwEACAAJ&dq=human&hl=&cd=33&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=Wzq9jwEACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human_Dignity.html?hl=&id=Wzq9jwEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Wzq9jwEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "But what exactly is this trait that we value so highly? In this important new book, distinguished philosopher Peter Bieri looks afresh at the notion of human dignity."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Q0KGYMTtsK4C",
+			"etag": "mlGjtsM+U1U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Q0KGYMTtsK4C",
+			"volumeInfo": {
+				"title": "Does God Believe in Human Rights?",
+				"subtitle": "Essays on Religion and Human Rights",
+				"authors": [
+					"Nazila Ghanea-Hercock",
+					"Alan Andrew Stephens",
+					"Raphael Walden"
+				],
+				"publisher": "Martinus Nijhoff Publishers",
+				"publishedDate": "2007",
+				"description": "Where can religions find sources of legitimacy for human rights? How do, and how should, religious leaders and communities respond to human rights as defined in modern International Law? When religious precepts contradict human rights standards - for example in relation to freedom of expression or in relation to punishments - which should trump the other, and why? Can human rights and religious teachings be interpreted in a manner which brings reconciliation closer? Do the modern concept and system of human rights undermine the very vision of society that religions aim to impart? Is a reference to God in the discussion of human rights misplaced? Do human fallibilities with respect to interpretation, judicial reasoning and the understanding of human oneness and dignity provide the key to the undeniable and sometimes devastating conflicts that have arisen between, and within, religions and the human rights movement? In this volume, academics and lawyers tackle these most difficult questions head-on, with candour and creativity, and the collection is rendered unique by the further contributions of a remarkable range of other professionals, including senior religious leaders and representatives, journalists, diplomats and civil servants, both national and international. Most notably, the contributors do not shy away from the boldest question of all - summed up in the book's title. The thoroughly edited and revised papers which make up this collection were originally prepared for a ground-breaking conference organised by the Clemens Nathan Research Centre, the University of London Institute of Commonwealth Studies and Martinus Nijhoff/Brill.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9789004152540"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "9004152547"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 296,
+				"printType": "BOOK",
+				"categories": [
+					"Political Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "3.2.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Q0KGYMTtsK4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Q0KGYMTtsK4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Q0KGYMTtsK4C&printsec=frontcover&dq=human&hl=&cd=34&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=Q0KGYMTtsK4C&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Does_God_Believe_in_Human_Rights.html?hl=&id=Q0KGYMTtsK4C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Does_God_Believe_in_Human_Rights-sample-pdf.acsm?id=Q0KGYMTtsK4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Q0KGYMTtsK4C&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In this volume, academics and lawyers tackle these most difficult questions head-on, with candour and creativity, and the collection is rendered unique by the further contributions of a remarkable range of other professionals, including ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "TP9cDwAAQBAJ",
+			"etag": "PhFlw9CT4WQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/TP9cDwAAQBAJ",
+			"volumeInfo": {
+				"title": "English Communication for Social and Human Services",
+				"subtitle": "A Cultural-Linguistic Approach",
+				"authors": [
+					"Mary Ellen Toffle"
+				],
+				"publisher": "Celid",
+				"publishedDate": "2017-08-31",
+				"description": "This book gives social and human services students and professionals the opportunity to begin developing cross-cultural communication skills in the English language. The need to be able to communicate in English is becoming more and more obvious. Social workers and other human services professionals will be working with immigrants from countries where English is the official language or at least a second language (Nigeria, Ghana, The Gambia, etc). The growing numbers of English- speaking immigrants are impacting the human services fields of medicine, mental health, social work, the education systems and the legal systems all over Europe. This book is based on the European Common Framework but goes beyond a typical English language text. It focuses on the various skill sets necessary for human services professionals, including important text analysis skills as well as analytical case skills. “Soft skills” such as interpersonal skills and expressing empathy are also presented for student reflection. Students learn the principles of cross-cultural communication through Cross-Cultural Text Analysis which helps them improve their English as they develop cross-cultural awareness, sensitivity and communication skills. Students experience different cultural-linguistic contexts where they can appreciate the dynamic relationship between culture and language applied to the field of human services. For many this book will be the first step in beginning a lifetime adventure of becoming cross-cultural.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9788867890866"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "8867890867"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 360,
+				"printType": "BOOK",
+				"categories": [
+					"Language Arts & Disciplines"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.4.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=TP9cDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=TP9cDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=TP9cDwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=35&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=TP9cDwAAQBAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/English_Communication_for_Social_and_Hum.html?hl=&id=TP9cDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/English_Communication_for_Social_and_Hum-sample-pdf.acsm?id=TP9cDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=TP9cDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book gives social and human services students and professionals the opportunity to begin developing cross-cultural communication skills in the English language."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "F0S1BwAAQBAJ",
+			"etag": "1ZEew1k9ibk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/F0S1BwAAQBAJ",
+			"volumeInfo": {
+				"title": "Ownership of the Human Body",
+				"subtitle": "Philosophical Considerations on the Use of the Human Body and its Parts in Healthcare",
+				"authors": [
+					"H.A. Ten Have",
+					"J.W. Welie"
+				],
+				"publisher": "Springer Science & Business Media",
+				"publishedDate": "2013-11-11",
+				"description": "This is the first book in healthcare ethics addressing the moral issues regarding ownership of the human body. Modern medicine increasingly transforms the body and makes use of body parts for diagnostic, therapeutic and preventive purposes. The book analyzes the concept of body ownership. It also reviews the ownership issues arising in clinical care (for example, donation policies, autopsy) and biomedical research. Societies and legal systems also have to deal with issues of body ownership. A comparison is made between specific legal arrangements in The Netherlands and France, as examples of legal approaches. In the final section of the book, different theoretical perspectives on the human body are analyzed: libertarian, personalist, deontological and utilitarian theories of body ownership.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9789401591294"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "9401591296"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 240,
+				"printType": "BOOK",
+				"categories": [
+					"Medical"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=F0S1BwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=F0S1BwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=F0S1BwAAQBAJ&printsec=frontcover&dq=human&hl=&cd=36&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=F0S1BwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=F0S1BwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 12626,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 12626,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=F0S1BwAAQBAJ&rdid=book-F0S1BwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 12626000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 12626000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Ownership_of_the_Human_Body-sample-epub.acsm?id=F0S1BwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Ownership_of_the_Human_Body-sample-pdf.acsm?id=F0S1BwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=F0S1BwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This is the first book in healthcare ethics addressing the moral issues regarding ownership of the human body. Modern medicine increasingly transforms the body and makes use of body parts for diagnostic, therapeutic and preventive purposes."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "6yKpNAEACAAJ",
+			"etag": "A+vxik2geV0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/6yKpNAEACAAJ",
+			"volumeInfo": {
+				"title": "Human Purpose and Transhuman Potential",
+				"subtitle": "A Cosmic Vision of Our Future Evolution",
+				"authors": [
+					"Ted Chu"
+				],
+				"publisher": "Origin Press (CA)",
+				"publishedDate": "2014",
+				"description": "For millennia, great thinkers have contemplated the meaning and purpose of human existence; but while most assumed that humanity was the end point of creation or the pinnacle of evolution, Ted Chu makes the provocative claim that the human race may in fact be a means rather than an end--that humankind will give rise to evolutionary successors. In this wide-ranging and authoritative work, Chu reexamines the question of human purpose in light of the extraordinary developments of science and technology. Arguing that a deep understanding of our place in the universe is required to navigate the magnitude of the choices that lie ahead, he surveys human wisdom from both East and West, traces the evolutionary trajectory that has led to this point, and explores the potentials emerging on the scientific frontier. The book addresses the legitimate fears and concerns of \"playing God\" but embraces the possibility of transcending biological forms and becoming or creating entirely new life-forms.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1579830250"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781579830250"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=6yKpNAEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=6yKpNAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=6yKpNAEACAAJ&dq=human&hl=&cd=37&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=6yKpNAEACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Human_Purpose_and_Transhuman_Potential.html?hl=&id=6yKpNAEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=6yKpNAEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The book addresses the legitimate fears and concerns of &quot;playing God&quot; but embraces the possibility of transcending biological forms and becoming or creating entirely new life-forms."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "7nOJZwEACAAJ",
+			"etag": "JGwM7dU+jkE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/7nOJZwEACAAJ",
+			"volumeInfo": {
+				"title": "How Culture Makes Us Human",
+				"subtitle": "Primate Social Evolution and the Formation of Human Societies",
+				"authors": [
+					"Dwight W. Read"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2012",
+				"description": "In this engaging, thought-provoking book, Dwight Read explores the fundamental scientific debate about how culture and social organization separate humans from our primate cousins.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1598745891"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781598745894"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"Cognition and culture"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=7nOJZwEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=7nOJZwEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=7nOJZwEACAAJ&dq=human&hl=&cd=38&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=7nOJZwEACAAJ&dq=human&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/How_Culture_Makes_Us_Human.html?hl=&id=7nOJZwEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=7nOJZwEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In this engaging, thought-provoking book, Dwight Read explores the fundamental scientific debate about how culture and social organization separate humans from our primate cousins."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "E2vpy0BNR6sC",
+			"etag": "8dnvGRR3E6U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/E2vpy0BNR6sC",
+			"volumeInfo": {
+				"title": "Hume",
+				"subtitle": "The Relation of the Treatise of Human Nature--book I to the Inquiry Concerning Human Understanding",
+				"authors": [
+					"William Baird Elkin"
+				],
+				"publishedDate": "1904",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UCSD:31822032495731"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 348,
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.4.0.full.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=E2vpy0BNR6sC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=E2vpy0BNR6sC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=E2vpy0BNR6sC&printsec=frontcover&dq=human&hl=&cd=39&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=E2vpy0BNR6sC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=E2vpy0BNR6sC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FREE",
+				"isEbook": true,
+				"buyLink": "https://play.google.com/store/books/details?id=E2vpy0BNR6sC&rdid=book-E2vpy0BNR6sC&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": true,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false,
+					"downloadLink": "http://books.google.co.in/books/download/Hume.epub?id=E2vpy0BNR6sC&hl=&output=epub&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=E2vpy0BNR6sC&hl=&source=gbs_api",
+				"accessViewStatus": "FULL_PUBLIC_DOMAIN",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "UxBpAgAAQBAJ",
+			"etag": "ORQ0FXK6JEE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/UxBpAgAAQBAJ",
+			"volumeInfo": {
+				"title": "Human Social Evolution",
+				"subtitle": "The Foundational Works of Richard D. Alexander",
+				"authors": [
+					"Kyle Summers",
+					"Bernard Crespi"
+				],
+				"publisher": "Oxford University Press",
+				"publishedDate": "2013-06-24",
+				"description": "Richard D. Alexander is an accomplished entomologist who turned his attention to solving some of the most perplexing problems associated with the evolution of human social systems. Using impeccable Darwinian logic and elaborating, extending and adding to the classic theoretical contributions of pioneers of behavioral and evolutionary ecology like George Williams, William Hamilton and Robert Trivers, Alexander developed the most detailed and comprehensive vision of human social evolution of his era. His ideas and hypotheses have inspired countless biologists, anthropologists, psychologists and other social scientists to explore the evolution of human social behavior in ever greater detail, and many of his seminal ideas have stood the test of time and come to be pillars of our understanding of human social evolution. This volume presents classic papers or chapters by Dr. Alexander, each focused on an important theme from his work. Introductions by Dr. Alexander's former students and colleagues highlight the importance of his work to the field, describe more recent work on the topic, and discuss current issues of contention and interest.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780199792009"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0199792003"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 304,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=UxBpAgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=UxBpAgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=UxBpAgAAQBAJ&printsec=frontcover&dq=human&hl=&cd=40&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=UxBpAgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=UxBpAgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 882.45,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 441.22,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=UxBpAgAAQBAJ&rdid=book-UxBpAgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 882450000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 441220000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Human_Social_Evolution-sample-pdf.acsm?id=UxBpAgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=UxBpAgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This volume presents classic papers or chapters by Dr. Alexander, each focused on an important theme from his work."
+			}
+		}
+	]
+}

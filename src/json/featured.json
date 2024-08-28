@@ -1,0 +1,3339 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 5622,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "UhnpCAAAQBAJ",
+			"etag": "RfLxnTWkTQY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/UhnpCAAAQBAJ",
+			"volumeInfo": {
+				"title": "Digital Filters",
+				"subtitle": "Basics and Design",
+				"authors": [
+					"Dietrich Schlichthärle"
+				],
+				"publisher": "Springer Science & Business Media",
+				"publishedDate": "2012-12-06",
+				"description": "This textbook provides an insight into the characteristics and design of digital filters. It includes tables of filter parameters for Butterworth, Chbeyshev, Cauer and Bessel filters and several computer routines for filter design programs.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9783662041703"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "3662041707"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 367,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.2.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=UhnpCAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=UhnpCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=UhnpCAAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=1&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=UhnpCAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=UhnpCAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 6726,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 6726,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=UhnpCAAAQBAJ&rdid=book-UhnpCAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 6726000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 6726000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Digital_Filters-sample-pdf.acsm?id=UhnpCAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=UhnpCAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This textbook provides an insight into the characteristics and design of digital filters."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "iA0nDo8vd7YC",
+			"etag": "WwDqkDkLWJo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/iA0nDo8vd7YC",
+			"volumeInfo": {
+				"title": "Handbook of Filter Media",
+				"authors": [
+					"Derek B. Purchas",
+					"K Sutherland"
+				],
+				"publisher": "Elsevier",
+				"publishedDate": "2002-10-28",
+				"description": "An Introduction to Filter Media -- Textiles -- Filter Papers and Filter Sheets -- Media for air and gas filters -- Screens and Meshes -- Porous Sheets and Tubes (excluding Membranes) -- Membranes -- Cartridges and Special Fabrications -- Loose Powders, granules and fibres -- Testing filter media.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1856173755"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781856173759"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 606,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"averageRating": 4,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "4.3.5.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=iA0nDo8vd7YC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=iA0nDo8vd7YC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=iA0nDo8vd7YC&printsec=frontcover&dq=filter:e-books&hl=&cd=2&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=iA0nDo8vd7YC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Filter_Media.html?hl=&id=iA0nDo8vd7YC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Handbook_of_Filter_Media-sample-pdf.acsm?id=iA0nDo8vd7YC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=iA0nDo8vd7YC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "An Introduction to Filter Media -- Textiles -- Filter Papers and Filter Sheets -- Media for air and gas filters -- Screens and Meshes -- Porous Sheets and Tubes (excluding Membranes) -- Membranes -- Cartridges and Special Fabrications -- ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "J8acBAAAQBAJ",
+			"etag": "kghGXriyjas",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/J8acBAAAQBAJ",
+			"volumeInfo": {
+				"title": "Handbook of Nonwoven Filter Media",
+				"authors": [
+					"Irwin M. Hutten"
+				],
+				"publisher": "Butterworth-Heinemann",
+				"publishedDate": "2015-10-24",
+				"description": "The Handbook of Nonwoven Filter Media, Second Edition provides readers with a fundamental understanding of nonwoven filter media. It is one of the few books dealing exclusively with the subject, and is primarily intended as a reference for people in the nonwovens industry (industry and academic researchers, technical, marketing , and quality control personnel) and universities offering courses in filtration theory and practice and nonwovens technology. The book includes applications for gas, liquid, and engine filtration, and identifies the types of filter media used in these applications. The various separation technologies that can be achieved with nonwoven filter media are revealed and discussed. Theoretical presentation is based on flow through porous media, and is developed around a nonwovens or engineered fabrics orientation. Presents the latest information on legislative, regulatory, environmental and sustainability issues affecting the nonwovens and filtration industries Includes a comprehensive discussion of Computational Flow Dynamics (CFD) by Dr. George Chase, University of Akron, USA Includes the latest Global and North American marketing statistics for filters and filter media prepared by Brad Kalil of INDA.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780080983028"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0080983022"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 674,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.3.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=J8acBAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=J8acBAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=J8acBAAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=3&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=J8acBAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=J8acBAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 14020.76,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 14020.76,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=J8acBAAAQBAJ&rdid=book-J8acBAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 14020760000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 14020760000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Handbook_of_Nonwoven_Filter_Media-sample-epub.acsm?id=J8acBAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Handbook_of_Nonwoven_Filter_Media-sample-pdf.acsm?id=J8acBAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=J8acBAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Handbook of Nonwoven Filter Media, Second Edition provides readers with a fundamental understanding of nonwoven filter media."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "NuRvHVMuzI4C",
+			"etag": "nMG/EdVqCZU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/NuRvHVMuzI4C",
+			"volumeInfo": {
+				"title": "Analog and Digital Filter Design",
+				"authors": [
+					"Steve Winder"
+				],
+				"publisher": "Elsevier",
+				"publishedDate": "2002-10-24",
+				"description": "Unlike most books on filters, Analog and Digital Filter Design does not start from a position of mathematical complexity. It is written to show readers how to design effective and working electronic filters. The background information and equations from the first edition have been moved into an appendix to allow easier flow of the text while still providing the information for those who are interested. The addition of questions at the end of each chapter as well as electronic simulation tools has allowed for a more practical, user-friendly text. Provides a practical design guide to both analog and digital electronic filters Includes electronic simulation tools Keeps heavy mathematics to a minimum",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780080488332"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0080488331"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 450,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.6.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=NuRvHVMuzI4C&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=NuRvHVMuzI4C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=NuRvHVMuzI4C&printsec=frontcover&dq=filter:e-books&hl=&cd=4&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=NuRvHVMuzI4C&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=NuRvHVMuzI4C"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 7262.9,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 7262.9,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=NuRvHVMuzI4C&rdid=book-NuRvHVMuzI4C&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 7262900000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 7262900000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Analog_and_Digital_Filter_Design-sample-pdf.acsm?id=NuRvHVMuzI4C&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=NuRvHVMuzI4C&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The background information and equations from the first edition have been moved into an appendix to allow easier flow of the text while still providing the information for those who are interested."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ms5TAAAAMAAJ",
+			"etag": "bFbBvYlcZPI",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ms5TAAAAMAAJ",
+			"volumeInfo": {
+				"title": "Filters and Filtration Handbook",
+				"authors": [
+					"T. Christopher Dickenson"
+				],
+				"publishedDate": "1992",
+				"description": "This is a reference manual for the selection and application of filtration and separation products. The new edition is extended and updated to incorporate all the latest developments in filtration and separation technology supplied by both manufacturers and users. operators, consultants, as well as staff with responsibility for purchasing, planning, sales and marketing. It is directly relevant to numerous industries including water, fluid power, chemicals, pharmaceutical, food and beverages, processing, general engineering, electronics and manufacturing.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015048113610"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 848,
+				"printType": "BOOK",
+				"categories": [
+					"Filters and filtration"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.3.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ms5TAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ms5TAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=ms5TAAAAMAAJ&q=filter:e-books&dq=filter:e-books&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=ms5TAAAAMAAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Filters_and_Filtration_Handbook.html?hl=&id=ms5TAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ms5TAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This is a reference manual for the selection and application of filtration and separation products."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "-FWO0puw3nYC",
+			"etag": "cd/LpyO1jDU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/-FWO0puw3nYC",
+			"volumeInfo": {
+				"title": "The Filter Bubble",
+				"subtitle": "What The Internet Is Hiding From You",
+				"authors": [
+					"Eli Pariser"
+				],
+				"publisher": "Penguin UK",
+				"publishedDate": "2011-05-12",
+				"description": "Imagine a world where all the news you see is defined by your salary, where you live, and who your friends are. Imagine a world where you never discover new ideas. And where you can't have secrets. Welcome to 2011. Google and Facebook are already feeding you what they think you want to see. Advertisers are following your every click. Your computer monitor is becoming a one-way mirror, reflecting your interests and reinforcing your prejudices. The internet is no longer a free, independent space. It is commercially controlled and ever more personalised. The Filter Bubble reveals how this hidden web is starting to control our lives - and shows what we can do about it.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780141969923"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "014196992X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 304,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 4,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.5.1.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=-FWO0puw3nYC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=-FWO0puw3nYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=-FWO0puw3nYC&printsec=frontcover&dq=filter:e-books&hl=&cd=6&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=-FWO0puw3nYC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=-FWO0puw3nYC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 398.25,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 278.78,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=-FWO0puw3nYC&rdid=book--FWO0puw3nYC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 398250000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 278780000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Filter_Bubble-sample-epub.acsm?id=-FWO0puw3nYC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=-FWO0puw3nYC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The internet is no longer a free, independent space. It is commercially controlled and ever more personalised. The Filter Bubble reveals how this hidden web is starting to control our lives - and shows what we can do about it."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "8-TzDwAAQBAJ",
+			"etag": "AxfYXjOpsKU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/8-TzDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Two-Dimensional Digital Filters",
+				"authors": [
+					"Wu-Sheng Lu"
+				],
+				"publisher": "CRC Press",
+				"publishedDate": "2020-08-11",
+				"description": "Presents basic theories, techniques, and procedures used to analyze, design, and implement two-dimensional filters; and surveys a number of applications in image and seismic data processing that demonstrate their use in real-world signal processing. For graduate students in electrical and computer e",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781000147773"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1000147770"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 420,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=8-TzDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=8-TzDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=8-TzDwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=7&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=8-TzDwAAQBAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Two_Dimensional_Digital_Filters.html?hl=&id=8-TzDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Two_Dimensional_Digital_Filters-sample-epub.acsm?id=8-TzDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Two_Dimensional_Digital_Filters-sample-pdf.acsm?id=8-TzDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=8-TzDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Presents basic theories, techniques, and procedures used to analyze, design, and implement two-dimensional filters; and surveys a number of applications in image and seismic data processing that demonstrate their use in real-world signal ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "PUlkCwAAQBAJ",
+			"etag": "Zb+eE2meZYg",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/PUlkCwAAQBAJ",
+			"volumeInfo": {
+				"title": "Water Purification",
+				"authors": [
+					"Alexandru Grumezescu"
+				],
+				"publisher": "Academic Press",
+				"publishedDate": "2016-12-28",
+				"description": "Water Purification, a volume in the Nanotechnology in the Food Industry series, provides an in-depth review of the current technologies and emerging application of nanotechnology in drinking water purification, also presenting an overview of the common drinking water contaminants, such as heavy metals, organics, microorganisms, pharmaceuticals, and their occurrences in drinking water sources. As the global water crisis has motivated the industry to look for alternative water supplies, nanotechnology presents significant potential for utilizing previously unacceptable water sources. This books explores the practical methodologies for transforming water using nanotechnologies, and is a comprehensive reference to a wide audience of food science research professionals, professors, and students who are doing research in this field. Includes the most up-to-date information on nanotechnology applications and research methods for water purification and treatment Presents applications of nanotechnology and engineered nanomaterials in drinking water purification to improve efficiency and reduce cost Provides water purification research methods that are important to water quality, including precipitation, adsorption, membrane separation, and ion exchange Covers the potential risks of nanotechnology, such as the toxicological effects of engineered nanomaterials in water and how to minimize risks based on research studies",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780128043714"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0128043717"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 772,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.6.6.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=PUlkCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=PUlkCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=PUlkCwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=8&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=PUlkCwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=PUlkCwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 14380.66,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 14380.66,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=PUlkCwAAQBAJ&rdid=book-PUlkCwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 14380660000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 14380660000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Water_Purification-sample-epub.acsm?id=PUlkCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Water_Purification-sample-pdf.acsm?id=PUlkCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=PUlkCwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This books explores the practical methodologies for transforming water using nanotechnologies, and is a comprehensive reference to a wide audience of food science research professionals, professors, and students who are doing research in ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "7s9zEAAAQBAJ",
+			"etag": "fOk2GPY7c1w",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/7s9zEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Stories from Tagore",
+				"authors": [
+					"Rabindranath Tagore"
+				],
+				"publisher": "DigiCat",
+				"publishedDate": "2022-06-02",
+				"description": "The author of this book, Rabindranath Tagore, was a genius poet and thinker. This collection contains some of his most famous stories, like The Home-Coming, Once there was a King, The Child's Return, Subha, The Postmaster, and The Castaway. The author is a master of taking simple stories and adding complex plots, which are beautifully presented in the collection.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "EAN:8596547045847"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 143,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=7s9zEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=7s9zEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=7s9zEAAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=9&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=7s9zEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=7s9zEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 194,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 135.8,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=7s9zEAAAQBAJ&rdid=book-7s9zEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 194000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 135800000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Stories_from_Tagore-sample-epub.acsm?id=7s9zEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Stories_from_Tagore-sample-pdf.acsm?id=7s9zEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=7s9zEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The author of this book, Rabindranath Tagore, was a genius poet and thinker. This collection contains some of his most famous stories, like The Home-Coming, Once there was a King, The Child&#39;s Return, Subha, The Postmaster, and The Castaway."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "SjFHXwAACAAJ",
+			"etag": "G0T0+O7gJxw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/SjFHXwAACAAJ",
+			"volumeInfo": {
+				"title": "EPFIL",
+				"subtitle": "Waveguide E-plane Filter Design : Software and User's Manual",
+				"authors": [
+					"Djuradj Budimir"
+				],
+				"publisher": "Artech House Publishers",
+				"publishedDate": "1999",
+				"description": "This software package seeks to improve waveguide filter and diplexer design and decrease performance variations without creating overly stringent manufacturing tolerances. The accompanying manual helps the reader to cut design time and improve accuracy by quickly and easily predicting performance parameters before building costly prototypes. Using the mode-matching method as a foundation, the software supplies a full-wave solution for filter discontinuities, aiding you in the design of E-plane waveguide filters specifically intended for microwave and millimeter-wave applications. This means you can substantially reduce development and production costs, reduce time-to-market, and effectively increase circuit performance.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1580530834"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781580530835"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"EPFIL (Computer file)"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=SjFHXwAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=SjFHXwAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=SjFHXwAACAAJ&dq=filter:e-books&hl=&cd=10&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=SjFHXwAACAAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/EPFIL.html?hl=&id=SjFHXwAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=SjFHXwAACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The accompanying manual helps the reader to cut design time and improve accuracy by quickly and easily predicting performance parameters before building costly prototypes."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "IVTTBgAAQBAJ",
+			"etag": "hVqkstgA0bw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/IVTTBgAAQBAJ",
+			"volumeInfo": {
+				"title": "Power System Harmonics and Passive Filter Designs",
+				"authors": [
+					"J. C. Das"
+				],
+				"publisher": "John Wiley & Sons",
+				"publishedDate": "2015-02-24",
+				"description": "As new technologies are created and advances are made with the ongoing research efforts, power system harmonics has become a subject of great interest. The author presents these nuances with real-life case studies, comprehensive models of power system components for harmonics, and EMTP simulations. Comprehensive coverage of power system harmonics Presents new harmonic mitigation technologies In-depth analysis of the effects of harmonics Foreword written by Dr. Jean Mahseredijan, world renowned authority on simulations of electromagnetic transients and harmonics",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781119035725"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1119035724"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 872,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=IVTTBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=IVTTBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=IVTTBgAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=11&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=IVTTBgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=IVTTBgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 15369.5,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 15369.5,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=IVTTBgAAQBAJ&rdid=book-IVTTBgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 15369500000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 15369500000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Power_System_Harmonics_and_Passive_Filte-sample-pdf.acsm?id=IVTTBgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=IVTTBgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Covers new harmonic mitigation technologies, such as advances in converter technologies for harmonic mitigation and simultaneous improvement of power factor, and detailed step-by-step design of passive filters not covered in other ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "zku3AAAAIAAJ",
+			"etag": "g7YLE54Yhy8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/zku3AAAAIAAJ",
+			"volumeInfo": {
+				"title": "Filter",
+				"publishedDate": "1962",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UCAL:B4276148"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 260,
+				"printType": "BOOK",
+				"categories": [
+					"Medical technologists"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.3.2.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=zku3AAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=zku3AAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=zku3AAAAIAAJ&q=filter:e-books&dq=filter:e-books&hl=&cd=12&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=zku3AAAAIAAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Filter.html?hl=&id=zku3AAAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=zku3AAAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "pC1iCQUAsHEC",
+			"etag": "BFcC7tAbBK8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/pC1iCQUAsHEC",
+			"volumeInfo": {
+				"title": "Introduction to Digital Filters",
+				"subtitle": "With Audio Applications",
+				"authors": [
+					"Julius Orion Smith"
+				],
+				"publisher": "Julius Smith",
+				"publishedDate": "2007",
+				"description": "A digital filter can be pictured as a \"black box\" that accepts a sequence of numbers and emits a new sequence of numbers. In digital audio signal processing applications, such number sequences usually represent sounds. For example, digital filters are used to implement graphic equalizers and other digital audio effects. This book is a gentle introduction to digital filters, including mathematical theory, illustrative examples, some audio applications, and useful software starting points. The theory treatment begins at the high-school level, and covers fundamental concepts in linear systems theory and digital filter analysis. Various \"small\" digital filters are analyzed as examples, particularly those commonly used in audio applications. Matlab programming examples are emphasized for illustrating the use and development of digital filters in practice.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780974560717"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0974560715"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 481,
+				"printType": "BOOK",
+				"categories": [
+					"Digital electronics"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.3.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=pC1iCQUAsHEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=pC1iCQUAsHEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=pC1iCQUAsHEC&printsec=frontcover&dq=filter:e-books&hl=&cd=13&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=pC1iCQUAsHEC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Digital_Filters.html?hl=&id=pC1iCQUAsHEC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Introduction_to_Digital_Filters-sample-pdf.acsm?id=pC1iCQUAsHEC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=pC1iCQUAsHEC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book is a gentle introduction to digital filters, including mathematical theory, illustrative examples, some audio applications, and useful software starting points."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "uwI0c9uQnvUC",
+			"etag": "wxCJKP2UfUw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/uwI0c9uQnvUC",
+			"volumeInfo": {
+				"title": "Implicit Filtering",
+				"authors": [
+					"C. T. Kelley"
+				],
+				"publisher": "SIAM",
+				"publishedDate": "2011-09-29",
+				"description": "A description of the implicit filtering algorithm, its convergence theory and a new MATLAB® implementation.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781611971897"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1611971896"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 171,
+				"printType": "BOOK",
+				"categories": [
+					"Mathematics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.238.2.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=uwI0c9uQnvUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=uwI0c9uQnvUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=uwI0c9uQnvUC&printsec=frontcover&dq=filter:e-books&hl=&cd=14&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=uwI0c9uQnvUC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Implicit_Filtering.html?hl=&id=uwI0c9uQnvUC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Implicit_Filtering-sample-pdf.acsm?id=uwI0c9uQnvUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=uwI0c9uQnvUC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "A description of the implicit filtering algorithm, its convergence theory and a new MATLAB® implementation."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ted8CgAAQBAJ",
+			"etag": "WJNoSRhcsB8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ted8CgAAQBAJ",
+			"volumeInfo": {
+				"title": "How to Speak and Write Correctly",
+				"authors": [
+					"Joseph Devlin"
+				],
+				"publisher": "Read Books Ltd",
+				"publishedDate": "2013-03-06",
+				"description": "This antiquarian volume contains a comprehensive guide to speaking and writing correctly, with information on grammar, sentence structure, writing letters, common pitfalls, comments on famous pieces of literature and their authors, and much more. Written in simple, clear language and full of helpful tips and hints, this text will be of considerable utility to those with a keen interest in linguistics, and it would make for a worthy addition to any personal library. The chapters of this book include: Essentials of English Grammar, The Sentence, Figurative Language, Punctuation, Letter Writing, Errors, Pitfalls to Avoid, Style, Suggestions, Slang, Writing for Newspapers, Choice of Words, English Language, and Masters and Masterpieces of Literature. We are republishing this vintage book now in an affordable, modern edition complete with a new prefatory biography of the author.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781447489658"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1447489659"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 220,
+				"printType": "BOOK",
+				"categories": [
+					"Language Arts & Disciplines"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ted8CgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ted8CgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=ted8CgAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=15&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=ted8CgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=ted8CgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 885,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 442.5,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=ted8CgAAQBAJ&rdid=book-ted8CgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 885000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 442500000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/How_to_Speak_and_Write_Correctly-sample-epub.acsm?id=ted8CgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/How_to_Speak_and_Write_Correctly-sample-pdf.acsm?id=ted8CgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ted8CgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This antiquarian volume contains a comprehensive guide to speaking and writing correctly, with information on grammar, sentence structure, writing letters, common pitfalls, comments on famous pieces of literature and their authors, and much ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "tGniCgAAQBAJ",
+			"etag": "iv/yxOMrlSU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/tGniCgAAQBAJ",
+			"volumeInfo": {
+				"title": "Filters and Filtration Handbook",
+				"authors": [
+					"Trevor Sparks",
+					"George Chase"
+				],
+				"publisher": "Butterworth-Heinemann",
+				"publishedDate": "2013-02-08",
+				"description": "Filters are used in most industries, especially the water, sewage, oil, gas, food and beverage, and pharmaceutical industries. The new edition of Filters and Filtration Handbook is an all-encompassing practical account of standard filtration equipment and its applications. Completely revised and rewritten, it is an essential book for the engineer working in a plant situation, who requires guidance and information on what’s available and whether it’s suitable for the job. Co-published with the Institution of Chemical Engineers. An up-to-date and comprehensive reference covering essential theory of filters and filtration, and including types of filter, media, filtration, equipment, techniques and systems. Helps you decide the best filtration methods and materials for the task at hand Includes new material on basic principles, filter media and the application of filtration within production systems",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780080994000"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0080994008"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 444,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=tGniCgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=tGniCgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=tGniCgAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=16&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=tGniCgAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=tGniCgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 18694.74,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 18694.74,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=tGniCgAAQBAJ&rdid=book-tGniCgAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 18694740000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 18694740000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Filters_and_Filtration_Handbook-sample-epub.acsm?id=tGniCgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Filters_and_Filtration_Handbook-sample-pdf.acsm?id=tGniCgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=tGniCgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The new edition of Filters and Filtration Handbook is an all-encompassing practical account of standard filtration equipment and its applications."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "eJX0EAAAQBAJ",
+			"etag": "F8ynGOQrr4o",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/eJX0EAAAQBAJ",
+			"volumeInfo": {
+				"title": "Memory:",
+				"subtitle": "How to Develop, Train and Use It",
+				"authors": [
+					"William Walker Atkinson"
+				],
+				"publisher": "BoD - Books on Demand",
+				"publishedDate": "2024-02-13",
+				"description": "\"Memory: How to Develop, Train and Use It\" is a book written by William Walker Atkinson. William Walker Atkinson (1862–1932) was an American author, editor, and attorney who wrote extensively on New Thought and self-help topics. The book focuses on memory improvement and techniques for developing and utilizing memory effectively. Published in the early 20th century, \"Memory: How to Develop, Train and Use It\" is a self-help guide that likely provides practical advice, exercises, and strategies for enhancing one's memory. Atkinson may have drawn on psychological principles and memory training methods available during his time. While the specific techniques may reflect the understanding of memory from the early 1900s, the book could still contain valuable insights and methods for those interested in memory improvement. If you're interested in the history of self-help literature or exploring different approaches to memory enhancement, Atkinson's work might be of interest.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9791041985272"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 82,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=eJX0EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=eJX0EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=eJX0EAAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=17&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=eJX0EAAAQBAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Memory.html?hl=&id=eJX0EAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=eJX0EAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The book focuses on memory improvement and techniques for developing and utilizing memory effectively."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "JhSyimPKuJwC",
+			"etag": "Fh5oN5de6Rs",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/JhSyimPKuJwC",
+			"volumeInfo": {
+				"title": "Practical Flow Cytometry",
+				"authors": [
+					"Howard M. Shapiro"
+				],
+				"publisher": "John Wiley & Sons",
+				"publishedDate": "2005-02-25",
+				"description": "From the reviews of the 3rd Edition... \"The standard reference for anyone interested in understandingflow cytometry technology.\" American Journal of Clinical Oncology \"...one of the most valuable of its genre and...addressed to awide audience?written in such an attractive way, being bothinformative and stimulating.\" Trends in Cell Biology This reference explains the science and discusses the vastbiomedical applications of quantitative analytical cytology usinglaser-activated detection and cell sorting. Now in its fourthedition, this text has been expanded to provide full coverage ofthe broad spectrum of applications in molecular biology andbiotechnology today. New to this edition are chapters on automatedanalysis of array technologies, compensation, high-speed sorting,reporter molecules, and multiplex and apoptosis assays, along withfully updated and revised references and a list of suppliers.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780471434030"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0471434035"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 736,
+				"printType": "BOOK",
+				"categories": [
+					"Science"
+				],
+				"averageRating": 4,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=JhSyimPKuJwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=JhSyimPKuJwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=JhSyimPKuJwC&printsec=frontcover&dq=filter:e-books&hl=&cd=18&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=JhSyimPKuJwC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=JhSyimPKuJwC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 22421.18,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 22421.18,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=JhSyimPKuJwC&rdid=book-JhSyimPKuJwC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 22421180000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 22421180000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Practical_Flow_Cytometry-sample-pdf.acsm?id=JhSyimPKuJwC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=JhSyimPKuJwC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "New to this edition are chapters on automated analysis of array technologies, compensation, high-speed sorting, reporter molecules, and multiplex and apoptosis assays, along with fully updated and revised references and a list of suppliers."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "6WYpDwAAQBAJ",
+			"etag": "mZcNdYPj90I",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/6WYpDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Our Story Needs No Filter",
+				"authors": [
+					"Sudeep Nagarkar"
+				],
+				"publisher": "Penguin Random House India Private Limited",
+				"publishedDate": "2017-06-26",
+				"description": "Sometimes, love is just an illusion. Sometimes, it becomes the sole purpose of your life. While stories on social media were trending, Raghu was lost in books. For him, even the idea of falling in love was limited to books-until he met Ruhi. As their love plays out against the backdrop of the upcoming student elections, Raghu finds himself embroiled in a mess he cannot seem to get out of. When his closest friends hatch a plan to rescue him, it only puts him in further jeopardy. Will his love sail through or will it get swept away by the storm of campus politics? Set in this elaborate sociopolitical milieu, Sudeep's new book explores the dark side of relationships, the pursuit of power and the hypocrisy of the powerful.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9789386651662"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "9386651661"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 240,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=6WYpDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=6WYpDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=6WYpDwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=19&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=6WYpDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=6WYpDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 178.91,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 125.24,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=6WYpDwAAQBAJ&rdid=book-6WYpDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 178910000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 125240000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Our_Story_Needs_No_Filter-sample-epub.acsm?id=6WYpDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Our_Story_Needs_No_Filter-sample-pdf.acsm?id=6WYpDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=6WYpDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Set in this elaborate sociopolitical milieu, Sudeep&#39;s new book explores the dark side of relationships, the pursuit of power and the hypocrisy of the powerful."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ITLn6tj4SDQC",
+			"etag": "1RNZ3GzmDO4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ITLn6tj4SDQC",
+			"volumeInfo": {
+				"title": "Surface Acoustic Wave Filters",
+				"subtitle": "With Applications to Electronic Communications and Signal Processing",
+				"authors": [
+					"David Morgan"
+				],
+				"publisher": "Academic Press",
+				"publishedDate": "2010-07-27",
+				"description": "Surface Acoustic Wave Filters gives the fundamental principles and device design techniques for surface acoustic wave filters. It covers the devices in widespread use today: bandpass and pulse compression filters, correlators and non-linear convolvers and resonators. The newest technologies for low bandpass filters are fully covered such as unidirectional transducers, resonators in impedance element filters, resonators in double-mode surface acoustic wave filters and transverse-coupled resonators using waveguides. The book covers the theory of acoustic wave physics, the piezoelectric effect, electrostatics at a surface, effective permittivity, piezoelectric SAW excitation and reception, and the SAW element factor. These are the main requirements for developing quasi-static theory, which gives a basis for the non-reflective transducers in transversal bandpass filters and interdigital pulse compression filters. It is also needed for the reflective transducers used in the newer devices. A thorough revision of a classic on surface acoustic wave filters first published in 1985 and still in print Uniquely combines easy-to-understand principles with practical design techniques for all the devices in widespread use today Complete coverage of all the latest devices which are key to mobile phones, TVs and radar systems Includes a new foreword by Sir Eric Albert Ash",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0080550134"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780080550138"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 448,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.3.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ITLn6tj4SDQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ITLn6tj4SDQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=ITLn6tj4SDQC&printsec=frontcover&dq=filter:e-books&hl=&cd=20&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=ITLn6tj4SDQC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=ITLn6tj4SDQC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 8844.1,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 8844.1,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=ITLn6tj4SDQC&rdid=book-ITLn6tj4SDQC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 8844100000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 8844100000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Surface_Acoustic_Wave_Filters-sample-pdf.acsm?id=ITLn6tj4SDQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ITLn6tj4SDQC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "These are the main requirements for developing quasi-static theory, which gives a basis for the non-reflective transducers in transversal bandpass filters and interdigital pulse compression filters."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "vVwu5B_1q-IC",
+			"etag": "WbcpElGKLJ4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/vVwu5B_1q-IC",
+			"volumeInfo": {
+				"title": "Collaborative Filtering Recommender Systems",
+				"authors": [
+					"Michael D. Ekstrand",
+					"John T. Riedl",
+					"Joseph A. Konstan"
+				],
+				"publisher": "Now Publishers Inc",
+				"publishedDate": "2011",
+				"description": "Recommender systems are an important part of the information and e-commerce ecosystem. They represent a powerful method for enabling users to filter through large information and product spaces. Nearly two decades of research on collaborative filtering have led to a varied set of algorithms and a rich collection of tools for evaluating their performance. Research in the field is moving in the direction of a richer understanding of how recommender technology may be embedded in specific domains. The differing personalities exhibited by different recommender algorithms show that recommendation is not a one-size-fits-all problem. Specific tasks, information needs, and item domains represent unique problems for recommenders, and design and evaluation of recommenders needs to be done based on the user tasks to be supported. Effective deployments must begin with careful analysis of prospective users and their goals. Based on this analysis, system designers have a host of options for the choice of algorithm and for its embedding in the surrounding user experience. Collaborative Filtering Recommender Systems provides a broad overview of the current state of collaborative filtering research. It discusses the core algorithms for collaborative filtering and traditional means of measuring their performance against user rating data sets. It then moves on to discuss building reliable, accurate data sets; understanding recommender systems in the broader context of user information needs and task support; and the interaction between users and recommender systems. Collaborative Filtering Recommender Systems provides both practitioners and researchers with an introduction to the important issues underlying recommenders and current best practices for addressing these issues.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781601984425"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1601984421"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 104,
+				"printType": "BOOK",
+				"categories": [
+					"Computers"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=vVwu5B_1q-IC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=vVwu5B_1q-IC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=vVwu5B_1q-IC&printsec=frontcover&dq=filter:e-books&hl=&cd=21&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=vVwu5B_1q-IC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Collaborative_Filtering_Recommender_Syst.html?hl=&id=vVwu5B_1q-IC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Collaborative_Filtering_Recommender_Syst-sample-pdf.acsm?id=vVwu5B_1q-IC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=vVwu5B_1q-IC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Collaborative Filtering Recommender Systems discusses a wide variety of the recommender choices available and their implications, providing both practitioners and researchers with an introduction to the important issues underlying ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "qtDkBwAAQBAJ",
+			"etag": "st94hTAZz54",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/qtDkBwAAQBAJ",
+			"volumeInfo": {
+				"title": "Digital Filters and Signal Processing",
+				"subtitle": "With MATLAB® Exercises",
+				"authors": [
+					"Leland B. Jackson"
+				],
+				"publisher": "Springer Science & Business Media",
+				"publishedDate": "2013-06-29",
+				"description": "Digital Filters and Signal Processing, Third Edition ... with MATLAB Exercises presents a general survey of digital signal processing concepts, design methods, and implementation considerations, with an emphasis on digital filters. It is suitable as a textbook for senior undergraduate or first-year graduate courses in digital signal processing. While mathematically rigorous, the book stresses an intuitive understanding of digital filters and signal processing systems, with numerous realistic and relevant examples. Hence, practicing engineers and scientists will also find the book to be a most useful reference. The Third Edition contains a substantial amount of new material including, in particular, the addition of MATLAB exercises to deepen the students' understanding of basic DSP principles and increase their proficiency in the application of these principles. The use of the exercises is not mandatory, but is highly recommended. Other new features include: normalized frequency utilized in the DTFT, e.g., X(ejomega); new computer generated drawings and MATLAB plots throughout the book; Chapter 6 on sampling the DTFT has been completely rewritten; expanded coverage of Types I-IV linear-phase FIR filters; new material on power and doubly-complementary filters; new section on quadrature-mirror filters and their application in filter banks; new section on the design of maximally-flat FIR filters; new section on roundoff-noise reduction using error feedback; and many new problems added throughout.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781475724585"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1475724586"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 504,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=qtDkBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=qtDkBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=qtDkBwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=22&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=qtDkBwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=qtDkBwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 18526,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 18526,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=qtDkBwAAQBAJ&rdid=book-qtDkBwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 18526000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 18526000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Digital_Filters_and_Signal_Processing-sample-pdf.acsm?id=qtDkBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=qtDkBwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "While mathematically rigorous, the book stresses an intuitive understanding of digital filters and signal processing systems, with numerous realistic and relevant examples."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "sP5Bj3pByTsC",
+			"etag": "hQvV9yOvSE4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/sP5Bj3pByTsC",
+			"volumeInfo": {
+				"title": "Handbook of Water and Wastewater Treatment Technologies",
+				"authors": [
+					"Nicholas P Cheremisinoff"
+				],
+				"publisher": "Butterworth-Heinemann",
+				"publishedDate": "2002",
+				"description": "An Overview of Water and Wastewater; What Filtration Is All About; Chemical Additives that Enhance Filtration; Selecting the Right Filter Media; What Pressure- and Cake-Filtration Are All; Cartridge and Other Filters Worth Mentioning; What Sand Filtration is All About; Sedimentation, Clarification, Flotation, and Membrane Separation Technologies; Ion Exchange and Carbon Adsorption; Water Sterilization Technologies; Treating the Sludge; Glossary; Index.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780750674980"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0750674989"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 649,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"averageRating": 1,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "3.4.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=sP5Bj3pByTsC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=sP5Bj3pByTsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=sP5Bj3pByTsC&printsec=frontcover&dq=filter:e-books&hl=&cd=23&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=sP5Bj3pByTsC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Handbook_of_Water_and_Wastewater_Treatme.html?hl=&id=sP5Bj3pByTsC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Handbook_of_Water_and_Wastewater_Treatme-sample-epub.acsm?id=sP5Bj3pByTsC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Handbook_of_Water_and_Wastewater_Treatme-sample-pdf.acsm?id=sP5Bj3pByTsC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=sP5Bj3pByTsC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "An Overview of Water and Wastewater; What Filtration Is All About; Chemical Additives that Enhance Filtration; Selecting the Right Filter Media; What Pressure- and Cake-Filtration Are All; Cartridge and Other Filters Worth Mentioning; What ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "03IjjwEACAAJ",
+			"etag": "mc1psa9z8zY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/03IjjwEACAAJ",
+			"volumeInfo": {
+				"title": "Active-Filter Cookbook",
+				"publishedDate": "1977",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "OCLC:916207953"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=03IjjwEACAAJ&dq=filter:e-books&hl=&cd=24&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=03IjjwEACAAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Active_Filter_Cookbook.html?hl=&id=03IjjwEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=03IjjwEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "pylTAAAAMAAJ",
+			"etag": "ERGHSrmhZqA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/pylTAAAAMAAJ",
+			"volumeInfo": {
+				"title": "A Handbook of Active Filters",
+				"authors": [
+					"David E. Johnson",
+					"Johnny Ray Johnson",
+					"Harry P. Moore"
+				],
+				"publisher": "Prentice Hall",
+				"publishedDate": "1980",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015000987696"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 264,
+				"printType": "BOOK",
+				"categories": [
+					"Electric filters"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.2.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=pylTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=pylTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=pylTAAAAMAAJ&q=filter:e-books&dq=filter:e-books&hl=&cd=25&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=pylTAAAAMAAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/A_Handbook_of_Active_Filters.html?hl=&id=pylTAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=pylTAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "gv19DwAAQBAJ",
+			"etag": "w8xuFA1m7tU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/gv19DwAAQBAJ",
+			"volumeInfo": {
+				"title": "2018 CFR Annual Digital e-Book Edition, 40 Protection of Environment - Parts 50 to 51",
+				"authors": [
+					"Office of The Federal Register"
+				],
+				"publisher": "Office of The Federal Register enhanced by IntraWEB, LLC",
+				"publishedDate": "2018-07-01",
+				"description": "Title 40 Protection of Environment - Parts 50 to 51",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 725,
+				"printType": "BOOK",
+				"categories": [
+					"Law"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=gv19DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=gv19DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=gv19DwAAQBAJ&pg=PA101&dq=filter:e-books&hl=&cd=26&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=gv19DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=gv19DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 977.12,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 488.56,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=gv19DwAAQBAJ&rdid=book-gv19DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 977120000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 488560000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=gv19DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... <b>Filter</b> temperature control (sampling and post-sampling). The sampler shall provide a means to limit the temperature rise of the sample <b>filter</b> (all sample <b>filters</b> for sequential samplers), from insolation and other sources, to no more 5&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "eIcxDwAAQBAJ",
+			"etag": "aevp7jLoDJk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/eIcxDwAAQBAJ",
+			"volumeInfo": {
+				"title": "108 Questions & Answers on Mutual Funds & SIP",
+				"authors": [
+					"Yadnya Investments"
+				],
+				"publisher": "Notion Press",
+				"publishedDate": "2017-08-18",
+				"description": "Have you ever thought of letting your money work for you by being a part of the Indian growth story but the complicated financial jargon, perplexing terms and conditions, dilemma associated with risky investments and too many mutual fund options stopped you! This book provides answers to all such FAQs that an Indian Mutual Funds and SIP investor has. This book will help you understand the various types of mutual funds, their comparison with other assets, ways to invest in mutual funds and identify the type of funds that fit your profile the best. The focus of the book is on simplifying myriad concepts of mutual funds and demystifying myths around these investments. The author has approached this book in a question-answer format with lots of recent examples.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781947697867"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1947697862"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 132,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.5.7.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=eIcxDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=eIcxDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=eIcxDwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=27&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=eIcxDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=eIcxDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 212.4,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 148.68,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=eIcxDwAAQBAJ&rdid=book-eIcxDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 212400000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 148680000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=eIcxDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The focus of the book is on simplifying myriad concepts of mutual funds and demystifying myths around these investments. The author has approached this book in a question-answer format with lots of recent examples."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "GQBbAAAAMAAJ",
+			"etag": "ZSdCqcRf/14",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/GQBbAAAAMAAJ",
+			"volumeInfo": {
+				"title": "Indian Tales",
+				"authors": [
+					"Rudyard Kipling"
+				],
+				"publisher": "IndyPublish.com",
+				"publishedDate": "1899",
+				"description": "His name was Charlie Mears; he was the only son of his mother who was a widow and he lived in the north of London coming into the City every day to work in a bank. He was twenty years old and suffered from aspirations.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015017634596"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 802,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.7.10.0.full.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=GQBbAAAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=GQBbAAAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=GQBbAAAAMAAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=28&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=GQBbAAAAMAAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=GQBbAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FREE",
+				"isEbook": true,
+				"buyLink": "https://play.google.com/store/books/details?id=GQBbAAAAMAAJ&rdid=book-GQBbAAAAMAAJ&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": true,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false,
+					"downloadLink": "http://books.google.co.in/books/download/Indian_Tales.epub?id=GQBbAAAAMAAJ&hl=&output=epub&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"downloadLink": "http://books.google.co.in/books/download/Indian_Tales.pdf?id=GQBbAAAAMAAJ&hl=&output=pdf&sig=ACfU3U1zq6oM-nUJpsU3hYbvD2u_njuxOQ&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=GQBbAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "FULL_PUBLIC_DOMAIN",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "His name was Charlie Mears; he was the only son of his mother who was a widow and he lived in the north of London coming into the City every day to work in a bank. He was twenty years old and suffered from aspirations."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "pcCpAAAAQBAJ",
+			"etag": "K7RQ4GEck40",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/pcCpAAAAQBAJ",
+			"volumeInfo": {
+				"title": "You Get What You Get",
+				"authors": [
+					"Julie Gassman"
+				],
+				"publisher": "Capstone",
+				"publishedDate": "2013-07",
+				"description": "Melvin learns how to deal with disappointment.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781479521579"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1479521574"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 33,
+				"printType": "BOOK",
+				"categories": [
+					"Juvenile Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=pcCpAAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=pcCpAAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=pcCpAAAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=29&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=pcCpAAAAQBAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/You_Get_What_You_Get.html?hl=&id=pcCpAAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/You_Get_What_You_Get-sample-pdf.acsm?id=pcCpAAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=pcCpAAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Melvin learns how to deal with disappointment."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "2zeqEAAAQBAJ",
+			"etag": "nFQm8cMvv6w",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/2zeqEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Adobe Photoshop CC Essentials (2 in 1 eBooks)",
+				"authors": [
+					"AMC College"
+				],
+				"publisher": "Advanced Micro Systems Sdn Bhd",
+				"publishedDate": "2023-01-01",
+				"description": "This eBook consists of 2 titles: Adobe Photoshop CC Level 1 Adobe Photoshop CC Level 2",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 129,
+				"printType": "BOOK",
+				"categories": [
+					"Computers"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=2zeqEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=2zeqEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=2zeqEAAAQBAJ&pg=PA54&dq=filter:e-books&hl=&cd=30&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=2zeqEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=2zeqEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 686.07,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 343.04,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=2zeqEAAAQBAJ&rdid=book-2zeqEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 686070000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 343040000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Adobe_Photoshop_CC_Essentials_2_in_1_eBo-sample-pdf.acsm?id=2zeqEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=2zeqEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... <b>Filter</b> Gallery 1. Make sure the layer you want to edit is selected in the Layers panel. 2. Go to <b>Filter</b> in the menu bar and click <b>Filter</b> Gallery. Figure 8.2: <b>Filter</b> Gallery 3. In the <b>Filter</b> Gallery dialog box, choose a <b>filter</b>. 4. Adjust the&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "_bBhDwAAQBAJ",
+			"etag": "IhopWWBed/M",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/_bBhDwAAQBAJ",
+			"volumeInfo": {
+				"title": "Forecasting: principles and practice",
+				"authors": [
+					"Rob J Hyndman",
+					"George Athanasopoulos"
+				],
+				"publisher": "OTexts",
+				"publishedDate": "2018-05-08",
+				"description": "Forecasting is required in many situations. Stocking an inventory may require forecasts of demand months in advance. Telecommunication routing requires traffic forecasts a few minutes ahead. Whatever the circumstances or time horizons involved, forecasting is an important aid in effective and efficient planning. This textbook provides a comprehensive introduction to forecasting methods and presents enough information about each method for readers to use them sensibly.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780987507112"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0987507117"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 380,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 5,
+				"ratingsCount": 2,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.1.3.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=_bBhDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=_bBhDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=_bBhDwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=31&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=_bBhDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=_bBhDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 2945.02,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 2945.02,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=_bBhDwAAQBAJ&rdid=book-_bBhDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 2945020000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 2945020000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Forecasting_principles_and_practice-sample-pdf.acsm?id=_bBhDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=_bBhDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Forecasting is required in many situations."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "X4q656t5yfMC",
+			"etag": "zQwqPiHztdc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/X4q656t5yfMC",
+			"volumeInfo": {
+				"title": "Managing the Allergic Patient E-Book",
+				"authors": [
+					"John H. Krouse",
+					"M. Jennifer Derebery",
+					"Stephen J. Chadwick"
+				],
+				"publisher": "Elsevier Health Sciences",
+				"publishedDate": "2007-11-23",
+				"description": "This new reference provides up-to-date, disease-specific diagnostic and treatment protocols in a new, full-color, heavily illustrated reference. This is the most current allergy management information at your fingertips – regardless of your medical specialty. Get the most up-to-date guidance from the most trusted experts in the field. Quickly locate key anatomy, tests, and management protocols in the clinical setting. Find everything you need in one place with diagnosis and management included in each chapter. Compare common presentations and quickly reference the latest in diagnosis and treatment options with over 300 clinical and diagnostic algorithms, photographs, charts, and tables.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781437710984"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1437710980"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 399,
+				"printType": "BOOK",
+				"categories": [
+					"Medical"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.10.7.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=X4q656t5yfMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=X4q656t5yfMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=X4q656t5yfMC&pg=PA49&dq=filter:e-books&hl=&cd=32&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=X4q656t5yfMC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Managing_the_Allergic_Patient_E_Book.html?hl=&id=X4q656t5yfMC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Managing_the_Allergic_Patient_E_Book-sample-epub.acsm?id=X4q656t5yfMC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Managing_the_Allergic_Patient_E_Book-sample-pdf.acsm?id=X4q656t5yfMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=X4q656t5yfMC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... <b>books</b> and collectables, stuffed toys and animals, the presence of off-season ... <b>filter</b> the air as it passes the grill. Keeping beds or chairs out of the ... <b>filter</b>. These <b>filters</b> are the first level of meaningful particulate <b>filtration</b>&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "9I60DwAAQBAJ",
+			"etag": "7rL2DaziSRk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/9I60DwAAQBAJ",
+			"volumeInfo": {
+				"title": "2018 CFR Annual Digital e-Book Edition,Title 40 Protection of Environment - Part 60 (Appendices)",
+				"authors": [
+					"Office of The Federal Register"
+				],
+				"publisher": "Office of The Federal Register enhanced by IntraWEB, LLC",
+				"publishedDate": "2018-07-01",
+				"description": "Title 40 Protection of Environment Part 60 (Appendices) - Volume 9",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 872,
+				"printType": "BOOK",
+				"categories": [
+					"Law"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=9I60DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=9I60DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=9I60DwAAQBAJ&pg=PA680&dq=filter:e-books&hl=&cd=33&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=9I60DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=9I60DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 977.12,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 488.56,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=9I60DwAAQBAJ&rdid=book-9I60DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 977120000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 488560000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=9I60DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... <b>filter</b> to be tested and the NIST blank from wavelength 380 to 780 nm, and record the spectrophotometer percent transmittance responses at 10 nm intervals. Test in this sequence: blank <b>filter</b>, tested <b>filter</b>, tested <b>filter</b> rotated 90&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "kE_DPnSIVNwC",
+			"etag": "t1M1+HbIn7U",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/kE_DPnSIVNwC",
+			"volumeInfo": {
+				"title": "Kindle Buffet",
+				"subtitle": "Find and download the best free books,magazines and newspapers for your Kindle, iPhone, iPad or Android",
+				"publisher": "Stephen Weber",
+				"publishedDate": "2012",
+				"description": "Free books, all you can eat. You may never have to pay for a book again! Many popular books are offered completely free of charge during brief promotional periods. If you manage to find and download a book while it's offered free, it's yours to keep forever. Its a great way to sample a new genre, or perhaps discover an author you had not noticed before. The free promotions usually last only a few days, but there is a new crop every day. You will be amazed at the wealth of great books usually there are several hundred freebies in virtually every category of fiction and nonfiction, every day of the year. This book will introduce you to KindleBuffet.com, a showcase for the best free Kindle books, plus a multitude of other avenues toward great free content.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781936560134"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1936560135"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"printType": "BOOK",
+				"averageRating": 4,
+				"ratingsCount": 2,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.2.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=kE_DPnSIVNwC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=kE_DPnSIVNwC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=kE_DPnSIVNwC&printsec=frontcover&dq=filter:e-books&hl=&cd=34&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=kE_DPnSIVNwC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Kindle_Buffet.html?hl=&id=kE_DPnSIVNwC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=kE_DPnSIVNwC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book will introduce you to KindleBuffet.com, a showcase for the best free Kindle books, plus a multitude of other avenues toward great free content."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "dv19DwAAQBAJ",
+			"etag": "MR8vUW/r6TQ",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/dv19DwAAQBAJ",
+			"volumeInfo": {
+				"title": "2018 CFR Annual Digital e-Book Edition,Title 40 Protection of Environment - Parts 136 to 149",
+				"authors": [
+					"Office of The Federal Register"
+				],
+				"publisher": "Office of The Federal Register enhanced by IntraWEB, LLC",
+				"publishedDate": "2018-07-01",
+				"description": "Title 40 Protection of Environment - Parts 136 to 149",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 1099,
+				"printType": "BOOK",
+				"categories": [
+					"Law"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=dv19DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=dv19DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=dv19DwAAQBAJ&pg=PA624&dq=filter:e-books&hl=&cd=35&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=dv19DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=dv19DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 977.12,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 488.56,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=dv19DwAAQBAJ&rdid=book-dv19DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 977120000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 488560000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=dv19DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... <b>filter</b> monitoring taken under §141.174 for at least three years. Systems must report that they have conducted individual <b>filter</b> turbidity monitoring under §141.174 within 10 days after the end of each month the system serves water to&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "9ylTAAAAMAAJ",
+			"etag": "ikdfUp7hCbM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/9ylTAAAAMAAJ",
+			"volumeInfo": {
+				"title": "Introduction to Filter Theory",
+				"authors": [
+					"David E. Johnson"
+				],
+				"publisher": "Prentice Hall",
+				"publishedDate": "1976",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015000963135"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 332,
+				"printType": "BOOK",
+				"categories": [
+					"Electric filters"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.7.3.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=9ylTAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=9ylTAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=9ylTAAAAMAAJ&q=filter:e-books&dq=filter:e-books&hl=&cd=36&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=9ylTAAAAMAAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Introduction_to_Filter_Theory.html?hl=&id=9ylTAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=9ylTAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "wcalrOI1YbQC",
+			"etag": "f5tU2FoA1eg",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/wcalrOI1YbQC",
+			"volumeInfo": {
+				"title": "The Filter Bubble",
+				"subtitle": "How the New Personalized Web Is Changing What We Read and How We Think",
+				"authors": [
+					"Eli Pariser"
+				],
+				"publisher": "Penguin",
+				"publishedDate": "2011-05-12",
+				"description": "An eye-opening account of how the hidden rise of personalization on the Internet is controlling-and limiting-the information we consume. In December 2009, Google began customizing its search results for each user. Instead of giving you the most broadly popular result, Google now tries to predict what you are most likely to click on. According to MoveOn.org board president Eli Pariser, Google's change in policy is symptomatic of the most significant shift to take place on the Web in recent years-the rise of personalization. In this groundbreaking investigation of the new hidden Web, Pariser uncovers how this growing trend threatens to control how we consume and share information as a society-and reveals what we can do about it. Though the phenomenon has gone largely undetected until now, personalized filters are sweeping the Web, creating individual universes of information for each of us. Facebook-the primary news source for an increasing number of Americans-prioritizes the links it believes will appeal to you so that if you are a liberal, you can expect to see only progressive links. Even an old-media bastion like The Washington Post devotes the top of its home page to a news feed with the links your Facebook friends are sharing. Behind the scenes a burgeoning industry of data companies is tracking your personal information to sell to advertisers, from your political leanings to the color you painted your living room to the hiking boots you just browsed on Zappos. In a personalized world, we will increasingly be typed and fed only news that is pleasant, familiar, and confirms our beliefs-and because these filters are invisible, we won't know what is being hidden from us. Our past interests will determine what we are exposed to in the future, leaving less room for the unexpected encounters that spark creativity, innovation, and the democratic exchange of ideas. While we all worry that the Internet is eroding privacy or shrinking our attention spans, Pariser uncovers a more pernicious and far- reaching trend on the Internet and shows how we can- and must-change course. With vivid detail and remarkable scope, The Filter Bubble reveals how personalization undermines the Internet's original purpose as an open platform for the spread of ideas and could leave us all in an isolated, echoing world.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781101515129"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1101515120"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 179,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"averageRating": 3.5,
+				"ratingsCount": 4,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.4.4.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=wcalrOI1YbQC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=wcalrOI1YbQC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=wcalrOI1YbQC&dq=filter:e-books&hl=&cd=37&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=wcalrOI1YbQC&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Filter_Bubble.html?hl=&id=wcalrOI1YbQC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=wcalrOI1YbQC&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "With vivid detail and remarkable scope, The Filter Bubble reveals how personalization undermines the Internet&#39;s original purpose as an open platform for the spread of ideas and could leave us all in an isolated, echoing world."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "7o60DwAAQBAJ",
+			"etag": "3NA/qsXmzIY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/7o60DwAAQBAJ",
+			"volumeInfo": {
+				"title": "2018 CFR Annual Digital e-Book Edition,Title 40 Protection of Environment - Parts 266 to 299",
+				"authors": [
+					"Office of The Federal Register"
+				],
+				"publisher": "Office of The Federal Register enhanced by IntraWEB, LLC",
+				"publishedDate": "2018-07-01",
+				"description": "Title 40 Protection of Environment Parts 266 to 299 - Volume 29",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 734,
+				"printType": "BOOK",
+				"categories": [
+					"Law"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=7o60DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=7o60DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=7o60DwAAQBAJ&pg=PA118&dq=filter:e-books&hl=&cd=38&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=7o60DwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=7o60DwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 977.12,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 488.56,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=7o60DwAAQBAJ&rdid=book-7o60DwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 977120000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 488560000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=7o60DwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "... <b>filters</b> Baghouse bags Clothing (e.g., coveralls, aprons, shoes, hats, gloves) Sweepings Air <b>filter</b> bags and cartridges Respiratory cartridge <b>filters</b> Shop abrasives Stacking boards Waste shipping containers (e.g., bags, drums, cardboard)&nbsp;..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "g-VFEAAAQBAJ",
+			"etag": "yON3JmVz2pk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/g-VFEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Girl Taken",
+				"subtitle": "A Detective Kaitlyn Carr Mystery",
+				"authors": [
+					"Kate Gable "
+				],
+				"publisher": "Byrd Book Llc",
+				"publishedDate": "2021-09-20",
+				"description": "When her sister’s friend is found dead, Detective Kaitlyn Carr knows that time is running out. Her sister has been missing for weeks and everyone is starting to believe that she’s gone for good. But Kaitlyn refuses to give up. While the FBI and the Sheriff’s investigators collect evidence and run tests, Kaitlyn stays busy with another case back in Los Angeles: the disappearance of a missing couple who were trying to sell their half a million dollar boat. Their grown sons insist that their parents would have never left without an explanation, but it’s up to Kaitlyn to uncover the truth. Is the missing couple keeping secrets of their own or is their life actually in danger? Who killed her sister’s friend and will finding her killer lead to answers about Violet’s disappearance? Girl Taken is a suspenseful thriller perfect for fans of James Patterson, Leslie Wolfe, Lisa Regan, L. T. Vargus and Karin Slaughter. It has mystery, angst, a bit of romance and family drama.",
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 256,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.6.5.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=g-VFEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=g-VFEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=g-VFEAAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=39&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=g-VFEAAAQBAJ&dq=filter:e-books&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Girl_Taken.html?hl=&id=g-VFEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Girl_Taken-sample-epub.acsm?id=g-VFEAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Girl_Taken-sample-pdf.acsm?id=g-VFEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=g-VFEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Girl Taken is a suspenseful thriller perfect for fans of James Patterson, Leslie Wolfe, Lisa Regan, L. T. Vargus and Karin Slaughter. It has mystery, angst, a bit of romance and family drama."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "74_bBwAAQBAJ",
+			"etag": "Uj6/6cZoKKA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/74_bBwAAQBAJ",
+			"volumeInfo": {
+				"title": "Estimation, Control, and the Discrete Kalman Filter",
+				"authors": [
+					"Donald E. Catlin"
+				],
+				"publisher": "Springer Science & Business Media",
+				"publishedDate": "2012-12-06",
+				"description": "In 1960, R. E. Kalman published his celebrated paper on recursive min imum variance estimation in dynamical systems [14]. This paper, which introduced an algorithm that has since been known as the discrete Kalman filter, produced a virtual revolution in the field of systems engineering. Today, Kalman filters are used in such diverse areas as navigation, guid ance, oil drilling, water and air quality, and geodetic surveys. In addition, Kalman's work led to a multitude of books and papers on minimum vari ance estimation in dynamical systems, including one by Kalman and Bucy on continuous time systems [15]. Most of this work was done outside of the mathematics and statistics communities and, in the spirit of true academic parochialism, was, with a few notable exceptions, ignored by them. This text is my effort toward closing that chasm. For mathematics students, the Kalman filtering theorem is a beautiful illustration of functional analysis in action; Hilbert spaces being used to solve an extremely important problem in applied mathematics. For statistics students, the Kalman filter is a vivid example of Bayesian statistics in action. The present text grew out of a series of graduate courses given by me in the past decade. Most of these courses were given at the University of Mas sachusetts at Amherst.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781461245285"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1461245281"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 286,
+				"printType": "BOOK",
+				"categories": [
+					"Technology & Engineering"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=74_bBwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=74_bBwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=74_bBwAAQBAJ&printsec=frontcover&dq=filter:e-books&hl=&cd=40&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=74_bBwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=74_bBwAAQBAJ",
+				"seriesInfo": {
+					"kind": "books#volume_series_info",
+					"shortSeriesBookTitle": "Estimation, Control, and the Discrete Kalman Filter",
+					"bookDisplayNumber": "71",
+					"volumeSeries": [
+						{
+							"seriesId": "oWj3GgAAABBXcM",
+							"seriesBookType": "ISSUE",
+							"orderNumber": 80
+						}
+					]
+				}
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 12626,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 12626,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=74_bBwAAQBAJ&rdid=book-74_bBwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 12626000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 12626000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Estimation_Control_and_the_Discrete_Kalm-sample-pdf.acsm?id=74_bBwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=74_bBwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Most of this work was done outside of the mathematics and statistics communities and, in the spirit of true academic parochialism, was, with a few notable exceptions, ignored by them. This text is my effort toward closing that chasm."
+			}
+		}
+	]
+}

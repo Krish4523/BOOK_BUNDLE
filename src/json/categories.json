@@ -1,0 +1,27 @@
+[
+	{
+		"name": "featured",
+		"url": "https://www.googleapis.com/books/v1/volumes?q=filter:e-books&maxResults=40",
+		"viewMore": false
+	},
+	{
+		"name": "business",
+		"url": "https://www.googleapis.com/books/v1/volumes?q=subject:business+economics&filter:e-books&maxResults=40",
+		"viewMore": false
+	},
+	{
+		"name": "history",
+		"url": "https://www.googleapis.com/books/v1/volumes?q=indian&subject:history&filter:e-books&maxResults=40",
+		"viewMore": false
+	},
+	{
+		"name": "lifestyle",
+		"url": "https://www.googleapis.com/books/v1/volumes?q=human&subject:lifestyle&filter:e-books&maxResults=40",
+		"viewMore": false
+	},
+	{
+		"name": "fiction",
+		"url": "https://www.googleapis.com/books/v1/volumes?q=subject:science+fiction&filter:e-books&maxResults=40",
+		"viewMore": false
+	}
+]

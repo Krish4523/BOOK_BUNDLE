@@ -1,0 +1,2931 @@
+{
+	"kind": "books#volumes",
+	"totalItems": 2890,
+	"items": [
+		{
+			"kind": "books#volume",
+			"id": "-tIvygEACAAJ",
+			"etag": "9CAcuvNnXpE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/-tIvygEACAAJ",
+			"volumeInfo": {
+				"title": "The Republic of India",
+				"subtitle": "The Development of Its Laws and Constitution",
+				"authors": [
+					"Alan Gledhill"
+				],
+				"publishedDate": "2013",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "OCLC:1120811422"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 309,
+				"printType": "BOOK",
+				"categories": [
+					"Law"
+				],
+				"averageRating": 3,
+				"ratingsCount": 4,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=-tIvygEACAAJ&dq=indian&hl=&cd=1&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=-tIvygEACAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Republic_of_India.html?hl=&id=-tIvygEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=-tIvygEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "qxBuAAAAMAAJ",
+			"etag": "hNPnBizSC7g",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/qxBuAAAAMAAJ",
+			"volumeInfo": {
+				"title": "We Indians",
+				"authors": [
+					"Khushwant Singh"
+				],
+				"publishedDate": "1982",
+				"description": "Gleeful name dropping, worship of the successful, face flattery accompanied with back-biting, and envy to the extent of sickness are some of the highlights of We Indians. We Indians tend to be deeply religious, but religion invariably brings out the worst in us. Our women have no idea that sex can be pleasurable though they go from one pregnancy to another...the inimitable Khushwant Singh analyses the good and the bad of Indian character in this unusual and timely book. He brings a special fervor to the Indian character by his rare ability of effortless writing.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015028742818"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 172,
+				"printType": "BOOK",
+				"categories": [
+					"National characteristics, East Indian"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=qxBuAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=qxBuAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=qxBuAAAAMAAJ&q=indian&dq=indian&hl=&cd=2&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=qxBuAAAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/We_Indians.html?hl=&id=qxBuAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=qxBuAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "We Indians tend to be deeply religious, but religion invariably brings out the worst in us."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "5MdCAQAAMAAJ",
+			"etag": "KFhDiyEBgUY",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/5MdCAQAAMAAJ",
+			"volumeInfo": {
+				"title": "North Indian Notes and Queries",
+				"publishedDate": "1893",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "OSU:32435057137721"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 232,
+				"printType": "BOOK",
+				"categories": [
+					"Folklore"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "3.3.5.0.full.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=5MdCAQAAMAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=5MdCAQAAMAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=5MdCAQAAMAAJ&printsec=frontcover&dq=indian&hl=&cd=3&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=5MdCAQAAMAAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=5MdCAQAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FREE",
+				"isEbook": true,
+				"buyLink": "https://play.google.com/store/books/details?id=5MdCAQAAMAAJ&rdid=book-5MdCAQAAMAAJ&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": true,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false,
+					"downloadLink": "http://books.google.co.in/books/download/North_Indian_Notes_and_Queries.epub?id=5MdCAQAAMAAJ&hl=&output=epub&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=5MdCAQAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "FULL_PUBLIC_DOMAIN",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "QY4zdTDwMAQC",
+			"etag": "aGbtx0zsDuM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/QY4zdTDwMAQC",
+			"volumeInfo": {
+				"title": "A History of India",
+				"authors": [
+					"Burton Stein"
+				],
+				"publisher": "John Wiley & Sons",
+				"publishedDate": "2010-02-04",
+				"description": "This new edition of Burton Stein's classic A History ofIndia builds on the success of the original to provide anupdated narrative of the development of Indian society, culture,and politics from 7000 BC to the present. New edition of Burton Stein’s classic text provides anarrative from 7000 BC up to the twenty-first century Includes updated and extended coverage of the modern period,with a new chapter covering the death of Nehru in 1964 to thepresent Expands coverage of India's internal political and economicdevelopment, and its wider diplomatic role in the region Features a new introduction, updated glossary and furtherreading sections, and numerous figures, photographs and fullyrevised maps",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "1444323512"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9781444323511"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 472,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "2.1.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=QY4zdTDwMAQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=QY4zdTDwMAQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=QY4zdTDwMAQC&printsec=frontcover&dq=indian&hl=&cd=4&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=QY4zdTDwMAQC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/A_History_of_India.html?hl=&id=QY4zdTDwMAQC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/A_History_of_India-sample-pdf.acsm?id=QY4zdTDwMAQC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=QY4zdTDwMAQC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This new edition of Burton Stein&#39;s classic A History of India builds on the success of the original to provide an updated narrative of the development of Indian society, culture, and politics from 7000 BC to the present."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "t48dAAAAMAAJ",
+			"etag": "nhQwWx3B7FA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/t48dAAAAMAAJ",
+			"volumeInfo": {
+				"title": "What are Indian States?",
+				"subtitle": "With Illustrative Documents, an Introduction to the Study of the Problem of Indian States and the Real Conditions of Their People",
+				"authors": [
+					"B. S. Pathik"
+				],
+				"publishedDate": "1928",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015026630866"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 260,
+				"printType": "BOOK",
+				"categories": [
+					"British"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.7.3.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=t48dAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=t48dAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=t48dAAAAMAAJ&q=indian&dq=indian&hl=&cd=5&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=t48dAAAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/What_are_Indian_States.html?hl=&id=t48dAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=t48dAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "VoqCXddK-JUC",
+			"etag": "QyzxUT5vDdU",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/VoqCXddK-JUC",
+			"volumeInfo": {
+				"title": "The Argumentative Indian",
+				"subtitle": "Writings on Indian History, Culture and Identity",
+				"authors": [
+					"Amartya Sen"
+				],
+				"publisher": "Penguin Books India",
+				"publishedDate": "2012",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0143418033"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780143418030"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 432,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=VoqCXddK-JUC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=VoqCXddK-JUC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=VoqCXddK-JUC&printsec=frontcover&dq=indian&hl=&cd=6&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=VoqCXddK-JUC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Argumentative_Indian.html?hl=&id=VoqCXddK-JUC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Argumentative_Indian-sample-pdf.acsm?id=VoqCXddK-JUC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=VoqCXddK-JUC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "3MxASoNLcbEC",
+			"etag": "cna2DtobTYI",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/3MxASoNLcbEC",
+			"volumeInfo": {
+				"title": "THE SCIENTIFIC INDIAN",
+				"subtitle": "A Twenty-First Century Guide to the World Around Us",
+				"authors": [
+					"A P J Abdul Kalam"
+				],
+				"publisher": "Penguin UK",
+				"publishedDate": "2010-02-18",
+				"description": "Nuclear capability; self-sufficiency in food production; an array of indigenous satellites and missiles; an unmanned Moon mission—India’s achievements in the scientific domain in recent years have been spectacular. But; according to the country’s best-known scientist A.P.J. Abdul Kalam and his close associate Y.S. Rajan; we’ve only just begun. In a century that many experts predict may belong to India; the realization of the vision of a better future for everyone will require a keen understanding of our needs and this can only be achieved by tailoring our research and innovations to the goal of national development. India to the forefront of the world in the decades to come. The Scientific Indian will speak to every curious and adventurous mind; and especially to tomorrow’s scientists and technologists; encouraging us to dream big; and urging us to work hard to make our dreams come true. In The Scientific Indian; the authors of the path-breaking India 2020: A Vision for the New Millennium return after ten years to the core areas of scientific advancement that are crucial today: space exploration; satellite technology; missile development; earth and ocean resources; the biosphere; food production; energy and water harvesting; health care and communications; to name a few. For each aspect; the authors provide the context of recent progress on the global platform as well as Indian breakthroughs; before outlining a pragmatic vision of technological development that will propel",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9788184752465"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "8184752466"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 233,
+				"printType": "BOOK",
+				"categories": [
+					"Literary Collections"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.6.6.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=3MxASoNLcbEC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=3MxASoNLcbEC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=3MxASoNLcbEC&printsec=frontcover&dq=indian&hl=&cd=7&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=3MxASoNLcbEC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=3MxASoNLcbEC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 470.82,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 329.57,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=3MxASoNLcbEC&rdid=book-3MxASoNLcbEC&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 470820000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 329570000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/THE_SCIENTIFIC_INDIAN-sample-epub.acsm?id=3MxASoNLcbEC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=3MxASoNLcbEC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Scientific Indian will speak to every curious and adventurous mind; and especially to tomorrow’s scientists and technologists; encouraging us to dream big; and urging us to work hard to make our dreams come true."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "6w5WAAAAYAAJ",
+			"etag": "R/iIbYe724Q",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/6w5WAAAAYAAJ",
+			"volumeInfo": {
+				"title": "Is India Civilized?",
+				"subtitle": "Essays on Indian Culture",
+				"authors": [
+					"Sir John George Woodroffe"
+				],
+				"publishedDate": "2009",
+				"description": "In this small book (published for the first time in 1918), taking excuse on the view of an English writer that India was not a civilized country, he writes a strong and passionate defence of India and its culture, exposing the principles that made her civilization. In an epoch where criticism of India was widespread in the Western world, and imitation of English culture was predominant among the Indian elite, Woodroffe encourages India to follow her own tradition and ways. Ninety years after the publication of this book, in spite of the changed political and social environment, it surprises us to see how much alive are his words, and to how much an extent they are still valid for the India of today.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UVA:X030708230"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 236,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=6w5WAAAAYAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=6w5WAAAAYAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=6w5WAAAAYAAJ&q=indian&dq=indian&hl=&cd=8&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=6w5WAAAAYAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Is_India_Civilized.html?hl=&id=6w5WAAAAYAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=6w5WAAAAYAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "In this small book (published for the first time in 1918), taking excuse on the view of an English writer that India was not a civilized country, he writes a strong and passionate defence of India and its culture, exposing the principles ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "vgOjr7qgk2wC",
+			"etag": "kP9Aft1dJwE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/vgOjr7qgk2wC",
+			"volumeInfo": {
+				"title": "History of India: The European struggle for Indian supremacy in the seventeenth century, by Sir W.W. Hunter",
+				"authors": [
+					"Abraham Valentine Williams Jackson"
+				],
+				"publishedDate": "1907",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "NYPL:33433061827212"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 400,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.9.14.0.full.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=vgOjr7qgk2wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=vgOjr7qgk2wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=vgOjr7qgk2wC&printsec=frontcover&dq=indian&hl=&cd=9&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=vgOjr7qgk2wC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=vgOjr7qgk2wC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FREE",
+				"isEbook": true,
+				"buyLink": "https://play.google.com/store/books/details?id=vgOjr7qgk2wC&rdid=book-vgOjr7qgk2wC&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": true,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false,
+					"downloadLink": "http://books.google.co.in/books/download/History_of_India_The_European_struggle_f.epub?id=vgOjr7qgk2wC&hl=&output=epub&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"downloadLink": "http://books.google.co.in/books/download/History_of_India_The_European_struggle_f.pdf?id=vgOjr7qgk2wC&hl=&output=pdf&sig=ACfU3U1cGOVrtZPUX1HwvgLlpW96CUe0Tw&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=vgOjr7qgk2wC&hl=&source=gbs_api",
+				"accessViewStatus": "FULL_PUBLIC_DOMAIN",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Hi9uAAAAMAAJ",
+			"etag": "kT59NE46FMw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Hi9uAAAAMAAJ",
+			"volumeInfo": {
+				"title": "Sardar Patel and Indian Muslims",
+				"subtitle": "An Analysis of His Relations with Muslims, Before and After India's Partition",
+				"authors": [
+					"Rafiq Zakaria"
+				],
+				"publishedDate": "1996",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015041758031"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 162,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.5.2.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Hi9uAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Hi9uAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Hi9uAAAAMAAJ&q=indian&dq=indian&hl=&cd=10&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=Hi9uAAAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Sardar_Patel_and_Indian_Muslims.html?hl=&id=Hi9uAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Hi9uAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "vydBEAAAQBAJ",
+			"etag": "P65OEbazrVI",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/vydBEAAAQBAJ",
+			"volumeInfo": {
+				"title": "What does it mean to be ‘Indian’?",
+				"authors": [
+					"S.N. Balagangadhara, Sarika Rao"
+				],
+				"publisher": "Notion Press",
+				"publishedDate": "2021-09-04",
+				"description": "Why ask this question today? After all, a lot is written about India, her culture, her past, her society, the psychology and sociology of individuals and groups. Why is that not enough? It is because what we have learnt so far is either false or fragmentary. If Indian culture is not a slightly inferior, slightly idiosyncratic variant of Western culture, as the received view has it for a very long time, what else is it? Research into culture and cultural differences gives novel and surprising answers. Written for an intelligent but lay public, this book shares the results of 40 years of scientific investigations in the research programme Comparative Science of Cultures. It transcends the political distinction between ‘the right’ and ‘the left’ by looking deeper into ideas on human beings, society, culture, experience, the past, impact of colonialism etc. Today, the question ‘What does it mean to be ‘Indian’?’ is both important and difficult to answer. Is there something ‘Indian’ about this culture that goes beyond the differences between Hindus, Muslims, Christians, Sikhs or Jains? What does it überhaupt mean to belong to Indian culture?",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781685097721"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1685097723"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 180,
+				"printType": "BOOK",
+				"categories": [
+					"Political Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=vydBEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=vydBEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=vydBEAAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=11&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=vydBEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=vydBEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 99,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 99,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=vydBEAAAQBAJ&rdid=book-vydBEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 99000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 99000000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=vydBEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Written for an intelligent but lay public, this book shares the results of 40 years of scientific investigations in the research programme Comparative Science of Cultures."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "DmB_AgAAQBAJ",
+			"etag": "2jRAtpTjwjc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/DmB_AgAAQBAJ",
+			"volumeInfo": {
+				"title": "India: The Ancient Past",
+				"subtitle": "A History of the Indian Sub-Continent from c. 7000 BC to AD 1200",
+				"authors": [
+					"Burjor Avari"
+				],
+				"publisher": "Routledge",
+				"publishedDate": "2007-06-11",
+				"description": "This carefully crafted study presents the fascinating story of the development and establishment of India’s culture and civilization from early pre-history through to the early second millennium. Encompassing topics such as the Harappan Civilization, the rise of Hindu culture, the influx of Islam in the eighth and the eleventh/twelfth centuries and key empires, states and dynasties, India: The Ancient Past engages with methodological and controversial issues. Key features of this illustrated guide include: a range of maps illustrating different temporal and geographical regions selected source extracts at the end of each chapter, for review and reflection questions for discussion. This book provides comprehensive coverage of the political, spiritual, cultural and geographical history of India, making it an enriching read for anyone with an interest in this captivating period of history.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781134251612"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1134251610"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 414,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.1.2.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=DmB_AgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=DmB_AgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=DmB_AgAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=12&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=DmB_AgAAQBAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/India_The_Ancient_Past.html?hl=&id=DmB_AgAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/India_The_Ancient_Past-sample-epub.acsm?id=DmB_AgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/India_The_Ancient_Past-sample-pdf.acsm?id=DmB_AgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=DmB_AgAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book provides comprehensive coverage of the political, spiritual, cultural and geographical history of India, making it an enriching read for anyone with an interest in this captivating period of history."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "GyTPAAAAIAAJ",
+			"etag": "hF1DVoIK8DM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/GyTPAAAAIAAJ",
+			"volumeInfo": {
+				"title": "Modern Indian Culture",
+				"subtitle": "A Sociological Study",
+				"authors": [
+					"Dhūrjaṭiprasāda Mukhopādhyāẏa"
+				],
+				"publishedDate": "1948",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "STANFORD:36105119357262"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 258,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.4.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=GyTPAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=GyTPAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=GyTPAAAAIAAJ&q=indian&dq=indian&hl=&cd=13&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=GyTPAAAAIAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Modern_Indian_Culture.html?hl=&id=GyTPAAAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=GyTPAAAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "oAThDwAAQBAJ",
+			"etag": "6wBne3o2P+k",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/oAThDwAAQBAJ",
+			"volumeInfo": {
+				"title": "THE INDIAN LISTENER",
+				"subtitle": "Vol. IV. No.",
+				"publisher": " All India Radio (AIR),New Delhi",
+				"description": "The Indian Listener (fortnightly programme journal of AIR in English) published by The Indian State Broadcasting Service,Bombay ,started on 22 december, 1935 and was the successor to the Indian Radio Times in english, which was published beginning in July 16 of 1927. From 22 August ,1937 onwards, it was published by All India Radio,New Delhi.In 1950,it was turned into a weekly journal. Later,The Indian listener became \"Akashvani\" in January 5, 1958. It was made a fortnightly again on July 1,1983. It used to serve the listener as a bradshaw of broadcasting ,and give listener the useful information in an interesting manner about programmes,who writes them,take part in them and produce them along with photographs of performing artists. It also contains the information of major changes in the policy and service of the organisation. NAME OF THE JOURNAL: The Indian Listener LANGUAGE OF THE JOURNAL: English DATE,MONTH & YEAR OF PUBLICATION: 22-10-1939 PERIODICITY OF THE JOURNAL: Fortnightly NUMBER OF PAGES: 68 VOLUME NUMBER: Vol. IV, No. 21. BROADCAST PROGRAMME SCHEDULE PUBLISHED(PAGE NOS): 1481-1540 Document ID: INL-1939 (J-D) Vol- II (09)",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=oAThDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=oAThDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=oAThDwAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=14&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=oAThDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=oAThDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 0,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 0,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=oAThDwAAQBAJ&rdid=book-oAThDwAAQBAJ&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/THE_INDIAN_LISTENER-sample-pdf.acsm?id=oAThDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=oAThDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Indian Listener (fortnightly programme journal of AIR in English) published by The Indian State Broadcasting Service,Bombay ,started on 22 december, 1935 and was the successor to the Indian Radio Times in english, which was published ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "8IFihw1ZnbYC",
+			"etag": "0fBeUbiZSLk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/8IFihw1ZnbYC",
+			"volumeInfo": {
+				"title": "Illustrated Encyclopaedia & Who's who of Princely States in Indian Sub-continent",
+				"authors": [
+					"J. C. Dua"
+				],
+				"publisher": "Kaveri Books",
+				"publishedDate": "2000",
+				"description": "Ever Since The Indian Independence It Has Been Normally Understood That The Indian States And Estates Which Numbered Six Hundred On 15Th August 1947 Were The Symbols Of Incompetence, Oppression And Vices. The States Has A Very Peculiar Status In The Political Theory Which Grew Up In India In The 19Th Century. They Did Not Form Part Of The British Indian Empire Nor Were They Sovereign Powers. The State Were Neither Feudatories Of The Government Of India, Nor Protectorates And Nor Merely Allies Either. The Present Publication Contains The Biographical Sketches Of The Princes And Leading Officials And Non-Officials Of The Erstwhile States And Estates Of Indian Sub-Continent. Author Intends To Show That They Symbolised Progressiveness And Also The Conservators Of Indian Social And Cultural Traditions. The Detailed Introduction Sets Forth The Historical Context And An Analytical Framework. The Book Is Going To Make A Lively Study Of The Laymen As Well As Serious Students Of History. The Detailed Introduction Sets Forth The Historical Context And An Analytical Framework. Contents Section-I : Princes Of India Salute States; Alirajpur, Alwar, Bahawalpur, Banganapalle, Bansda, Baoni (Kadaura), Baria, Baroda, Benares, Bharatpur, Bhavnagar, Bhopal, Bhor, Bijawar, Bikaner, Bilaspur (Kahlur), Cambay, Chamba, Chhatarpur, Chhota Udaipur, Cochin, Cooch Behar, Cutch, Datia, Dewas (Junior), Dewas (Senior), Dhar, Dharampur, Dholpur, Dungarpur, Faridkot, Gondal Gwalior, Hyderabad, Idar, Indore, Jaipur, Jaisalmer, Jammu And Kashmir, Janjira, Jaora, Jawhar, Jhabua, Jhalawar, Jind, Jodhpur, Junagarh, Kalahandi, Kalat, Kapurthala, Karauli, Kishangarh, Kolhapur, Kotah, Kutch, Loharu, Lunawada, Malerkotla, Mandi, Manipur, Mayurbhanj, Mewar, Morvi, Mudhol, Mysore, Nabha, Nagod, Narsingarh, Nawanagar, Orchha (Tikamgarh), Palanpur, Palitana, Panna, Partabgarh, Patiala, Patna, Porbandar, Pudukottai, Radhanpur, Rajgarh, Rajkot, Rajpipla, Rampur, Tatlam, Rewa, Sachin, Sailana, Samthar, Sangli, Sant, Shahpura, Sirmoor, Sirohi, Sitamau, Sonepur, Suket, Tehri-Garhwal, Tonk, Travancore, Tripura, Udaipur, Wankaner; Section-Ii: Princes Of India Non-Saluted States; Akalkot, Ambliara, Anandpur Taluka, Athgarh, Athmalik, Aundh, Baghat, Bamra, Bantwa Taluka, Baramba, Baramba, Barwala Taluka, Baudh, Bhadarwa, Bihat, Bonai, Chhaliar, Chhuikhandan, Daspalla, Dedhrota Taluka, Dhami, Dehnkanal, Gad Boriad,Gangpur, Garrauli, Ghodasar, Hapa Taluka, Hindol, Ichalkaranji, Ilol, Jambughoda, Jamkhandi, Jasdan, Jath, Jobat, Jubbal, Kadoli Taluka, Kalsia, Kawardha, Keonjhar, Khairagarh, Khandpara, Kharsawan, Khedawada Taluka, Khirasra, Korea, Kushalgarh, Kuthar, Lathi, Likhi, Malpur, Mandwa, Mirja (Junior), Mirja (Senior), Nalagarh (Hindur), Narsingpur, Naswadi, Nayagarh, Nilgiri, Palasni, Pal-Lahara, Pataudi, Pethapur, Phaltan, Poonch, Punadra, Raigarh, Rairakhol, Ramas, Ramdrug, Ranasan, Ratanmal, Sanor, Sarangarh, Sarila, Savanpur, Seraikela, Sihora, Sirguja, Swat, Talcher, Vadagam, Vadia, Valasna, Wadi Estate; Section-Iii: Who S Who In India; Leading Officials And Non-Officials, Ministers, Members Of Legislature, Zamindars & Other Personages; Section-Iv: Supplementary Section.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "8174790365"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9788174790361"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 456,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.4.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=8IFihw1ZnbYC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=8IFihw1ZnbYC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=8IFihw1ZnbYC&dq=indian&hl=&cd=15&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=8IFihw1ZnbYC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Illustrated_Encyclopaedia_Who_s_who_of_P.html?hl=&id=8IFihw1ZnbYC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=8IFihw1ZnbYC&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The Detailed Introduction Sets Forth The Historical Context And An Analytical Framework. The Book Is Going To Make A Lively Study Of The Laymen As Well As Serious Students Of History."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "MvaG9SA6D2UC",
+			"etag": "z15rggIlaYw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/MvaG9SA6D2UC",
+			"volumeInfo": {
+				"title": "The Wishing Tree",
+				"subtitle": "Presence and Promise of India",
+				"authors": [
+					"Subhash Kak"
+				],
+				"publisher": "iUniverse",
+				"publishedDate": "2008",
+				"description": "The past two decades have brought revolutionary changes in the understanding of the Indian civilization. This book, as an overview of this new understanding, is for the general reader. It is based on several invited lectures at Stanford University, the Berkeley and Irvine campuses of the University of California, and an invited address at the OHM (Dutch Public TV) Congress in the Hague.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780595486991"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0595486991"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 140,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=MvaG9SA6D2UC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=MvaG9SA6D2UC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=MvaG9SA6D2UC&printsec=frontcover&dq=indian&hl=&cd=16&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=MvaG9SA6D2UC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Wishing_Tree.html?hl=&id=MvaG9SA6D2UC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Wishing_Tree-sample-epub.acsm?id=MvaG9SA6D2UC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/The_Wishing_Tree-sample-pdf.acsm?id=MvaG9SA6D2UC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=MvaG9SA6D2UC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The past two decades have brought revolutionary changes in the understanding of the Indian civilization. This book, as an overview of this new understanding, is for the general reader."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "LlqOvvJJnugC",
+			"etag": "yxaATCL2jm0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/LlqOvvJJnugC",
+			"volumeInfo": {
+				"title": "Jainism and Indian Civilization",
+				"authors": [
+					"Raj Pruthi"
+				],
+				"publisher": "Discovery Publishing House",
+				"publishedDate": "2004",
+				"description": "Contents: Introduction, The Background of Jainism, History of Jainism, Fundamentals of Jainism, Jainism as Religious Movement, Philosophical Thought of Jainism, The Basic Doctrines of Jainism, Political Thought, Peace of Jainism in Indian Thought, Jainism as Viewed by Annie Besant.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "8171417965"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9788171417964"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 244,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.6.7.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=LlqOvvJJnugC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=LlqOvvJJnugC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=LlqOvvJJnugC&printsec=frontcover&dq=indian&hl=&cd=17&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=LlqOvvJJnugC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Jainism_and_Indian_Civilization.html?hl=&id=LlqOvvJJnugC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Jainism_and_Indian_Civilization-sample-pdf.acsm?id=LlqOvvJJnugC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=LlqOvvJJnugC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Contents: Introduction, The Background of Jainism, History of Jainism, Fundamentals of Jainism, Jainism as Religious Movement, Philosophical Thought of Jainism, The Basic Doctrines of Jainism, Political Thought, Peace of Jainism in Indian ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "GCl5zgEACAAJ",
+			"etag": "fvxlp9b3i5k",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/GCl5zgEACAAJ",
+			"volumeInfo": {
+				"title": "Words of Indian",
+				"authors": [
+					"Deepak Solanki"
+				],
+				"publishedDate": "2021-02-19",
+				"description": ",This book contains the sentiments of Indians and the wonderful writings of the authors. Every Indian should read this book",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9798710917916"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 159,
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=GCl5zgEACAAJ&dq=indian&hl=&cd=18&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=GCl5zgEACAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Words_of_Indian.html?hl=&id=GCl5zgEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=GCl5zgEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": ",This book contains the sentiments of Indians and the wonderful writings of the authors. Every Indian should read this book"
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "mz0wAQAAIAAJ",
+			"etag": "5BeQd0IOhIc",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/mz0wAQAAIAAJ",
+			"volumeInfo": {
+				"title": "Is Indian Culture Obsolete?",
+				"authors": [
+					"Michel Danino"
+				],
+				"publishedDate": "2000",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "STANFORD:36105111575382"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 74,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "2.3.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=mz0wAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=mz0wAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=mz0wAQAAIAAJ&q=indian&dq=indian&hl=&cd=19&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=mz0wAQAAIAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Is_Indian_Culture_Obsolete.html?hl=&id=mz0wAQAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=mz0wAQAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "NS8oAAAACAAJ",
+			"etag": "gjr6NIFfezs",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/NS8oAAAACAAJ",
+			"volumeInfo": {
+				"title": "100% India",
+				"authors": [
+					"Catherine Geel"
+				],
+				"publisher": "Seuil",
+				"publishedDate": "2005",
+				"description": "Like an anthropologist's field notebook documenting objects found and bought, 100% India is packed with page after kaleidoscope page of objects and ephemera. Journalist Geel and designer L vy canvass every tangible thing made in India. Even the most mundane items packets of tissues, bottles of detergent, stickers on rickshaws, stamps, and lightbulbs assume a vibrant life of their own. An essay on the history of industry in modern India, snippets of contemporary fiction, and insightful captions round out the picture; bold design mirrors the aesthetic of the objects themselves. An extraordinary journey to the heart of Indian design, 100% India is essential for any designer, traveler, or admirer of the eclectic beauty of India.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "2020694204"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9782020694209"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 0,
+				"printType": "BOOK",
+				"categories": [
+					"Consumer goods"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=NS8oAAAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=NS8oAAAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=NS8oAAAACAAJ&dq=indian&hl=&cd=20&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=NS8oAAAACAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/100_India.html?hl=&id=NS8oAAAACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=NS8oAAAACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Like an anthropologist&#39;s field notebook documenting objects found and bought, 100% India is packed with page after kaleidoscope page of objects and ephemera. Journalist Geel and designer L vy canvass every tangible thing made in India."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "S6LZBiwmF-wC",
+			"etag": "ytrYaSiKxZ4",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/S6LZBiwmF-wC",
+			"volumeInfo": {
+				"title": "Economic Policy Reforms and the Indian Economy",
+				"authors": [
+					"Anne O. Krueger"
+				],
+				"publisher": "University of Chicago Press",
+				"publishedDate": "2002-07",
+				"description": "India is the second most populous country in the world and also one of the poorest. From the late 1940s to 1980, India's per capita income grew at an average annual rate of only two percent. Expansionist economic reforms during the 1980s boosted economic growth but also unfortunately resulted in high inflation and a balance of payments crisis. As a consequence, in 1991 the government announced sweeping new changes in economic policies. Economic Policy Reforms and the Indian Economy evaluates the effects of those changes and identifies areas of the Indian economy still in urgent need of reform. After an overview of Indian economic policies and development since independence, papers focus on the country's fiscal situation, the environment for private economic activity, education, the reservation of certain activities for small-scale industry, and determinants of differentials in rates of growth across the different Indian states. Contributors include respected academic specialists on India and policy reform, high-level Indian administrators, and present and past policymakers.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780226454528"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0226454525"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 396,
+				"printType": "BOOK",
+				"categories": [
+					"Business & Economics"
+				],
+				"averageRating": 2,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.3.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=S6LZBiwmF-wC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=S6LZBiwmF-wC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=S6LZBiwmF-wC&printsec=frontcover&dq=indian&hl=&cd=21&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=S6LZBiwmF-wC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Economic_Policy_Reforms_and_the_Indian_E.html?hl=&id=S6LZBiwmF-wC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Economic_Policy_Reforms_and_the_Indian_E-sample-epub.acsm?id=S6LZBiwmF-wC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Economic_Policy_Reforms_and_the_Indian_E-sample-pdf.acsm?id=S6LZBiwmF-wC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=S6LZBiwmF-wC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "India is the second most populous country in the world and also one of the poorest. From the late 1940s to 1980, India&#39;s per capita income grew at an average annual rate of only two percent."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ECQwAQAAIAAJ",
+			"etag": "gRmHizSfgkM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ECQwAQAAIAAJ",
+			"volumeInfo": {
+				"title": "India",
+				"subtitle": "Fifty Years After Independence",
+				"authors": [
+					"Kathleen Firth",
+					"Felicity Hand"
+				],
+				"publishedDate": "2001",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "STANFORD:36105110934366"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 180,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.3.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ECQwAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ECQwAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=ECQwAQAAIAAJ&q=indian&dq=indian&hl=&cd=22&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=ECQwAQAAIAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/India.html?hl=&id=ECQwAQAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ECQwAQAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Focusing on literature, film and the broadcast media, these essays are drawn from a conference at the University of Barcelona in Spain to celebrate the fiftieth anniversary of India&#39;s independence."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "7xg6EAAAQBAJ",
+			"etag": "AmrIQUVto8s",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/7xg6EAAAQBAJ",
+			"volumeInfo": {
+				"title": "Indian Culture",
+				"subtitle": "A Compendium of Indian History, Culture and Heritage",
+				"authors": [
+					"Dr. S. Srikanta Sastri, English Translation by S. Naganath"
+				],
+				"publisher": "Notion Press",
+				"publishedDate": "2022-05-11",
+				"description": "The author, a historian of repute, confronts important issues of Indian history in this classic work. He raises such questions as “Was there an Aryan Invasion of India in the past?”, “Is the caste system a bane or a boon?”, “Did Indian women enjoy equal rights in ancient times?”, “Was Democracy an alien concept to Vedic Indians?”, “Why Buddhism became extinct in the country of its origin?”, “What is India’s lasting contribution to the field of Science, Mathematics, Astronomy, Medicine, Chemistry, Metallurgy, etc.?”, “Was Indian Culture greatly impacted by foreign religions?”, “How did India influence its neighbouring Eastern and Western countries?”, “Is Sanskrit only an off-shoot of the Indo-European Languages Group?”, “What was the scale of the social, economic and political implosion detonated by two centuries of British Colonial Rule?”. The author has answered the above vexing questions based on an intensive study of Archaeology, Epigraphy, Numismatics, original records in different languages and the travelogues of foreign visitors.(Translator’s Note).",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781638065111"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "163806511X"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 474,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "1.7.7.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=7xg6EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=7xg6EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=7xg6EAAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=23&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=7xg6EAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=7xg6EAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 449,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 314.3,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=7xg6EAAAQBAJ&rdid=book-7xg6EAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 449000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 314300000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=7xg6EAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The author, a historian of repute, confronts important issues of Indian history in this classic work."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "0DWJnAEACAAJ",
+			"etag": "VqPkU9FM1ls",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/0DWJnAEACAAJ",
+			"volumeInfo": {
+				"title": "Indian life and Indian history",
+				"authors": [
+					"George Copway"
+				],
+				"publishedDate": "1978",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "OCLC:641505274"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=0DWJnAEACAAJ&dq=indian&hl=&cd=24&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=0DWJnAEACAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Indian_life_and_Indian_history.html?hl=&id=0DWJnAEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=0DWJnAEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "titg6iWPc1MC",
+			"etag": "mlYkpyFGEh8",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/titg6iWPc1MC",
+			"volumeInfo": {
+				"title": "Tradition and Reflection",
+				"subtitle": "Explorations in Indian Thought",
+				"authors": [
+					"Wilhelm Halbfass"
+				],
+				"publisher": "SUNY Press",
+				"publishedDate": "1991-01-01",
+				"description": "This book examines, above all, the relationship between reason and Vedic revelation, and the philosophical responses to the idea of the Veda. It deals with such topics as dharma, karma and rebirth, the role of man in the universe, the motivation and justification of human actions, the relationship between ritual norms and universal ethics, and reflections on the goals and sources of human knowledge. Halbfass presents previously unknown materials concerning the history of sectarian movements, including the notorious Thags (thaka), and relations between Indian and Iranian thought. The approach is partly philosophical and partly historical and philological; to a certain extent, it is also comparative. The author explores indigenous Indian reflections on the sources, the structure and the meaning of the Hindu tradition, and traditional philosophical responses to social and historical realities. He does not deal with social and historical realities per se; rather, basing his work on the premise that to understand these realities the reflections and constructions of traditional Indian theorists are no less significant than the observations and paradigms of modern Western historians and social scientists, he explores the self-understanding of such leading thinkers as Sankara, Kumarila, Bhartrhari and Udayana.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "0791403629"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9780791403624"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 440,
+				"printType": "BOOK",
+				"categories": [
+					"Religion"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.3.4.0.preview.3",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=titg6iWPc1MC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=titg6iWPc1MC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=titg6iWPc1MC&printsec=frontcover&dq=indian&hl=&cd=25&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=titg6iWPc1MC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Tradition_and_Reflection.html?hl=&id=titg6iWPc1MC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Tradition_and_Reflection-sample-epub.acsm?id=titg6iWPc1MC&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Tradition_and_Reflection-sample-pdf.acsm?id=titg6iWPc1MC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=titg6iWPc1MC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book examines, above all, the relationship between reason and Vedic revelation, and the philosophical responses to the idea of the Veda."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "ubRkhPM0ETMC",
+			"etag": "ja8QU2kKIIE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/ubRkhPM0ETMC",
+			"volumeInfo": {
+				"title": "Essays on Indian Renaissance",
+				"authors": [
+					"Raj Kumar"
+				],
+				"publisher": "Discovery Publishing House",
+				"publishedDate": "2003",
+				"description": "Contents: Introduction, Hindu Renaissance in Middle Ages, India s Religious Renaissance, Influence of Renaissance and Reformation, The Renaissance in British India and its Effect, Swami Dayanand Saraswati and Indian Renaissance, The Bengal Renaissance and Rabindranath Tagore, The Roots of Indian Nationalism, Delhi in the Nineteenth Century, The English Positives and India, Social and Cultural Reconstruction, British Paramountcy and Indian Renaissance, Renaissance of Tamil Culture, Premchand: And Indian Resurgence.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_10",
+						"identifier": "8171416896"
+					},
+					{
+						"type": "ISBN_13",
+						"identifier": "9788171416899"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 348,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.6.5.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=ubRkhPM0ETMC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=ubRkhPM0ETMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=ubRkhPM0ETMC&printsec=frontcover&dq=indian&hl=&cd=26&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=ubRkhPM0ETMC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Essays_on_Indian_Renaissance.html?hl=&id=ubRkhPM0ETMC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Essays_on_Indian_Renaissance-sample-pdf.acsm?id=ubRkhPM0ETMC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=ubRkhPM0ETMC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Contents: Introduction, Hindu Renaissance in Middle Ages, India s Religious Renaissance, Influence of Renaissance and Reformation, The Renaissance in British India and its Effect, Swami Dayanand Saraswati and Indian Renaissance, The Bengal ..."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "eccgAAAAMAAJ",
+			"etag": "x9StRlK8HA0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/eccgAAAAMAAJ",
+			"volumeInfo": {
+				"title": "The Emergence of the Indian National Congress",
+				"authors": [
+					"S. R. Mehrotra"
+				],
+				"publisher": "Delhi : Vikas Publications",
+				"publishedDate": "1971",
+				"description": "This Book Looks At The Socio-Political Conditions In Late 19Th Century Which Led To The Emergence Of The Indian National Congress.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015014186426"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 480,
+				"printType": "BOOK",
+				"categories": [
+					"Political Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.6.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=eccgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=eccgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=eccgAAAAMAAJ&q=indian&dq=indian&hl=&cd=27&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=eccgAAAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Emergence_of_the_Indian_National_Con.html?hl=&id=eccgAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=eccgAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This Book Looks At The Socio-Political Conditions In Late 19Th Century Which Led To The Emergence Of The Indian National Congress."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Dcs5AQAAIAAJ",
+			"etag": "yfCeC0BGZOA",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Dcs5AQAAIAAJ",
+			"volumeInfo": {
+				"title": "Kunwar Mohammad Ashraf, an Indian Scholar and Revolutionary, 1903-1962",
+				"authors": [
+					"Kunwar Mohammed Ashraf"
+				],
+				"publisher": "Delhi : People's Publishing House",
+				"publishedDate": "1969",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UCAL:$B572286"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 490,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.7.2.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Dcs5AQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Dcs5AQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Dcs5AQAAIAAJ&q=indian&dq=indian&hl=&cd=28&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=Dcs5AQAAIAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Kunwar_Mohammad_Ashraf_an_Indian_Scholar.html?hl=&id=Dcs5AQAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Dcs5AQAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "Q4RIEAAAQBAJ",
+			"etag": "sfNe0+Rf2rw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/Q4RIEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Indian Economy Performance and Policies- SBPD Publications",
+				"authors": [
+					"Dr. V. C. Sinha"
+				],
+				"publisher": "SBPD Publications",
+				"publishedDate": "2021-10-16",
+				"description": "1.Economic Development : Meaning, Measurement, Indicators and Determinants,2. Underdeveloped (Developing) Economy—Concept of Underdevelopment, 3. Human Development, 4. Indian Economy on the Eve of Independence (Colonial Economy), 5. Structure and Basic Features of Indian Economy, 6. Evaluation of India’s Economic Planning, 7. Import Substituting Industrialisation, 8. Economic Reforms in India : Liberalisation, Privatisation & Globalisation, Demonetisation and GST, 9. Growth, Development and Structural Change in India, 10. Various Means of Transport : Road, Rail, Water and Air, 11. Changes in Policy Perspective in the Role of Institutional Framework After 1991, 12. Economic Growth and Distribution in India, 13. Problems of Poverty in India, 14. Unemployment in India, Nature, Extent and Employment Policy, 15.Economic Development and Environment, 16.Agriculture Growth and Performance in India, 17. Land Tenure and Reforms : Agricultural Holding and Consolidation, 18. Plans and Agriculture Development : Green Revolution, 19. Technological Change and Development in Agriculture (Agriculture Mechanisation), 20. Agricultural Price Policy, 21. Food Problem, Food Policy, Public Distribution System and Food Security, 22. Prominent Large Scale Industries of India—Cotton Textile, Jute, Sugar, Iron and Steel and Cement, 23. Micro, Small and Medium Enterprises (MSMEs) in India, 24. Foreign Trade of India, 25. India and the World Trade Organisation (WTO), 26. Role of Foreign Direct Investment in India.",
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 314,
+				"printType": "BOOK",
+				"categories": [
+					"Political Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=Q4RIEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=Q4RIEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=Q4RIEAAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=29&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=Q4RIEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=Q4RIEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 348.1,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 243.67,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=Q4RIEAAAQBAJ&rdid=book-Q4RIEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 348100000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 243670000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Indian_Economy_Performance_and_Policies-sample-pdf.acsm?id=Q4RIEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=Q4RIEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "1.Economic Development : Meaning, Measurement, Indicators and Determinants,2."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "-fT1zQEACAAJ",
+			"etag": "+8aNyeCKnUo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/-fT1zQEACAAJ",
+			"volumeInfo": {
+				"title": "The Constitution of India",
+				"subtitle": "Bare Act",
+				"authors": [
+					"Constituent Assembly of India"
+				],
+				"publishedDate": "2020-10-03",
+				"description": "The constitution of India is the lengthiest constitution in the world. Though mainly derived from government of India act, 1935, it has adopted articles from constitutions of a number of countries -USA, CANADA, ENGLANDEvery Political Scientist, Lawyer, Student preparing for various competitive exam and even every responsible citizen of the land must be aware of various parts and article.People of other countries, who wish to compare their constitution with the constitution of India must also read it.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9798693353770"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 282,
+				"printType": "BOOK",
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=-fT1zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=-fT1zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=-fT1zQEACAAJ&dq=indian&hl=&cd=30&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=-fT1zQEACAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Constitution_of_India.html?hl=&id=-fT1zQEACAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=-fT1zQEACAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "The constitution of India is the lengthiest constitution in the world."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "cyqRD2P7XoIC",
+			"etag": "/ktCLJEojQE",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/cyqRD2P7XoIC",
+			"volumeInfo": {
+				"title": "The Indian Rebellion",
+				"subtitle": "Its Causes and Results",
+				"authors": [
+					"Alexander Duff"
+				],
+				"publishedDate": "1858",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "HARVARD:32044010316628"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 454,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.6.7.0.full.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=cyqRD2P7XoIC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=cyqRD2P7XoIC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=cyqRD2P7XoIC&printsec=frontcover&dq=indian&hl=&cd=31&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=cyqRD2P7XoIC&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=cyqRD2P7XoIC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FREE",
+				"isEbook": true,
+				"buyLink": "https://play.google.com/store/books/details?id=cyqRD2P7XoIC&rdid=book-cyqRD2P7XoIC&rdot=1&source=gbs_api"
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "ALL_PAGES",
+				"embeddable": true,
+				"publicDomain": true,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false,
+					"downloadLink": "http://books.google.co.in/books/download/The_Indian_Rebellion.epub?id=cyqRD2P7XoIC&hl=&output=epub&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"downloadLink": "http://books.google.co.in/books/download/The_Indian_Rebellion.pdf?id=cyqRD2P7XoIC&hl=&output=pdf&sig=ACfU3U1w0HDp3RIoupvOMTObBHsrV-o8GA&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=cyqRD2P7XoIC&hl=&source=gbs_api",
+				"accessViewStatus": "FULL_PUBLIC_DOMAIN",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "FRl9EAAAQBAJ",
+			"etag": "Z4ZksONnVZo",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/FRl9EAAAQBAJ",
+			"volumeInfo": {
+				"title": "Legend Of Suheldev",
+				"subtitle": "The King Who Saved India",
+				"authors": [
+					"Amish Tripathi"
+				],
+				"publisher": "Harper Collins",
+				"publishedDate": "2022-07-25",
+				"description": "A Forgotten Hero. An Unforgettable Battle. India, 1025 AD. Repeated attacks by Mahmud of Ghazni and his barbaric Turkic hordes have weakened India's northern regions. The invaders lay waste to vast swathes of the subcontinent-plundering, killing, raping, pillaging. Many of the old Indian kingdoms, tired and divided, fall to them. Those who do fight, battle with old codes of chivalry, and are unable to stop the savage Turkic army which repeatedly breaks all rules to win. Then the Turks raid and destroy one of the holiest temples in the land: the magnificent Lord Shiva temple at Somnath. At this most desperate of times, a warrior rises to defend the nation. King Suheldev. The ruler of a small kingdom, he sees what must be done for his motherland, and is willing to sacrifice his all for it. A fierce rebel. A charismatic leader. An inclusive patriot. Read this blockbuster epic adventure of courage and heroism, a fictional tale based on true events, that recounts the story of that lionhearted warrior and the magnificent Battle of Bahraich.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9789356291041"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "9356291047"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": false
+				},
+				"pageCount": 307,
+				"printType": "BOOK",
+				"categories": [
+					"Fiction"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": true,
+				"contentVersion": "0.1.1.0.preview.2",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=FRl9EAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=FRl9EAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=FRl9EAAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=32&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=FRl9EAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=FRl9EAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 319,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 223.3,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=FRl9EAAAQBAJ&rdid=book-FRl9EAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 319000000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 223300000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Legend_Of_Suheldev-sample-epub.acsm?id=FRl9EAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=FRl9EAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "A charismatic leader. An inclusive patriot. Read this blockbuster epic adventure of courage and heroism, a fictional tale based on true events, that recounts the story of that lionhearted warrior and the magnificent Battle of Bahraich."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "rcjXDwAAQBAJ",
+			"etag": "H0Yrxt+DaE0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/rcjXDwAAQBAJ",
+			"volumeInfo": {
+				"title": "India’s Villages in the 21st Century",
+				"subtitle": "Revisits and Revisions",
+				"authors": [
+					"Surinder S. Jodhka",
+					"Edward Simpson"
+				],
+				"publisher": "Oxford University Press",
+				"publishedDate": "2019-09-05",
+				"description": "Post India’s economic liberalization in the 1990s, the village ceased to be central to ongoing sociological concerns. As a result, the period saw a marginalization of rural life and agrarian economy in the national imagination. However, in the 21st century as India transforms, so does its rural life. This book revisits the realities of contemporary rural India, exploring the trajectories of change across regions such as those in rural economies, the relationship of villages to the outside world, and the dynamics of caste inequalities. The volume puts together 14 papers based on empirical studies carried out by sociologists, social anthropologists, and economists over the past 15 years to begin a holistic conversation on contemporary rural India which continues to be an important site of social, political, and economic activities. India’s Villages in the 21st Century stresses diversity as a fundamental structure of Indian economy and society and illustrates the point by focusing on the economies, patterns of settlements, and organization of social and political life in India’s villages.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9780199098194"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "0199098190"
+					}
+				],
+				"readingModes": {
+					"text": true,
+					"image": true
+				},
+				"pageCount": 501,
+				"printType": "BOOK",
+				"categories": [
+					"Social Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "preview-1.0.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=rcjXDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=rcjXDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=rcjXDwAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=33&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=rcjXDwAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=rcjXDwAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 1410.1,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 705.05,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=rcjXDwAAQBAJ&rdid=book-rcjXDwAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 1410100000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 705050000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/India_s_Villages_in_the_21st_Century-sample-epub.acsm?id=rcjXDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/India_s_Villages_in_the_21st_Century-sample-pdf.acsm?id=rcjXDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=rcjXDwAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "This book revisits the realities of contemporary rural India, exploring the trajectories of change across regions such as those in rural economies, the relationship of villages to the outside world, and the dynamics of caste inequalities."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "rsVGAAAAIAAJ",
+			"etag": "CsEKCAai0YI",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/rsVGAAAAIAAJ",
+			"volumeInfo": {
+				"title": "Indian Nationality",
+				"authors": [
+					"Robert Niven Gilchrist"
+				],
+				"publisher": "London : Longmans, Green",
+				"publishedDate": "1920",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UCAL:$B291448"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 276,
+				"printType": "BOOK",
+				"categories": [
+					"Citizenship"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.4.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=rsVGAAAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=rsVGAAAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=rsVGAAAAIAAJ&q=indian&dq=indian&hl=&cd=34&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=rsVGAAAAIAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/Indian_Nationality.html?hl=&id=rsVGAAAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=rsVGAAAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "-S9uAAAAMAAJ",
+			"etag": "KFI49qdrK40",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/-S9uAAAAMAAJ",
+			"volumeInfo": {
+				"title": "India After Nehru",
+				"authors": [
+					"Kuldip Nayar"
+				],
+				"publisher": "Delhi : Vikas Publishing House",
+				"publishedDate": "1975",
+				"description": "Narrative of political events in India, 1964-1975.",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015009194450"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 312,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.4.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=-S9uAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=-S9uAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=-S9uAAAAMAAJ&q=indian&dq=indian&hl=&cd=35&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=-S9uAAAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/India_After_Nehru.html?hl=&id=-S9uAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=-S9uAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Narrative of political events in India, 1964-1975."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "5cIKAQAAIAAJ",
+			"etag": "u6C3oRDbtPM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/5cIKAQAAIAAJ",
+			"volumeInfo": {
+				"title": "The Destiny of Indian Muslims",
+				"authors": [
+					"Sayyid ʻĀbid Ḥusain"
+				],
+				"publisher": "London, Asia Publishing House",
+				"publishedDate": "1965",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "STANFORD:36105041509543"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 292,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "1.6.2.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=5cIKAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=5cIKAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=5cIKAQAAIAAJ&q=indian&dq=indian&hl=&cd=36&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=5cIKAQAAIAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Destiny_of_Indian_Muslims.html?hl=&id=5cIKAQAAIAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=5cIKAQAAIAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "bopEAQAAMAAJ",
+			"etag": "7sjWMvn4lNw",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/bopEAQAAMAAJ",
+			"volumeInfo": {
+				"title": "The Wrongs of Indian Womanhood",
+				"authors": [
+					"Mrs. Marcus B. Fuller"
+				],
+				"publisher": "New Delhi : Inter-India Publications",
+				"publishedDate": "1984",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "CORNELL:31924012123695"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 304,
+				"printType": "BOOK",
+				"categories": [
+					"India"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.2.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=bopEAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=bopEAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=bopEAQAAMAAJ&q=indian&dq=indian&hl=&cd=37&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=bopEAQAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Wrongs_of_Indian_Womanhood.html?hl=&id=bopEAQAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=bopEAQAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "eWxKEAAAQBAJ",
+			"etag": "YSvwi5EawR0",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/eWxKEAAAQBAJ",
+			"volumeInfo": {
+				"title": "Putting India First : India Positive Citizen Perspectives Vol I",
+				"subtitle": "Building a great Nation one India Positive action at a time",
+				"authors": [
+					"Savitha Rao"
+				],
+				"publisher": "SAVITHA RAO",
+				"publishedDate": "2021-10-26",
+				"description": "A first of its kind in the world book where people from different walks of life have been brought together in a book to talk about India. India - one of the oldest and wisest civilisations of the world. From agriculture to architecture to Ayurveda ancient India was way ahead of even the present day world. In the worst pandemic the world has seen in 100 years India has displayed exemplary leadership. The challenges we face today as a nation need the mindful participation of people from diverse spheres of life - business, defence, environment, yoga, culture, agriculture, science, naturopathy, crafts, space technology, sports, spirituality, innovators and several more. Dr Krishna Ella - Founder of Bharat Biotech Ashish Chauhan - CEO of Bombay Stock Exchange BK Shivani - Brahmakumaris Dr Karsanbhai Patel - Founder of Nirma Ajay Piramal - Chairman Piramal Group Gen Ved Malik - Retd COAS Dr Rajat Mitra - renowned Psychologist Mohandas Pai - Business Leader Krishnamachari Srikkanth - Former Indian Cricket Team Captain Major DP Singh - Kargil War Hero Dr RS Sodhi - Managing Director of AMUL S. Vijaykumar - Founder of the India Pride Project Dr Gobardhan Das - Scientist Bana Singh - Param Vir Chakra Awardee Dr Radhakrishnan - Former Chairman of ISRO Biplab Paul - transforming lives of farmers through rain water conservation Dr Nagaraj Hegde - an innovator in the agriculture space Vikas Manhas - Helps India to know our Real Heroes - our Soldiers Dr Kumud Joshi - Specialist in Nature Cure Meghna Girish - Founder of Major Akshay Girish Memorial Trust Dr HR Nagendra - Chancellor SVYASA Veteran Air Marshal Ravinder Dhir - Indian Air Force veteran and Defence Expert Peepal Baba - Environmentalist Ami Shroff - Crafts Expert Dr Padmaja Suresh - Bharatnatyam expert, author and speaker Gopal Sutariya - Founder Bansi Gir BS Nagesh - Retail Industry Guru Srikanth Bolla - Founder of Bollant Industries share a glimpse of their life journey and insights for India. Their life story and message offers powerful insights. You will feel enormously inspired as an Indian and optimistic about our shared future, which needs your participation. This is an invitation to every Indian. Wherever you are on the planet you can contribute towards #NewIndia. A nation of a billion plus needs millions actively involved in nation building. Inviting every Indian to put #IndiaFirst. As we step into the 75th year of our Independence let us be inspired by our exemplary citizens. Each one of them has a powerful message to share with you. This is a book for every Indian. A uniquely Indian way to celebrate Azadi ka Amrit Mahotsav. India@75",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9789354938726"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "9354938728"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 284,
+				"printType": "BOOK",
+				"categories": [
+					"Social Science"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.0.1.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=eWxKEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=eWxKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=eWxKEAAAQBAJ&printsec=frontcover&dq=indian&hl=&cd=38&source=gbs_api",
+				"infoLink": "https://play.google.com/store/books/details?id=eWxKEAAAQBAJ&source=gbs_api",
+				"canonicalVolumeLink": "https://play.google.com/store/books/details?id=eWxKEAAAQBAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "FOR_SALE",
+				"isEbook": true,
+				"listPrice": {
+					"amount": 293.82,
+					"currencyCode": "INR"
+				},
+				"retailPrice": {
+					"amount": 205.67,
+					"currencyCode": "INR"
+				},
+				"buyLink": "https://play.google.com/store/books/details?id=eWxKEAAAQBAJ&rdid=book-eWxKEAAAQBAJ&rdot=1&source=gbs_api",
+				"offers": [
+					{
+						"finskyOfferType": 1,
+						"listPrice": {
+							"amountInMicros": 293820000,
+							"currencyCode": "INR"
+						},
+						"retailPrice": {
+							"amountInMicros": 205670000,
+							"currencyCode": "INR"
+						}
+					}
+				]
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/Putting_India_First_India_Positive_Citiz-sample-pdf.acsm?id=eWxKEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=eWxKEAAAQBAJ&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "Their life story and message offers powerful insights. You will feel enormously inspired as an Indian and optimistic about our shared future, which needs your participation. This is an invitation to every Indian."
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "b3rXAAAAMAAJ",
+			"etag": "t4O7ubDfKnM",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/b3rXAAAAMAAJ",
+			"volumeInfo": {
+				"title": "The Renaissance in India",
+				"subtitle": "With a Defence of Indian Culture",
+				"authors": [
+					"Aurobindo Ghose"
+				],
+				"publishedDate": "1997",
+				"industryIdentifiers": [
+					{
+						"type": "OTHER",
+						"identifier": "UOM:39015050048209"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": false
+				},
+				"pageCount": 494,
+				"printType": "BOOK",
+				"categories": [
+					"Art and literature"
+				],
+				"averageRating": 5,
+				"ratingsCount": 1,
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.5.1.0.preview.0",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=b3rXAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=b3rXAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=b3rXAAAAMAAJ&q=indian&dq=indian&hl=&cd=39&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=b3rXAAAAMAAJ&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/The_Renaissance_in_India.html?hl=&id=b3rXAAAAMAAJ"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "NO_PAGES",
+				"embeddable": false,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": false
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=b3rXAAAAMAAJ&hl=&source=gbs_api",
+				"accessViewStatus": "NONE",
+				"quoteSharingAllowed": false
+			}
+		},
+		{
+			"kind": "books#volume",
+			"id": "CfIYeoCOgbgC",
+			"etag": "V/P1wOEagEk",
+			"selfLink": "https://www.googleapis.com/books/v1/volumes/CfIYeoCOgbgC",
+			"volumeInfo": {
+				"title": "On the Education of the People of India",
+				"authors": [
+					"Charles Edward Trevelyan"
+				],
+				"publisher": "Cambridge University Press",
+				"publishedDate": "2011-06-02",
+				"description": "A key Anglicist text in the educational debates of colonial India, arguing for a Western curriculum and English-language instruction.",
+				"industryIdentifiers": [
+					{
+						"type": "ISBN_13",
+						"identifier": "9781108276641"
+					},
+					{
+						"type": "ISBN_10",
+						"identifier": "1108276644"
+					}
+				],
+				"readingModes": {
+					"text": false,
+					"image": true
+				},
+				"pageCount": 235,
+				"printType": "BOOK",
+				"categories": [
+					"History"
+				],
+				"maturityRating": "NOT_MATURE",
+				"allowAnonLogging": false,
+				"contentVersion": "0.1.0.0.preview.1",
+				"panelizationSummary": {
+					"containsEpubBubbles": false,
+					"containsImageBubbles": false
+				},
+				"imageLinks": {
+					"smallThumbnail": "http://books.google.com/books/content?id=CfIYeoCOgbgC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+					"thumbnail": "http://books.google.com/books/content?id=CfIYeoCOgbgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+				},
+				"language": "en",
+				"previewLink": "http://books.google.co.in/books?id=CfIYeoCOgbgC&printsec=frontcover&dq=indian&hl=&cd=40&source=gbs_api",
+				"infoLink": "http://books.google.co.in/books?id=CfIYeoCOgbgC&dq=indian&hl=&source=gbs_api",
+				"canonicalVolumeLink": "https://books.google.com/books/about/On_the_Education_of_the_People_of_India.html?hl=&id=CfIYeoCOgbgC"
+			},
+			"saleInfo": {
+				"country": "IN",
+				"saleability": "NOT_FOR_SALE",
+				"isEbook": false
+			},
+			"accessInfo": {
+				"country": "IN",
+				"viewability": "PARTIAL",
+				"embeddable": true,
+				"publicDomain": false,
+				"textToSpeechPermission": "ALLOWED",
+				"epub": {
+					"isAvailable": false
+				},
+				"pdf": {
+					"isAvailable": true,
+					"acsTokenLink": "http://books.google.co.in/books/download/On_the_Education_of_the_People_of_India-sample-pdf.acsm?id=CfIYeoCOgbgC&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+				},
+				"webReaderLink": "http://play.google.com/books/reader?id=CfIYeoCOgbgC&hl=&source=gbs_api",
+				"accessViewStatus": "SAMPLE",
+				"quoteSharingAllowed": false
+			},
+			"searchInfo": {
+				"textSnippet": "A key Anglicist text in the educational debates of colonial India, arguing for a Western curriculum and English-language instruction."
+			}
+		}
+	]
+}
